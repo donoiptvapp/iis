@@ -1,0 +1,2081 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/H7De2Q" group-title="BBB18",BBB18
+http://stream.bplaymove.com:8080/vbbb2017/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/o7nmCS" group-title="TV ABERTA",GLOBO HD
+http://stream.bplaymove.com:8080/aglobohd2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FLwRkD" group-title="TV ABERTA",RECORD
+http://stream.bplaymove.com:8080/arecord/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/yuUvs5" group-title="TV ABERTA",BAND HD
+http://stream.bplaymove.com:8080/abandhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/2FgwHa" group-title="TV ABERTA",REDE TV HD
+http://stream.bplaymove.com:8080/aredetvhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/qFrs3U" group-title="TV ABERTA",SBT
+http://stream.bplaymove.com:80/asbt/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", TV CULTURA
+http://177.73.84.49/hls/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", TV FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", REDE VIDA
+rtmp://rtmp.cdn.upx.net.br:80/74cc/myStream.sdp?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", TV APARECIDA
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", CANCAO NOVA
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/DyctLk" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://stream.bplaymove.com:8080/danimalplanethd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/uRmi9b" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://stream.bplaymove.com:8080/ddiscoverychannelhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VYHap4" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
+http://stream.bplaymove.com:8080/dhistoryhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/C1dfGi" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+http://stream.bplaymove.com:80/dnatgeo/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/U8ohoz" group-title="VARIEDADES",COMEDY CENTRAL
+http://stream.bplaymove.com:80/fcomedycentral/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7mt1mQ" group-title="VARIEDADES",MTV HD
+http://stream.bplaymove.com:80/vmtvhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/f2WvTu" group-title="VARIEDADES",MULTISHOW HD
+http://stream.bplaymove.com:8080/vmultishowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/XRMzoz" group-title="VARIEDADES",VIVA
+http://stream.bplaymove.com/vvivahd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/n2qmMR" group-title="NOTICIAS",BAND NEWS
+http://stream.bplaymove.com:80/nbandnews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/LUQqJx" group-title="NOTICIAS",RECORD NEWS
+http://stream.bplaymove.com:8080/nrecordnews/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VoF6bQ" group-title="ESPORTES",SPORTV SD
+http://stream.bplaymove.com:80/esportv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VoF6bQ" group-title="ESPORTES",SPORTV HD
+http://stream.bplaymove.com:80/esportvhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SPORTV 2 SD
+http://stream.bplaymove.com:80/esportv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SPORTV 2 HD
+http://stream.bplaymove.com:80/esportv2hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SPORTV 3 SD
+http://stream.bplaymove.com:80/esportv3/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SPORTV 3 HD
+http://stream.bplaymove.com:80/esportv3hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", COMBATE SD
+http://stream.bplaymove.com:80/pcombate/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", COMBATE HD
+http://stream.bplaymove.com:80/pcombatehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8r7jjJ" group-title="ESPORTES",BAND SPORTS HD
+http://stream.bplaymove.com:8080/ebandsporthd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Y1gRkH" group-title="ESPORTES",ESPN SD
+http://stream.bplaymove.com:8080/eespn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Y1gRkH" group-title="ESPORTES",ESPN HD
+http://stream.bplaymove.com:8080/eespnhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/p2TbZk" group-title="ESPORTES",FOX SPORTS
+http://stream.bplaymove.com:8080/efoxsporthd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", FOX SPORTS 2
+http://stream.bplaymove.com:80/efoxsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Trx5r9" group-title="ESPORTES",ESPORTE INTERATIVO SD
+http://stream.bplaymove.com:8080/eesporteinterativo/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Trx5r9" group-title="ESPORTES",ESPORTE INTERATIVO HD
+http://stream.bplaymove.com:8080/eesporteinterativohd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GS36tJ" group-title="ESPORTES",FISH TV
+http://stream.bplaymove.com:80/dfishtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/j5bjv1" group-title="ESPORTES",PREMIERE CLUBES
+http://stream.bplaymove.com:80/ppremiereclubs/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KAqm8K" group-title="INFANTIL",BOOMERANG
+http://stream.bplaymove.com:80/iboomerang/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/oGV611" group-title="INFANTIL",DISNEY CHANNEL HD
+http://stream.bplaymove.com:56987/idisneychannelhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/NikZKK" group-title="INFANTIL",NICK JR HD
+http://stream.bplaymove.com:8080/inickjrhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/9V9bRS" group-title="INFANTIL",GLOOB HD
+http://stream.bplaymove.com:80/igloobhd/video.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Z26iAM" group-title="FILMES E SERIES",CINEMAX HD
+http://stream.bplaymove.com:80/fcinemaxhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/RzPvbv" group-title="FILMES E SERIES",HBO HD
+http://stream.bplaymove.com:8080/fhbohd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/TdrDK5" group-title="FILMES E SERIES",MAX UP
+http://stream.bplaymove.com:80/fmaxuphd/video.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wSJLHv" group-title="FILMES E SERIES",MEGAPIX HD
+http://stream.bplaymove.com:8080/fmegapixhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/7mzpMG" group-title="FILMES E SERIES",TELECINE PREMIUM HD
+http://stream.bplaymove.com:45127/ftcpremiumhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/kf9K8b" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://stream.bplaymove.com:8080/funiversalhd/index.m3u8
+
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://i65.tinypic.com/16lxxg2.jpg" pltv-name="NtTV" pltv-description="Lista IPTV" pltv-cover="http://i65.tinypic.com/16lxxg2.jpg" pltv-author="NtTV" pltv-site="" pltv-email="" pltv-phone=""
+
+################################################################################# Informação da Lista
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://credituniongeek.com/wp-content/uploads/2014/06/Software-Update.png" group-title="NtTV", Atualizado 16/03/2018 ás 16:00 hrs
+https://www.youtube.com/c/NTutoriais  
+
+###########So ###################################################################### BBB 18
+
+#EXTINF:-1 tvg-id="BBB 18" tvg-logo="https://confiramais.com.br/wp-content/uploads/2018/01/paredao-bbb18-enquete-560x300.jpg" group-title="BBB 18",Camera 1Zd
+
+
+#EXTINF:-1 tvg-id="BBB 18" tvg-logo="https://confiramais.com.br/wp-content/uploads/2018/01/paredao-bbb18-enquete-560x300.jpg" group-title="BBB 18",BBB 18
+http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8?
+
+################################################################################# TV Aberta
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="TV Aberta",Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="TV Aberta",Agro Canal
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/amazonsat.png" group-title="TV Aberta",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-logo="http://s6.postimg.org/ttsxgsc1t/band.png" group-title="TV Aberta",Band
+http://bit.ly/Banddd
+
+#EXTINF:-1 tvg-id="Canal do Boi [Brazil]" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="TV Aberta",Canal do Boi
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VBcEqPw.png" group-title="TV Aberta",Conexão BR
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?
+
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" tvg-logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png" group-title="TV Aberta", CANÇÃO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-name="CANÇÃO NOVA" tvg-logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png" group-title="TV Aberta", CANÇÃO NOVA HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Canal Rural" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV Aberta",Canal Rural
+http://hls-live.crur.al:80/hlshigh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/2IqYTN4.png" group-title="TV Aberta",Canal Saúde RS
+http://shflash.directradios.com:1935/furgtv/stream/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="Globo HD" tvg-logo="https://goo.gl/wA6taE" group-title="TV Aberta",Globo MG
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wA6taE" group-title="TV Aberta",Globo RJ
+
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="https://goo.gl/wA6taE" group-title="TV Aberta",Globo SP
+http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-logo="https://goo.gl/wA6taE" group-title="TV Aberta",Globo Nordeste
+
+
+#EXTINF:-1 tvg-id="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="TV Aberta",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/c6rieq3ch/Novo_Canal.png" group-title="TV Aberta",Novo Canal
+http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8?
+
+#EXTINF:-1 tvg-logo="http://novotempo.com/revista/files/2015/04/Logo_2015_-_TV_Novo_Tempo.png" group-title="TV Aberta",Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xyCaq6" group-title="TV Aberta", Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/chunklist_w712068166.m3u8
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil SP
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil DE
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="TV Aberta",Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/eKWR7O8.jpg" group-title="TV Aberta",Rede Minas
+https://slbps-sambatech.akamaized.net/live/3282%2C8114%2C55fc7b7ab0e3b2fd3980c4d90319877b%3Bbase64np%3BAYEe28kt06f4KCE%21/amlst%3AAYHmxtRm1qbiaK5X/chunklist_b1069056_DVR.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zSjhqKy.png" group-title="TV Aberta",RCTV
+http://v3.ciclano.io:1935/rctv/rctv.smil/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record
+
+
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record HD
+http://bit.ly/Recordd
+
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record Internacional
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VFBG7a" group-title="TV Aberta", Record News
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:-1 tvg-id="REDE SÉCULO 21" tvg-name="REDE SÉCULO 21" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Rede_S%C3%A9culo_21.jpg" group-title="TV Aberta", REDE SÉCULO 21
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-id="REDE SUPER" tvg-name="REDE SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="TV Aberta", REDE SUPER
+http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV HD
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w165985834.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV 1
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1975392926.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/3tvzvs" group-title="TV Aberta", Rede Vida
+rtmp://rtmp.cdn.upx.net.br:80/74cc/myStream.sdp?
+
+#EXTINF:-1 tvg-id="Rede Vida HD" tvg-name="Rede Vida HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a0d63881986e2d53734fb0660594b420.png" group-title="TV Aberta",Rede Vida HD
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/chunklist_w1478827891.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/N3mi3T" group-title="TV Aberta", Rit
+http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT SP
+https://gbbrslbps-sambatech.akamaized.net/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT SP HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/gn5RJE" group-title="TV Aberta", SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w133088733.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lut.im/MvnOLjCVSP/2SBtbgPvc2D0okYj.png" group-title="TV Aberta",SEC TV
+http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="TV Aberta",Sesc TV HD
+http://api.new.livestream.com:80/accounts/16991778/events/6670101/live.m3u8
+
+#EXTINF:-1 tvg-id="Terra Viva" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV Aberta",Terra Viva
+http://evcv.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?
+
+TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7a28d15a24572385ae9b19bd57e69372.jpg" group-title="TV Aberta",TV Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w1431504734.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/eJPnTJ" group-title="TV Aberta", TV Aparecida HD
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w512747337.m3u8
+
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7a28d15a24572385ae9b19bd57e69372.jpg" group-title="TV Aberta",TV Aparecida 2
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1970608443.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/M2N7X4V.png" group-title="TV Aberta",TV Aberta SP
+http://inaclive.tv.br:1935/tvabertalive/tvabertalive/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="TV Brasil [Brazil]" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="TV Aberta",TV Brasil
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-id="TV Câmara [Brazil]" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="TV Aberta",TV Câmara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WQqKwp" group-title="TV Aberta", TV Cultura HD
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist_w313534657.m3u8?
+
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura BA
+http://wz-brasil1.comets.com.br:1935/tvbaiana/aovivo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV Diário HD" tvg-name="TV Diário HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="TV Aberta",TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV Escola [Brazil]" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="TV Aberta",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/chunklist.m3u8?
+
+#EXTINF:-1 tvg-id="TV Escola [Brazil]" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="TV Aberta",TV Escola HD
+http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="TV Aberta",TVE BA HD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?
+
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="TV Aberta",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV Aberta",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/2h7eZY" group-title="TV Aberta", TV Futura HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Futura" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura RJ HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="Futura" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura PR
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1787465552.m3u8?
+
+#EXTINF:-1 tvg-id="TV Gazeta [Brazil]" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="TV Aberta",TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="TV Aberta",TV INES HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/U5GKOZQ.jpg" group-title="TV Aberta",TVU Recife
+http://150.161.93.173/hls/720/index.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV Aberta",TV Maceió
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/6m5zb5e7p/TV_Medicina_Sa_de.png" group-title="TV Aberta",TV Medicina & Saúde
+http://rtmp.cdn.upx.net.br:1935/7dcb/myStream.sdp/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZWgiH4d.png" group-title="TV Aberta",TV Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/3oe7k3gif/bg_rodape_logo_tv_ufg.png" group-title="TV Aberta",UFG TV
+http://wowza.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/GSJed2X.png" group-title="TV Aberta",TV Urbana
+http://srv9.zoeweb.tv:1935/zw923/stream/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-logo="http://s24.postimg.org/3mh5iwvph/TVT.png" group-title="TV Aberta",TVT
+http://wse8.player.tv.br:1935/aovivotvt/aovivotvt/playlist.m3u8?
+
+
+################################################################################# Esportes
+
+#EXTINF:-1 tvg-id="" tvg-name=" ALL SPORTS HD" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2016/03/all-sports.jpg" group-title="Esportes", ALL SPORTS HD
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?
+
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND SPORTS" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/13-band_sports.png" group-title="Esportes",BAND SPORTS
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?BandSports
+
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="http://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate
+
+
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/47-EI_Maxx.png" group-title="Esportes",EI MAXX
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?EiMax
+
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/47-EI_Maxx.png" group-title="Esportes",EI MAXX HD
+
+
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/48-EI_Maxx_2.png" group-title="Esportes",EI MAXX 2
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?EiMax2
+
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/48-EI_Maxx_2.png" group-title="Esportes",EI MAXX 2 HD
+
+
+#EXTINF:-1 tvg-id="Esporte Interativo [Brazil]" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/57-Esporte%20Interativo.png" group-title="Esportes",ESPORTE INTERATIVO
+
+
+#EXTINF:-1 tvg-id="Esporte Interativo [Brazil]" tvg-name="ESPORTE INTERATIVO" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/57-Esporte%20Interativo.png" group-title="Esportes",ESPORTE INTERATIVO HD
+
+
+#EXTINF:-1 tvg-id="Esporte Interativo [Brazil]" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/57-Esporte%20Interativo.png" group-title="Esportes",ESPORTE INTERATIVO BR HD
+
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/52-ESPN%20Brasil.png" group-title="Esportes",ESPN BRASIL
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?EspnBR
+
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN BRASIL HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/52-ESPN%20Brasil.png" group-title="Esportes",ESPN BRASIL HD
+
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/51-ESPN.png" group-title="Esportes",ESPN
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?Espn
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/54-ESPN_HD.png" group-title="Esportes",ESPN HD
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/55-ESPN%20%2B%20HD.png" group-title="Esportes",ESPN+
+
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN+  HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/55-ESPN%20%2B%20HD.png" group-title="Esportes",ESPN+  HD
+
+
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX SPORTS" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/67fox_sports_global.png" group-title="Esportes",FOX SPORTS
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?FoxSports
+
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX SPORTS HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/70-fox_sports_global_hd.png" group-title="Esportes",FOX SPORTS HD
+
+
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX SPORTS 2" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/68-Fox%20Sports%202.png" group-title="Esportes",FOX SPORTS 2
+
+
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/69-Fox%20Sports%202%20HD.png" group-title="Esportes",FOX SPORTS 2 HD 
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.anuncioz.com.br/img/anuncios/0c21234137447a367ed8a11ae60d322b.png" group-title="Esportes",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://www.kooora.com/images/amir_ganjvar/sportstv_amir/realtv.jpg" group-title="Esportes",Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Esportes",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png" group-title="Esportes",Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SPORTV" tvg-logo="https://goo.gl/QAEpgx" group-title="Esportes",SPORTV
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?Sportv
+
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SPORTV HD" tvg-logo="https://goo.gl/QAEpgx" group-title="Esportes",SPORTV HD
+
+
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2" tvg-logo="https://goo.gl/TH1oBB" group-title="Esportes",SPORTV 2
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?Sportv2
+
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="https://goo.gl/TH1oBB" group-title="Esportes",SPORTV 2 HD
+
+
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SPORTV 3" tvg-logo="https://goo.gl/tsyebc" group-title="Esportes",SPORTV 3
+
+
+#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="https://goo.gl/tsyebc" group-title="Esportes",SPORTV 3 HD
+
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="http://1.bp.blogspot.com/-96fE8IzXmno/TfkoNYqiaII/AAAAAAAAAl4/06RPBVD-hXI/s200/canal-premiereFc.jpg" group-title="Esportes",PREMIERE CLUBES 
+
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES" tvg-logo="http://1.bp.blogspot.com/-96fE8IzXmno/TfkoNYqiaII/AAAAAAAAAl4/06RPBVD-hXI/s200/canal-premiereFc.jpg" group-title="Esportes",PREMIERE CLUBES HD
+
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="PREMIERE 2" tvg-logo="http://1.bp.blogspot.com/-96fE8IzXmno/TfkoNYqiaII/AAAAAAAAAl4/06RPBVD-hXI/s200/canal-premiereFc.jpg" group-title="Esportes",PREMIERE 2
+
+
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="PREMIERE 3" tvg-logo="http://1.bp.blogspot.com/-96fE8IzXmno/TfkoNYqiaII/AAAAAAAAAl4/06RPBVD-hXI/s200/canal-premiereFc.jpg" group-title="Esportes",PREMIERE 3
+
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PREMIERE 4" tvg-logo="http://1.bp.blogspot.com/-96fE8IzXmno/TfkoNYqiaII/AAAAAAAAAl4/06RPBVD-hXI/s200/canal-premiereFc.jpg" group-title="Esportes",PREMIERE 4
+
+
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PREMIERE 5" tvg-logo="http://1.bp.blogspot.com/-96fE8IzXmno/TfkoNYqiaII/AAAAAAAAAl4/06RPBVD-hXI/s200/canal-premiereFc.jpg" group-title="Esportes",PREMIERE 5
+
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="PREMIERE 6" tvg-logo="http://1.bp.blogspot.com/-96fE8IzXmno/TfkoNYqiaII/AAAAAAAAAl4/06RPBVD-hXI/s200/canal-premiereFc.jpg" group-title="Esportes",PREMIERE 6
+
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="PREMIERE 7" tvg-logo="http://1.bp.blogspot.com/-96fE8IzXmno/TfkoNYqiaII/AAAAAAAAAl4/06RPBVD-hXI/s200/canal-premiereFc.jpg" group-title="Esportes",PREMIERE 7
+
+
+#EXTINF:-1 tvg-id="PREMIERE 8" tvg-name="PREMIERE 8" tvg-logo="http://1.bp.blogspot.com/-96fE8IzXmno/TfkoNYqiaII/AAAAAAAAAl4/06RPBVD-hXI/s200/canal-premiereFc.jpg" group-title="Esportes",PREMIERE 8
+
+
+#EXTINF:-1 tvg-id="PREMIERE 9" tvg-name="PREMIERE 9" tvg-logo="http://1.bp.blogspot.com/-96fE8IzXmno/TfkoNYqiaII/AAAAAAAAAl4/06RPBVD-hXI/s200/canal-premiereFc.jpg" group-title="Esportes",PREMIERE 9
+
+
+
+
+################################################################################# Futebol Ao Vivo
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo 
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?
+
+
+################################################################################# FILMES
+
+#EXTINF:-1 tvg-logo="https://goo.gl/iLEJD3" group-title="FILMES", A&E
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ZJFZgk" group-title="FILMES", AMC
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/4pROafv.png" group-title="FILMES",Cine+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/lh3.googleusercontent.com/-0mLyd4q1hjU/AAAAAAAAAAI/AAAAAAAAAEA/MCxsoE5wock/s265-c-k-no/photo.jpg" group-title="FILMES", CINE FILMES 2
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s27.postimg.org/pbjq3nomr/Cine_Sky.png" group-title="FILMES", Cine Filmes 3
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s27.postimg.org/pbjq3nomr/Cine_Sky.png" group-title="FILMES", Cine Filmes 4
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Bttz8n" group-title="FILMES", Cinemax
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="FILMES",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES",Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/images.comunidades.net/tim/timedownloands/filmes.png" group-title="FILMES", FILMES 24H
+http://BelcocanaisHdPremium@stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://s32.postimg.org/7y1thriph/Fox.png" group-title="FILMES",Fox
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GMpTPG" group-title="FILMES", Fox Life
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/9JwJJ1" group-title="FILMES", Fox Premium 1
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/fSBpNv" group-title="FILMES", Fox Premium 2
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/q1tMQt" group-title="FILMES", FX
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/tXmhEQ" group-title="FILMES", HBO
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/MyuWDf" group-title="FILMES", HBO 2
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/GPajb1" group-title="FILMES", HBO Family
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Bsv1Mt" group-title="FILMES", HBO Plus
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VsfwU7" group-title="FILMES", HBO Signature
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/r25mmG" group-title="FILMES", Lifetime
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/92K1gh" group-title="FILMES", Max
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/ZSftfh" group-title="FILMES", Max Prime
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/s4ui7p" group-title="FILMES", Max UP
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/M1meJj" group-title="FILMES", Megapix
+
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/UbiHtL" group-title="FILMES", Paramount Channel
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KXgxeW" group-title="FILMES", Sony
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/yyqAbx" group-title="FILMES", Space
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/BT21L7" group-title="FILMES", Studio Universal
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EFM7Lb" group-title="FILMES", SyFy
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Cn62eU" group-title="FILMES", Telecine Action
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ogY5KL" group-title="FILMES", Telecine Cult
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/RMHUX7" group-title="FILMES", Telecine Fun
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b18uE8" group-title="FILMES", Telecine Premium
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/XngFPr" group-title="FILMES", Telecine Touch
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Qwo335" group-title="FILMES", TCM
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/CdzYLW" group-title="FILMES", TNT
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VDFSbQ" group-title="FILMES", TNT Series
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5LR9ra" group-title="FILMES", Tru TV
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/k1WhdQ" group-title="FILMES", TV na Ilha
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/dzTt2s" group-title="FILMES", Universal Channel
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/BbHuNy" group-title="FILMES", Warner Channel
+
+
+
+
+################################################################################# INFANTIL
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/FZJkzC" group-title="INFANTIL", Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/k8AQtu" group-title="INFANTIL", Baby TV
+
+
+#EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="BOOMERANG" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/18-Boomerang.png" group-title="INFANTIL",BOOMERANG
+
+ 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/S5PsDDR.png" group-title="INFANTIL", Cartoon Network
+
+ 
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/05/dc_lgo_e_cyn_cmyk__140522200418-275x138.jpg" group-title="INFANTIL", DISNEY Channel
+
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://goo.gl/NrRWqH" group-title="INFANTIL",Discovery Kids
+
+ 
+#EXTINF:-1 tvg-id="Disney Junior [Brazil]" tvg-name="DISNEY JÚNIOR" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/44-disney_junior_us.png" group-title="INFANTIL",DISNEY JUNIOR
+http://leaderpro.com.br:25461/live/michael1/michael1/9729.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/lut.im/4F32KnFQFb/nDsYHifKpFOSceBQ.png" group-title="INFANTIL", DISNEY XD
+
+
+#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-name="GLOOB" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/80-Gloob.png" group-title="INFANTIL",GLOOB
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/QyF8jk" group-title="INFANTIL", Gloobinho
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/1SBJ3g" group-title="INFANTIL", Gospel Cartoon
+ 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xqJ47w" group-title="INFANTIL", Nat Geo Kids
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/e7rgp8w3t/nick.png" group-title="INFANTIL", Nickelodeon 
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.animationmagazine.net/wordpress/wp-content/uploads/nick-jr-1501.jpg" group-title="INFANTIL", Nick JR
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/iKtfHN" group-title="INFANTIL", Retrô Cartoon
+
+ 
+#EXTINF:-1 tvg-id="Tooncast [Brazil]" tvg-name="TOONCAST" tvg-logo="http://channel-icon.oss-us-west-1.aliyuncs.com/icon/191-tooncast.png" group-title="INFANTIL",TOONCAST
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/zQXwAW" group-title="INFANTIL", TV Ratimbum
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/QyG14T" group-title="INFANTIL", Zoomoo
+
+
+
+################################################################################# Sound!
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 
+http://192.99.150.31:8241/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 
+http://192.99.150.31:8056/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Axé 
+http://192.99.150.31:8305/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Bossa Nova 
+http://6d9a.webradio.upx.net.br:9974/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega 
+http://192.99.150.31:9007/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Eletrônica 
+http://192.99.150.31:9095/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Festa 
+http://6d9a.webradio.upx.net.br:9070/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Forró 
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Funk 
+http://192.99.150.31:9089/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Gospel 
+http://192.99.150.31:9101/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Hip Hop 
+http://192.99.150.31:8721/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",HISTORINHA INFANTIL 
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Jazz 
+http://192.99.150.31:8042/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Kids 
+http://192.99.150.31:9431/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Lounge 
+http://6d9a.webradio.upx.net.br:9064/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Metal 
+http://6d9a.webradio.upx.net.br:9898/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MPB 
+http://192.99.150.31:8775/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Música Clássica 
+http://6d9a.webradio.upx.net.br:9970/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",New Rock 
+http://6d9a.webradio.upx.net.br:8028/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pagode 
+http://6d9a.webradio.upx.net.br:9061/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Hits 
+http://6d9a.webradio.upx.net.br:9046/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Rock 
+http://6d9a.webradio.upx.net.br:8016/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rap Nacional 
+http://192.99.150.31:8377/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Reggae 
+http://192.99.150.31:8715/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",ROBERTO CARLOS 
+http://192.99.150.31:9137/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Brasil 
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Clássico 
+http://192.99.150.31:9125/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Românticas 
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo 
+http://192.99.150.31:9485/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo Universitário 
+http://192.99.150.31:9191/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", STUDIO DO AMOR 
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Trilhas Sonoras 
+http://6d9a.webradio.upx.net.br:9896/stream?
+
+
+################################################################################# Variedades e Musicas
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GcbVgv" group-title="Variedades e Musicas", GNT
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac7d3aa2c6875405c9eed3c3bf922d4a.png" group-title="Variedades e Musicas", Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac7d3aa2c6875405c9eed3c3bf922d4a.png" group-title="Variedades e Musicas", Heart TV HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Hit-TV.png" group-title="Variedades e Musicas", Hit TV music
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Hit-TV.png" group-title="Variedades e Musicas", Hit TV music HD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://s14.postimg.org/p7htrc57l/RADIOMONTECARLOTV.png" group-title="Variedades e Musicas", Internacional Music
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/nYcKFH" group-title="Variedades e Musicas", MAIS Globosat
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/220154405/Master_Fundo_Preto.jpg" group-title="Variedades e Musicas", MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.milk-tv.webnode.com/200000000-586765960c/450/WEB.jpg" group-title="Variedades e Musicas", MILK TV
+http://45.43.208.98:1935/jtvmilk/jtvmilk/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/06/mix-tv-logo.png" group-title="Variedades e Musicas", Mix TV
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/935183506749186049/23DFiWiH_400x400.jpg" group-title="Variedades e Musicas", MK MUSIC
+http://wse3.player.tv.br:1935/paraibahost/paraibahost/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="Variedades e Musicas", MTV clipes 1
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="Variedades e Musicas", MTV clipes 2
+http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/uS5SnG" group-title="Variedades e Musicas", MultiShow
+
+
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/drgs43g4g34gd43f.png" group-title="Variedades e Musicas", Music Box Gold
+http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" group-title="Variedades e Musicas", Portla FoxMix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w1496592366.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/abaaca_a28903e152894bc088b76979fbf456d9~mv2.png/v1/fill/w_402,h_186,al_c,lg_1/abaaca_a28903e152894bc088b76979fbf456d9~mv2.png" group-title="Variedades e Musicas", Rede New 
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/cz/RETRO.png" group-title="Variedades e Musicas", Retro Music TV 
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="Top Tv" tvg-name="Top Tv" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2a5ebc5035219e29f0b474691d0b1041.png" group-title="Variedades e Musicas",Top Tv
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-K5tOiW82NUc/AAAAAAAAAAI/AAAAAAAAAAA/s4AFYtN-8qE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Variedades e Musicas", TVE Boa Esperança 
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://files.milk-tv.webnode.com/200000000-586765960c/200/WEB.jpg" group-title="Variedades e Musicas", TV Milk 
+http://stmv1.srvstm.com:1935/jtvmilk/jtvmilk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvpantanalms.com.br/images/logo_menor.png" group-title="Variedades e Musicas", TV Pantanal 
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh5.ggpht.com/iwXugzecZtgK21nyElvbkl_5R4RIDAw7dgfRlKJDBZgK14dbRnhkcCnIOJpMF1eoqQ=w300" group-title="Variedades e Musicas", Vem Vê TV
+http://srv-vvtv3.sisdera.com.br:1935/live/vvtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/otUREx" group-title="Variedades e Musicas", VIVA
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/otUREx" group-title="Variedades e Musicas", VIVA HD
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/UzBGnb" group-title="Variedades e Musicas", Woohoo
+
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://goo.gl/UVcpKD" pltv-name="KBR TV" pltv-description=CANAIS para PlaylisTV/IPTV" pltv-cover="https://goo.gl/dyQdNk" pltv-author="ALEX" pltv-phone=" Aproveitem a lista Boa diversão.
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KAkSEy" group-title="PAGINA FACEBOOK", fb.me/kbrplay
+https://dropapk.com/vidembed-2bpqzsf1w37l.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/H7De2Q" group-title="BBB18",BBB18
+http://stream.bplaymove.com:8080/vbbb2017/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/o7nmCS" group-title="TV ABERTA",GLOBO
+http://stream.bplaymove.com:8080/aglobohd2/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/FLwRkD" group-title="TV ABERTA",RECORD
+http://stream.bplaymove.com:8080/arecord/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/yuUvs5" group-title="TV ABERTA",BAND
+http://stream.bplaymove.com:8080/abandhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/2FgwHa" group-title="TV ABERTA",REDE TV
+http://stream.bplaymove.com:8080/aredetvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/qFrs3U" group-title="TV ABERTA",SBT
+http://stream.bplaymove.com:80/asbt/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/mgEgcc" group-title="TV ABERTA",CANAL RURAL
+http://stream.bplaymove.com:8080/acanalrural/mpegts
+#EXTINF:-1 tvg-logo="https://goo.gl/6Te1Th" group-title="TV ABERTA",FUTURA
+http://stream.bplaymove.com:8080/afutura/mpegts
+#EXTINF:-1 tvg-logo="https://goo.gl/zRFgSE" group-title="TV ABERTA",NBR
+http://stream.bplaymove.com:8080/anbr/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/rd6k7K" group-title="TV ABERTA",REDE BRASIL
+http://stream.bplaymove.com:8080/aredebrasil/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/drPnxE" group-title="TV ABERTA",TERRA VIVA
+http://stream.bplaymove.com:8080/aterraviva/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/DyNock" group-title="TV ABERTA",TV BRASIL
+http://stream.bplaymove.com:8080/atvbrasil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/DyctLk" group-title="DOCUMENTARIOS",ANIMAL PLANET
+http://stream.bplaymove.com:8080/danimalplanethd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/uRmi9b" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+http://stream.bplaymove.com:8080/ddiscoverychannelhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/VYHap4" group-title="DOCUMENTARIOS",HISTORY CHANNEL
+http://stream.bplaymove.com:8080/dhistoryhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/C1dfGi" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+http://stream.bplaymove.com:80/dnatgeo/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/6pQ4uy" group-title="DOCUMENTARIOS",ARTE 1
+http://stream.bplaymove.com:80/varte1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/U8ohoz" group-title="VARIEDADES",COMEDY CENTRAL
+http://stream.bplaymove.com:80/fcomedycentral/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/7mt1mQ" group-title="VARIEDADES",MTV
+http://stream.bplaymove.com:80/vmtvhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/f2WvTu" group-title="VARIEDADES",MULTISHOW
+http://stream.bplaymove.com:8080/vmultishowhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/XRMzoz" group-title="VARIEDADES",VIVA
+http://stream.bplaymove.com/vvivahd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Jdg8L8" group-title="VARIEDADES",CURTA
+http://stream.bplaymove.com:8080/vcurta/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Yq8PHG" group-title="VARIEDADES",FOOD NETWORK
+http://stream.bplaymove.com:8080/dfoodhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/T5XGMY" group-title="VARIEDADES",TRU TV
+http://stream.bplaymove.com:80/dtrutv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GDYcnP" group-title="RELIGIOSOS",CANCAO NOVA
+http://stream.bplaymove.com:8080/rcancaonova/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/A6dD5r" group-title="RELIGIOSOS",IDEAL TV
+http://stream.bplaymove.com:8080/ridealtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/yLhLgL" group-title="RELIGIOSOS",RBI
+http://stream.bplaymove.com:8080/rrbi/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/ENJW1P" group-title="RELIGIOSOS",REDE VIDA
+http://stream.bplaymove.com:8080/rredevida/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/rpd3Bt" group-title="RELIGIOSOS",TV APARECIDA
+http://stream.bplaymove.com:8080/rtvaparecida/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/n2qmMR" group-title="NOTICIAS",BAND NEWS
+http://stream.bplaymove.com:80/nbandnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/LUQqJx" group-title="NOTICIAS",RECORD NEWS
+http://stream.bplaymove.com:8080/nrecordnews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8r7jjJ" group-title="ESPORTES",BAND SPORTS
+http://stream.bplaymove.com:8080/ebandsporthd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Y1gRkH" group-title="ESPORTES",ESPN
+http://stream.bplaymove.com:8080/eespnhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/Trx5r9" group-title="ESPORTES",ESPORTE INTERATIVO
+http://stream.bplaymove.com:8080/eesporteinterativohd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/GS36tJ" group-title="ESPORTES",FISH TV
+http://stream.bplaymove.com:80/dfishtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/p2TbZk" group-title="ESPORTES",FOX SPORTS
+http://stream.bplaymove.com:8080/efoxsporthd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/j5bjv1" group-title="ESPORTES",PREMIERE CLUBES
+http://stream.bplaymove.com:80/ppremiereclubs/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/VoF6bQ" group-title="ESPORTES",SPORTV
+http://stream.bplaymove.com:80/esportv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KAqm8K" group-title="INFANTIL",BOOMERANG
+http://stream.bplaymove.com:80/iboomerang/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/oGV611" group-title="INFANTIL",DISNEY CHANNEL
+http://stream.bplaymove.com:56987/idisneychannelhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/NikZKK" group-title="INFANTIL",NICK JR
+http://stream.bplaymove.com:8080/inickjrhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/9V9bRS" group-title="INFANTIL",GLOOB
+http://stream.bplaymove.com:80/igloobhd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Z26iAM" group-title="FILMES E SERIES",CINEMAX
+http://stream.bplaymove.com:80/fcinemaxhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/RzPvbv" group-title="FILMES E SERIES",HBO
+http://stream.bplaymove.com:8080/fhbohd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/TdrDK5" group-title="FILMES E SERIES",MAX UP
+http://stream.bplaymove.com:80/fmaxuphd/video.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wSJLHv" group-title="FILMES E SERIES",MEGAPIX
+http://stream.bplaymove.com:8080/fmegapixhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/7mzpMG" group-title="FILMES E SERIES",TELECINE PREMIUM
+http://stream.bplaymove.com:45127/ftcpremiumhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/kf9K8b" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
+http://stream.bplaymove.com:8080/funiversalhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",MUSICAS
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Anos 70 
+http://192.99.150.31:8241/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Anos 80 
+http://192.99.150.31:8697/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Anos 90 
+http://192.99.150.31:8056/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Axé 
+http://192.99.150.31:8305/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Bossa Nova 
+http://6d9a.webradio.upx.net.br:9974/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Brega 
+http://192.99.150.31:9007/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Eletrônica 
+http://192.99.150.31:9095/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Festa 
+http://6d9a.webradio.upx.net.br:9070/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Forró 
+http://192.99.150.31:9019/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Funk 
+http://192.99.150.31:9089/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Gospel 
+http://192.99.150.31:9101/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Hip Hop 
+http://192.99.150.31:8721/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Historinha Infantil
+http://192.99.150.31:8371/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Jazz 
+http://192.99.150.31:8042/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Kids 
+http://192.99.150.31:9431/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Lounge 
+http://6d9a.webradio.upx.net.br:9064/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Metal 
+http://6d9a.webradio.upx.net.br:9898/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",MPB 
+http://192.99.150.31:8775/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Música Clássica 
+http://6d9a.webradio.upx.net.br:9970/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",New Rock 
+http://6d9a.webradio.upx.net.br:8028/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Pagode 
+http://6d9a.webradio.upx.net.br:9061/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Pop Hits 
+http://6d9a.webradio.upx.net.br:9046/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Pop Rock 
+http://6d9a.webradio.upx.net.br:8016/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Rap Nacional 
+http://192.99.150.31:8377/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Reggae 
+http://192.99.150.31:8715/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",ROBERTO CARLOS 
+http://192.99.150.31:9137/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Rock Clássico 
+http://192.99.150.31:9125/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Românticas 
+http://192.99.150.31:8962/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Sertanejo 
+http://192.99.150.31:9485/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Sertanejo Universitário 
+http://192.99.150.31:9191/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS", STUDIO DO AMOR 
+http://192.99.150.31:8962/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/s4Mymq" group-title="WEB RADIOS",Trilhas Sonoras 
+http://6d9a.webradio.upx.net.br:9896/stream?
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iQ3dEVB.png" group-title="INFORMAÇÕES DA LISTA", COMPUJOR MIDIA Atualizada 23/03/2018 ás 04:16
+
+http://0.0.0.0
+#EXTINF:1 tvg-logo="https://i.imgur.com/OjbPRdl.jpg" group-title="INFORMAÇÕES DA LISTA", ME AJUDE CURTI A PAGINA NO FACEBOOK COMPUJOR MTZ? SÓ CHAMAR NO WHATSAPP 31 99476081
+http://0.0.0.0 
+#EXTINF:-1 tvg-logo=http://i.imgur.com/6ecHKbb.png" group-title="INFORMAÇÕES DA LISTA", 31 999476081 - WhatsApp  
+61 999645646
+#EXTINF:-1 tvg-logo=http://i.imgur.com/pSxxdC7.png" group-title="INFORMAÇÕES DA LISTA", fb.com/compujorinformatica - Curta no Facebook 
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/6ecHKbb.png" group-title="INFORMAÇÕES DA LISTA", Mande Sua Sugestao no WhatsApp 
+31 999476081
+
+###############################CANAIS TOP COMPUJOR ###############################
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="BBB2018" tvg-name="BBB 18 FHD" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB 18 FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13549.ts
+#EXTINF:-1 tvg-id="BBB2018" tvg-name="BBB 18 HD" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB 18 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12664.ts
+#EXTINF:-1 tvg-id="BBB2018" tvg-name="BBB 18 HD +" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB 18 HD +
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13763.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 18" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB 18
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12996.ts
+#EXTINF:-1 tvg-id="BBB2018" tvg-name="BBB 18 Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB 18 Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13533.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB Academia" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Academia
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13545.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB Camera Espiã" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Camera Espiã
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13544.ts
+#EXTINF:-1 tvg-id="BBB2018" tvg-name="BBB Chuveiro" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Chuveiro
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13543.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB Confessionario" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Confessionario
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13542.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Cozinha
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13541.ts
+#EXTINF:-1 tvg-id="BBB2018" tvg-name="BBB Mosaico" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Mosaico
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13547.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Piscina
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13546.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB Principal" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Principal
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13540.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Submarino" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Quarto Submarino
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13539.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Tropical" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Quarto Tropical
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13538.ts
+#EXTINF:-1 tvg-id="BBB2018" tvg-name="BBB Sala de Estar" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Sala de Estar
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13537.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB Varanda" tvg-logo="http://prinplay.000webhostapp.com/server/BBB.png" group-title="BBB 18",BBB Varanda
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13536.ts
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12665.ts
+#EXTINF:-1 tvg-id="Globo RJHD" tvg-name="Globo RJ HD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1586.ts
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1752.ts
+#EXTINF:-1 tvg-id="Globo RJHD" tvg-name="Globo RJ Alternativo HD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12991.ts
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8667.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20S%e3o%20Paulo.png" group-title="Canais Globo",Globo SP FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13534.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20S%e3o%20Paulo.png" group-title="Canais Globo",Globo SP HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9456.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20S%e3o%20Paulo.png" group-title="Canais Globo",Globo SP
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/111.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP Alternativo HD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20S%e3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17241.ts
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20S%e3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8664.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG HD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5989.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG HD +" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG HD +
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13762.ts
+#EXTINF:-1 tvg-id="Globo MinasHD" tvg-name="Globo MG" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1653.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo MG Alternativo HD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG Alternativo HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9461.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Minas.png" group-title="Canais Globo",Globo Minas Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/11450.ts
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo Rbs" tvg-logo="http://prinplay.000webhostapp.com/server/RBS%20TV.png" group-title="Canais Globo",Globo Rbs
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1484.ts
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12095.ts
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="Globo RPC Curitiba" tvg-logo="http://prinplay.000webhostapp.com/server/RPC%20TV.png" group-title="Canais Globo",Globo RPC Curitiba
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6554.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17071.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste HD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8485.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6136.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="Globo Nordeste Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia HD" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Bahia.png" group-title="Canais Globo",Globo Bahia HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13799.ts
+#EXTINF:-1 tvg-id="Globo Bahia" tvg-name="Globo Bahia" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Bahia.png" group-title="Canais Globo",Globo Bahia
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8481.ts
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia" tvg-name="Globo TV Anhanguera Goiânia" tvg-logo="https://s3.postimg.org/hcbdph3jn/0bdf6346c2159e3cb952656d7c01ffa0.png" group-title="Canais Globo",Globo TV Anhanguera Goiânia
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/2409.ts
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasília" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Bras%edlia.png" group-title="Canais Globo",Globo Brasília
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1751.ts
+#EXTINF:-1 tvg-id="TV Liberal Belém" tvg-name="Globo TV Liberal Belém" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Liberal.png" group-title="Canais Globo",Globo TV Liberal Belém
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9464.ts
+#EXTINF:-1 tvg-id="Rede Amazônica Manaus" tvg-name="Globo TV Amazonas" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/redeamazonica.png" group-title="Canais Globo",Globo TV Amazonas
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6990.ts
+#EXTINF:-1 tvg-id="GloboREDEAMAZONICAAlt" tvg-name="Globo Rede Amazônica Manaus" tvg-logo="http://infinitytv.xyz/GLOBOREDEAM.png" group-title="Canais Globo",Globo Rede Amazônica Manaus
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/11444.ts
+#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-name="Globo TV Verdes Mares" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Verdes%20Mares.png" group-title="Canais Globo",Globo TV Verdes Mares
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Tribuna.png" group-title="Canais Globo",Globo TV Tribuna
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Vanguarda.png" group-title="Canais Globo",Globo TV Vanguarda
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17509.ts
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="Globo Tv Tem Bauru" tvg-logo="http://infinitytv.xyz/GLOBOTVTEM.png" group-title="Canais Globo",Globo Tv Tem Bauru
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6992.ts
+#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-name="Globo Tv Tem Sorocaba" tvg-logo="http://infinitytv.xyz/GLOBOTVTEM.png" group-title="Canais Globo",Globo Tv Tem Sorocaba
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas" tvg-logo="http://infinitytv.xyz/GloboEPTV.png" group-title="Canais Globo",Globo EPTV Campinas
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6991.ts
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-name="Globo EPTV São Carlos" tvg-logo="http://infinitytv.xyz/GloboEPTV.png" group-title="Canais Globo",Globo EPTV São Carlos
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9459.ts
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="Globo Portugal" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Portugal.png" group-title="Canais Globo",Globo Portugal
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/283.ts
+#EXTINF:-1 tvg-id="Globo Premium" tvg-name="Globo Premium" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Premium.png" group-title="Canais Globo",Globo Premium
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/226.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional USA" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Internacional.png" group-title="Canais Globo",Globo Internacional USA
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8666.ts
+#EXTINF:-1 tvg-id="RecordHD" tvg-name="Record FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Record%20HD.png" group-title="Canais Abertos",Record FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12661.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Minas FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Record%20HD.png" group-title="Canais Abertos",Record Minas FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17187.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Nordeste FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Record%20HD.png" group-title="Canais Abertos",Record Nordeste FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17180.ts
+#EXTINF:-1 tvg-id="RecordHD" tvg-name="Record HD" tvg-logo="http://prinplay.000webhostapp.com/server/Record%20HD.png" group-title="Canais Abertos",Record HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1694.ts
+#EXTINF:-1 tvg-id="RecordHD" tvg-name="Record HD +" tvg-logo="http://prinplay.000webhostapp.com/server/Record%20HD.png" group-title="Canais Abertos",Record HD +
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13765.ts
+#EXTINF:-1 tvg-id="RecordSD" tvg-name="Record" tvg-logo="http://prinplay.000webhostapp.com/server/Record.png" group-title="Canais Abertos",Record
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Nordeste HD" tvg-logo="http://prinplay.000webhostapp.com/server/Record%20HD.png" group-title="Canais Abertos",Record Nordeste HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13551.ts
+#EXTINF:-1 tvg-id="RecordSD" tvg-name="Record Alternativo HD" tvg-logo="http://prinplay.000webhostapp.com/server/Record.png" group-title="Canais Abertos",Record Alternativo HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7045.ts
+#EXTINF:-1 tvg-id="RecordSD" tvg-name="Record Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Record.png" group-title="Canais Abertos",Record Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13532.ts
+#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="Record Portugal" tvg-logo="http://prinplay.000webhostapp.com/server/Record.png" group-title="Canais Abertos",Record Portugal
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/289.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Internacional USA" tvg-logo="http://prinplay.000webhostapp.com/server/Record.png" group-title="Canais Abertos",Record Internacional USA
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9309.ts
+#EXTINF:-1 tvg-id="SBTHD" tvg-name="SBT FHD" tvg-logo="http://prinplay.000webhostapp.com/server/SBT%20HD.png" group-title="Canais Abertos",SBT FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12662.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Minas FHD" tvg-logo="http://prinplay.000webhostapp.com/server/SBT%20HD.png" group-title="Canais Abertos",SBT Minas FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17188.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Nordeste FHD" tvg-logo="http://prinplay.000webhostapp.com/server/SBT%20HD.png" group-title="Canais Abertos",SBT Nordeste FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17178.ts
+#EXTINF:-1 tvg-id="SBTHD" tvg-name="SBT HD" tvg-logo="http://prinplay.000webhostapp.com/server/SBT%20HD.png" group-title="Canais Abertos",SBT HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1961.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD +" tvg-logo="http://prinplay.000webhostapp.com/server/SBT%20HD.png" group-title="Canais Abertos",SBT HD +
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13766.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="Sbt" tvg-logo="http://prinplay.000webhostapp.com/server/SBT.png" group-title="Canais Abertos",Sbt
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/373.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT Nordeste HD" tvg-logo="http://prinplay.000webhostapp.com/server/SBT%20HD.png" group-title="Canais Abertos",SBT Nordeste HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13768.ts
+#EXTINF:-1 tvg-id="SBTHDM" tvg-name="SBT HD Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/SBT%20HD.png" group-title="Canais Abertos",SBT HD Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12886.ts
+#EXTINF:-1 tvg-id="Band" tvg-name="Band FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20HD.png" group-title="Canais Abertos",Band FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7047.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Minas FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20HD.png" group-title="Canais Abertos",Band Minas FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17189.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Nordeste FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20HD.png" group-title="Canais Abertos",Band Nordeste FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17179.ts
+#EXTINF:-1 tvg-id="Band" tvg-name="Band HD" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20HD.png" group-title="Canais Abertos",Band HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1744.ts
+#EXTINF:-1 tvg-id="Band" tvg-name="Band HD +" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20HD.png" group-title="Canais Abertos",Band HD +
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13764.ts
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="http://prinplay.000webhostapp.com/server/Band.png" group-title="Canais Abertos",Band
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/372.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Nordeste HD" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20HD.png" group-title="Canais Abertos",Band Nordeste HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13769.ts
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="Rede TV FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Rede%20TV.png" group-title="Canais Abertos",Rede TV FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7046.ts
+#EXTINF:-1 tvg-id="RedeTVHD" tvg-name="Rede TV HD" tvg-logo="http://prinplay.000webhostapp.com/server/Rede%20TV.png" group-title="Canais Abertos",Rede TV HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1862.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD +" tvg-logo="http://prinplay.000webhostapp.com/server/Rede%20TV.png" group-title="Canais Abertos",Rede TV HD +
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13767.ts
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="Rede Tv" tvg-logo="http://prinplay.000webhostapp.com/server/Rede%20TV.png" group-title="Canais Abertos",Rede Tv
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/297.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Canal%20Brasil.png" group-title="Canais Abertos",Canal Brasil FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13899.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="http://prinplay.000webhostapp.com/server/Canal%20Brasil.png" group-title="Canais Abertos",Canal Brasil HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6542.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://prinplay.000webhostapp.com/server/Canal%20Brasil.png" group-title="Canais Abertos",Canal Brasil
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/237.ts
+#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV Gazeta" tvg-logo="http://prinplay.000webhostapp.com/server/Gazeta.png" group-title="Canais Abertos",TV Gazeta
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1929.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="http://prinplay.000webhostapp.com/server/Rede%20Brasil.png" group-title="Canais Abertos",TV Brasil
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1928.ts
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Escola.png" group-title="Canais Abertos",TV Escola
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12108.ts
+#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV Senado" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Senado.png" group-title="Canais Abertos",TV Senado
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6651.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Câmara" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20C%e2mara.png" group-title="Canais Abertos",TV Câmara
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1783.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="http://prinplay.000webhostapp.com/server/Futura.png" group-title="Canais Abertos",Futura
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6653.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://prinplay.000webhostapp.com/server/NBR.png" group-title="Canais Abertos",NBR
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1843.ts
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="http://prinplay.000webhostapp.com/server/Canal%20do%20Boi.png" group-title="Canais Abertos",Canal do Boi
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/11544.ts
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20News%20HD.png" group-title="Noticias",Globo News FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13802.ts
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News -FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20News%20HD.png" group-title="Noticias",Globo News -FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17043.ts
+#EXTINF:-1 tvg-id="Globo NewsHD" tvg-name="Globo News HD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20News%20HD.png" group-title="Noticias",Globo News HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/4156.ts
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20News.png" group-title="Noticias",Globo News
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/227.ts
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News HD +" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20News%20HD.png" group-title="Noticias",Globo News HD +
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13760.ts
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20News.png" group-title="Noticias",Globo News Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13526.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News -HD" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20News%20HD.png" group-title="Noticias",Globo News -HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13550.ts
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News -Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20News.png" group-title="Noticias",Globo News -Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13527.ts
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20News.png" group-title="Noticias",Band News
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band News Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20News.png" group-title="Noticias",Band News Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13528.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://prinplay.000webhostapp.com/server/Record%20News.png" group-title="Noticias",Record News
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/290.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Record%20News.png" group-title="Noticias",Record News Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13529.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV FHD" tvg-logo="http://prinplay.000webhostapp.com/server/SporTV.png" group-title="Esportes",SporTV FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/11472.ts
+#EXTINF:-1 tvg-id="SporTVHD" tvg-name="SporTV HD" tvg-logo="http://prinplay.000webhostapp.com/server/SporTV.png" group-title="Esportes",SporTV HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1583.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="http://prinplay.000webhostapp.com/server/SporTV.png" group-title="Esportes",SporTV
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/109.ts
+#EXTINF:-1 tvg-id="SporTVHDM" tvg-name="SporTV HD Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/SporTV.png" group-title="Esportes",SporTV HD Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12864.ts
+#EXTINF:-1 tvg-id="SporTVHD" tvg-name="SporTV Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/SporTV.png" group-title="Esportes",SporTV Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13520.ts
+#EXTINF:-1 tvg-id="SporTV 2HD" tvg-name="SporTV 2 HD" tvg-logo="http://prinplay.000webhostapp.com/server/SporTV%202.png" group-title="Esportes",SporTV 2 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1619.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTv 2" tvg-logo="http://prinplay.000webhostapp.com/server/SporTV%202.png" group-title="Esportes",SporTv 2
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/402.ts
+#EXTINF:-1 tvg-id="SporTV 3HD" tvg-name="SporTV 3 HD" tvg-logo="http://prinplay.000webhostapp.com/server/SporTV%203.png" group-title="Esportes",SporTV 3 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1620.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="http://prinplay.000webhostapp.com/server/SporTV%203.png" group-title="Esportes",SporTV 3
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/366.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX Sports FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Sports%20HD.png" group-title="Esportes",FOX Sports FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13522.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX Sports HD" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Sports%20HD.png" group-title="Esportes",FOX Sports HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1589.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Sports.png" group-title="Esportes",Fox Sports
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/368.ts
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Sports.png" group-title="Esportes",Fox Sports Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17191.ts
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX Sports 2 FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Sports%202%20HD.png" group-title="Esportes",FOX Sports 2 FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17044.ts
+#EXTINF:-1 tvg-id="FoxSports 2HD" tvg-name="Fox Sports 2 HD" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1499.ts
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Sports%202.png" group-title="Esportes",Fox Sports 2
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/367.ts
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Sports%202.png" group-title="Esportes",Fox Sports 2 Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17193.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil FHD" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN%20Brasil%20HD.png" group-title="Esportes",ESPN Brasil FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13523.ts
+#EXTINF:-1 tvg-id="ESPN BrasilHD" tvg-name="ESPN Brasil HD" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN%20Brasil%20HD.png" group-title="Esportes",ESPN Brasil HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1588.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN%20Brasil%20HD.png" group-title="Esportes",ESPN Brasil
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/369.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN%20Brasil%20HD.png" group-title="Esportes",Espn Brasil Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16172.ts
+#EXTINF:-1 tvg-id="ESPNNHD" tvg-name="ESPN HD" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN%20HD.png" group-title="Esportes",ESPN HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1602.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN.png" group-title="Esportes",ESPN
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/232.ts
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN + FHD" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN+%20HD.png" group-title="Esportes",ESPN + FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17511.ts
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN + HD" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN+%20HD.png" group-title="Esportes",ESPN + HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1603.ts
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN+%20HD.png" group-title="Esportes",ESPN +
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/408.ts
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra HD" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN%20Extra.png" group-title="Esportes",ESPN Extra HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9451.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo.png" group-title="Esportes",Esporte Interativo FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17119.ts
+#EXTINF:-1 tvg-id="Esporte InterativoHD" tvg-name="Esporte Interativo HD" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo.png" group-title="Esportes",Esporte Interativo HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/394.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo.png" group-title="Esportes",Esporte Interativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/365.ts
+#EXTINF:-1 tvg-id="EI Maxx 2HD" tvg-name="Esporte Interativo 2 FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo%202.png" group-title="Esportes",Esporte Interativo 2 FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17120.ts
+#EXTINF:-1 tvg-id="EI MaxxHD" tvg-name="Esporte Interativo 2 HD" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo%202.png" group-title="Esportes",Esporte Interativo 2 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1675.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="Esporte Interativo 2" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo%202.png" group-title="Esportes",Esporte Interativo 2
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/364.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="Esporte Interativo BR HD" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo%20BR.png" group-title="Esportes",Esporte Interativo BR HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1676.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="Esporte Interativo BR" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo%20BR.png" group-title="Esportes",Esporte Interativo BR
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6671.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Combate.png" group-title="Esportes",Combate FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12203.ts
+#EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate HD" tvg-logo="http://prinplay.000webhostapp.com/server/Combate.png" group-title="Esportes",Combate HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1601.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://prinplay.000webhostapp.com/server/Combate.png" group-title="Esportes",Combate
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/110.ts
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Combate.png" group-title="Esportes",Combate HD Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12806.ts
+#EXTINF:-1 tvg-id="CombateHD" tvg-name="Combate Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Combate.png" group-title="Esportes",Combate Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7018.ts
+#EXTINF:-1 tvg-id="BandSportsHD" tvg-name="Band Sports HD" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1600.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/370.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://prinplay.000webhostapp.com/server/NBA%20TV.png" group-title="Esportes",NBA TV
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12236.ts
+#EXTINF:-1 tvg-id="" tvg-name="PFC" tvg-logo="http://i.imgur.com/hjUfeVc.png" group-title="Premiere",PFC
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/210.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes FHD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere Clubes FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13517.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes -FHD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere Clubes -FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17293.ts
+#EXTINF:-1 tvg-id="Premiere ClubesHD" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere Clubes HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/204.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere Clubes
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1930.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere Clubes HD Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12857.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere Clubes Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes -Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere Clubes -Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13494.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Premiere",Premiere 2 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1717.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 2
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 2 Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13510.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 -Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 2 -Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13495.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 3 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Premiere",Premiere 3
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3  Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 3  Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 -Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 3 -Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 4 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1722.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 4
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4  Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 4  Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13508.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 -Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 4 -Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13497.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 5 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 5
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5  Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 5  Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13507.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 -Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 5 -Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13498.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 6 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8488.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 6
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/208.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6  Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 6  Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13506.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 -Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 6 -Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13499.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 7 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8482.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 7
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7  Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 7  Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13505.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 -Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 7 -Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 8 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 8
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/206.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8  Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 8  Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13504.ts
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8 -Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 8 -Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 9 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 9
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/205.ts
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="Premiere 9  Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 9  Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13503.ts
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="Premiere 9 -Alternativo" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Premiere",Premiere 9 -Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13502.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Premium%20HD.png" group-title="Globosat Filmes",Telecine Premium FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/11475.ts
+#EXTINF:-1 tvg-id="TC PremiumHD" tvg-name="Telecine Premium HD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Premium%20HD.png" group-title="Globosat Filmes",Telecine Premium HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1631.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Premium.png" group-title="Globosat Filmes",Telecine Premium
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/805.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Premium%20HD.png" group-title="Globosat Filmes",Telecine Premium HD Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12872.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Pipoca%20HD.png" group-title="Globosat Filmes",Telecine Pipoca FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12204.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Pipoca%20HD.png" group-title="Globosat Filmes",Telecine Pipoca HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1596.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Pipoca%20HD.png" group-title="Globosat Filmes",Telecine Pipoca
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/804.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Pipoca%20HD.png" group-title="Globosat Filmes",Telecine Pipoca HD Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12871.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Pipoca%20HD.png" group-title="Globosat Filmes",Telecine Pipoca Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9228.ts
+#EXTINF:-1 tvg-id="TC ActionHD" tvg-name="Telecine Action FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Action%20HD.png" group-title="Globosat Filmes",Telecine Action FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/11476.ts
+#EXTINF:-1 tvg-id="TC ActionHD" tvg-name="Telecine Action HD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Action%20HD.png" group-title="Globosat Filmes",Telecine Action HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1584.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Action.png" group-title="Globosat Filmes",Telecine Action
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/806.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Action%20HD.png" group-title="Globosat Filmes",Telecine Action HD Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12868.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Action.png" group-title="Globosat Filmes",Telecine Action Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6997.ts
+#EXTINF:-1 tvg-id="TC TouchHD" tvg-name="Telecine Touch FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Touch%20HD.png" group-title="Globosat Filmes",Telecine Touch FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/11477.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Touch.png" group-title="Globosat Filmes",Telecine Touch
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/807.ts
+#EXTINF:-1 tvg-id="TC TouchHD" tvg-name="Telecine Touch HD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Touch%20HD.png" group-title="Globosat Filmes",Telecine Touch HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1626.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Touch%20HD.png" group-title="Globosat Filmes",Telecine Touch HD Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12873.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Touch.png" group-title="Globosat Filmes",Telecine Touch Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6677.ts
+#EXTINF:-1 tvg-id="TC FunHD" tvg-name="Telecine Fun FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Fun%20HD.png" group-title="Globosat Filmes",Telecine Fun FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12205.ts
+#EXTINF:-1 tvg-id="TC FunHD" tvg-name="Telecine Fun HD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Fun%20HD.png" group-title="Globosat Filmes",Telecine Fun HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1624.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Fun.png" group-title="Globosat Filmes",Telecine Fun
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/803.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Fun%20HD.png" group-title="Globosat Filmes",Telecine Fun HD Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12870.ts
+#EXTINF:-1 tvg-id="TC FunHD" tvg-name="Telecine Fun Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Fun.png" group-title="Globosat Filmes",Telecine Fun Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9230.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Cult.png" group-title="Globosat Filmes",Telecine Cult FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13885.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Cult.png" group-title="Globosat Filmes",Telecine Cult HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5902.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Cult.png" group-title="Globosat Filmes",Telecine Cult
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/808.ts
+#EXTINF:-1 tvg-id="Telecine CultHD" tvg-name="Telecine Cult Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Cult.png" group-title="Globosat Filmes",Telecine Cult Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9229.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Megapix%20HD.png" group-title="Globosat Filmes",MegaPix FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17510.ts
+#EXTINF:-1 tvg-id="MegapixHD" tvg-name="MegaPix HD" tvg-logo="http://prinplay.000webhostapp.com/server/Megapix%20HD.png" group-title="Globosat Filmes",MegaPix HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1615.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix" tvg-logo="http://prinplay.000webhostapp.com/server/Megapix.png" group-title="Globosat Filmes",MegaPix
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/112.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix Dual HD" tvg-logo="http://prinplay.000webhostapp.com/server/Megapix%20HD.png" group-title="Globosat Filmes",MegaPix Dual HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16179.ts
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Megapix.png" group-title="Globosat Filmes",MegaPix Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6996.ts
+#EXTINF:-1 tvg-id="Universal ChannelHD" tvg-name="Universal Channel FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Universal%20Channel%20HD.png" group-title="Globosat Filmes",Universal Channel FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17512.ts
+#EXTINF:-1 tvg-id="Universal ChannelHD" tvg-name="Universal Channel HD" tvg-logo="http://prinplay.000webhostapp.com/server/Universal%20Channel%20HD.png" group-title="Globosat Filmes",Universal Channel HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1501.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://prinplay.000webhostapp.com/server/Universal%20Channel.png" group-title="Globosat Filmes",Universal Channel
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/265.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Universal%20Channel.png" group-title="Globosat Filmes",Universal Channel Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7002.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Studio%20Universal%20HD.png" group-title="Globosat Filmes",Studio Universal FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13888.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="http://prinplay.000webhostapp.com/server/Studio%20Universal%20HD.png" group-title="Globosat Filmes",Studio Universal HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7021.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://prinplay.000webhostapp.com/server/Studio%20Universal.png" group-title="Globosat Filmes",Studio Universal
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/174.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Studio%20Universal.png" group-title="Globosat Filmes",Studio Universal Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8684.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Syfy%20HD.png" group-title="Globosat Filmes",Syfy FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13887.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SyFy HD" tvg-logo="http://prinplay.000webhostapp.com/server/Syfy%20HD.png" group-title="Globosat Filmes",SyFy HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9231.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://prinplay.000webhostapp.com/server/Syfy.png" group-title="Globosat Filmes",Syfy
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/103.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20HD.png" group-title="Rede HBO - MAX",HBO FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16180.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://prinplay.000webhostapp.com/server/HBO.png" group-title="Rede HBO - MAX",HBO
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/390.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Dual HD" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20HD.png" group-title="Rede HBO - MAX",HBO Dual HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12836.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Dual" tvg-logo="http://prinplay.000webhostapp.com/server/HBO.png" group-title="Rede HBO - MAX",HBO Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6988.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 FHD" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%202%20HD.png" group-title="Rede HBO - MAX",HBO 2 FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16181.ts
+#EXTINF:-1 tvg-id="HBO 2hd" tvg-name="HBO 2 HD" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%202%20HD.png" group-title="Rede HBO - MAX",HBO 2 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1594.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%202.png" group-title="Rede HBO - MAX",HBO 2
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/387.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%202%20HD.png" group-title="Rede HBO - MAX",HBO 2 HD Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12834.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 Dual" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%202.png" group-title="Rede HBO - MAX",HBO 2 Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12103.ts
+#EXTINF:-1 tvg-id="HBO Signaturehd" tvg-name="HBO Signature HD" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Signature%20HD.png" group-title="Rede HBO - MAX",HBO Signature HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1608.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Rede HBO - MAX",HBO Signature
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1485.ts
+#EXTINF:-1 tvg-id="HBO Signaturehd" tvg-name="HBO Signature Dual HD" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Rede HBO - MAX",HBO Signature Dual HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12838.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature Dual" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Signature.png" group-title="Rede HBO - MAX",HBO Signature Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6995.ts
+#EXTINF:-1 tvg-id="HBO Familyhd" tvg-name="HBO Family HD" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Family%20HD.png" group-title="Rede HBO - MAX",HBO Family HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1606.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Family.png" group-title="Rede HBO - MAX",HBO Family
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/219.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family Dual HD" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Family%20HD.png" group-title="Rede HBO - MAX",HBO Family Dual HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12835.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family Dual" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Family.png" group-title="Rede HBO - MAX",HBO Family Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7005.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasilhd" tvg-name="HBO Plus HD" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Plus%20HD.png" group-title="Rede HBO - MAX",HBO Plus HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1607.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Plus.png" group-title="Rede HBO - MAX",HBO Plus
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/357.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus Dual HD" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Plus%20HD.png" group-title="Rede HBO - MAX",HBO Plus Dual HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12837.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus Dual" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Plus.png" group-title="Rede HBO - MAX",HBO Plus Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6989.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus E Dual" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Plus%20e.png" group-title="Rede HBO - MAX",HBO Plus E Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12104.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus e" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Plus%20e.png" group-title="Rede HBO - MAX",HBO Plus e
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8669.ts
+#EXTINF:-1 tvg-id="MaxPrime" tvg-name="Max Prime FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Max%20Prime.png" group-title="Rede HBO - MAX",Max Prime FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime HD" tvg-logo="http://prinplay.000webhostapp.com/server/Max%20Prime.png" group-title="Rede HBO - MAX",Max Prime HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7013.ts
+#EXTINF:-1 tvg-id="MaxPrime" tvg-name="Max Prime" tvg-logo="http://prinplay.000webhostapp.com/server/Max%20Prime.png" group-title="Rede HBO - MAX",Max Prime
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/214.ts
+#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Max%20Up.png" group-title="Rede HBO - MAX",Max UP FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13891.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD" tvg-logo="http://prinplay.000webhostapp.com/server/Max%20Up.png" group-title="Rede HBO - MAX",MAX UP HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7014.ts
+#EXTINF:-1 tvg-id="Max UP" tvg-name="Max UP" tvg-logo="http://prinplay.000webhostapp.com/server/Max%20Up.png" group-title="Rede HBO - MAX",Max UP
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/213.ts
+#EXTINF:-1 tvg-id="Max" tvg-name="Max FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Max%20HD.png" group-title="Rede HBO - MAX",Max FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13893.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="http://prinplay.000webhostapp.com/server/Max%20HD.png" group-title="Rede HBO - MAX",MAX HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7012.ts
+#EXTINF:-1 tvg-id="Max" tvg-name="Max" tvg-logo="http://prinplay.000webhostapp.com/server/Max.png" group-title="Rede HBO - MAX",Max
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/215.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime e" tvg-logo="https://s4.postimg.org/ewxbj4nbx/Max_Prime_2012.png" group-title="Rede HBO - MAX",MAX Prime e
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8670.ts
+#EXTINF:-1 tvg-id="MaxPrime" tvg-name="MAX Prime e Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Max%20Prime%20e.png" group-title="Rede HBO - MAX",MAX Prime e Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8683.ts
+#EXTINF:-1 tvg-id="Warner ChannelHD" tvg-name="Warner Channel FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Warner%20Channel%20HD.png" group-title="Filmes e Series",Warner Channel FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17186.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="http://prinplay.000webhostapp.com/server/Warner%20Channel%20HD.png" group-title="Filmes e Series",Warner Channel HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1597.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://prinplay.000webhostapp.com/server/Warner%20Channel.png" group-title="Filmes e Series",Warner Channel
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/266.ts
+#EXTINF:-1 tvg-id="Warner ChannelHD" tvg-name="Warner Channel Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Warner%20Channel.png" group-title="Filmes e Series",Warner Channel Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7001.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Cinemax.png" group-title="Filmes e Series",Cinemax FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13812.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://prinplay.000webhostapp.com/server/Cinemax.png" group-title="Filmes e Series",Cinemax HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5894.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://prinplay.000webhostapp.com/server/Cinemax.png" group-title="Filmes e Series",Cinemax
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/236.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Cinemax.png" group-title="Filmes e Series",Cinemax Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6998.ts
+#EXTINF:-1 tvg-id="ParamountHD" tvg-name="Paramount HD" tvg-logo="http://prinplay.000webhostapp.com/server/Paramount%20Channel.png" group-title="Filmes e Series",Paramount HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1617.ts
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="http://prinplay.000webhostapp.com/server/Paramount%20Channel.png" group-title="Filmes e Series",Paramount
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/211.ts
+#EXTINF:-1 tvg-id="SpaceHD" tvg-name="Space HD" tvg-logo="http://prinplay.000webhostapp.com/server/Space%20HD.png" group-title="Filmes e Series",Space HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1587.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://prinplay.000webhostapp.com/server/Space.png" group-title="Filmes e Series",Space
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space HD Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Space%20HD.png" group-title="Filmes e Series",Space HD Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12861.ts
+#EXTINF:-1 tvg-id="TNThd" tvg-name="TNT HD" tvg-logo="http://prinplay.000webhostapp.com/server/TNT%20HD.png" group-title="Filmes e Series",TNT HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1595.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://prinplay.000webhostapp.com/server/TNT.png" group-title="Filmes e Series",TNT
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/380.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT Dual" tvg-logo="http://prinplay.000webhostapp.com/server/TNT.png" group-title="Filmes e Series",TNT Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16185.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://prinplay.000webhostapp.com/server/TCM.png" group-title="Filmes e Series",TCM
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/173.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM Dual" tvg-logo="http://prinplay.000webhostapp.com/server/TCM.png" group-title="Filmes e Series",TCM Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8686.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://prinplay.000webhostapp.com/server/AMC%20HD.png" group-title="Filmes e Series",AMC FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13902.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://prinplay.000webhostapp.com/server/AMC.png" group-title="Filmes e Series",AMC HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13757.ts
+#EXTINF:-1 tvg-id="AMCDual" tvg-name="AMC" tvg-logo="http://prinplay.000webhostapp.com/server/AMC.png" group-title="Filmes e Series",AMC
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9226.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC Dual" tvg-logo="http://prinplay.000webhostapp.com/server/AMC.png" group-title="Filmes e Series",AMC Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16189.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://prinplay.000webhostapp.com/server/AXN%20HD.png" group-title="Filmes e Series",AXN FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17505.ts
+#EXTINF:-1 tvg-id="AXNHD" tvg-name="AXN HD" tvg-logo="http://prinplay.000webhostapp.com/server/AXN%20HD.png" group-title="Filmes e Series",AXN HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1599.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://prinplay.000webhostapp.com/server/AXN.png" group-title="Filmes e Series",AXN
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/188.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN Dual" tvg-logo="http://prinplay.000webhostapp.com/server/AXN.png" group-title="Filmes e Series",AXN Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6999.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20HD.png" group-title="Filmes e Series",FOX FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12663.ts
+#EXTINF:-1 tvg-id="FoxHD" tvg-name="FOX HD" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20HD.png" group-title="Filmes e Series",FOX HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1582.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://prinplay.000webhostapp.com/server/Fox.png" group-title="Filmes e Series",Fox
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/260.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20HD.png" group-title="Filmes e Series",FOX HD Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12820.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Fox.png" group-title="Filmes e Series",FOX Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8678.ts
+#EXTINF:-1 tvg-id="FoxPremium1" tvg-name="Fox Premium 1 FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Premium%201.png" group-title="Filmes e Series",Fox Premium 1 FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17514.ts
+#EXTINF:-1 tvg-id="FoxPremium1" tvg-name="Fox Premium 1" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Premium%201.png" group-title="Filmes e Series",Fox Premium 1
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Premium%202.png" group-title="Filmes e Series",Fox Premium 2
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1635.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Life%20HD.png" group-title="Filmes e Series",Fox Life FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13896.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Life.png" group-title="Filmes e Series",Fox Life
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/391.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="http://prinplay.000webhostapp.com/server/FX%20HD.png" group-title="Filmes e Series",FX FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17513.ts
+#EXTINF:-1 tvg-id="FXHD" tvg-name="FX HD" tvg-logo="http://prinplay.000webhostapp.com/server/FX%20HD.png" group-title="Filmes e Series",FX HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1604.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://prinplay.000webhostapp.com/server/FX.png" group-title="Filmes e Series",FX
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/113.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX Dual HD" tvg-logo="http://prinplay.000webhostapp.com/server/FX%20HD.png" group-title="Filmes e Series",FX Dual HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16183.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX Dual" tvg-logo="http://prinplay.000webhostapp.com/server/FX.png" group-title="Filmes e Series",FX Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7004.ts
+#EXTINF:-1 tvg-id="SonyHD" tvg-name="Sony HD" tvg-logo="http://prinplay.000webhostapp.com/server/Sony%20HD.png" group-title="Filmes e Series",Sony HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1618.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://prinplay.000webhostapp.com/server/Sony.png" group-title="Filmes e Series",Sony
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/186.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Sony.png" group-title="Filmes e Series",Sony Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16187.ts
+#EXTINF:-1 tvg-id="TNT SeriesHD" tvg-name="TNT Séries HD" tvg-logo="http://prinplay.000webhostapp.com/server/TNT%20S%e9ries%20HD.png" group-title="Filmes e Series",TNT Séries HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1623.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries" tvg-logo="http://prinplay.000webhostapp.com/server/TNT%20S%e9ries.png" group-title="Filmes e Series",TNT Séries
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/798.ts
+#EXTINF:-1 tvg-id="TBSHD" tvg-name="TBS HD" tvg-logo="http://prinplay.000webhostapp.com/server/TBS%20HD.png" group-title="Filmes e Series",TBS HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1765.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://prinplay.000webhostapp.com/server/TBS.png" group-title="Filmes e Series",TBS
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1621.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I-Sat" tvg-logo="http://prinplay.000webhostapp.com/server/I.Sat.png" group-title="Filmes e Series",I-Sat
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Animal%20Planet%20HD.png" group-title="Documentarios",Animal Planet FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17504.ts
+#EXTINF:-1 tvg-id="Animal PlanetHD" tvg-name="Animal Planet HD" tvg-logo="http://prinplay.000webhostapp.com/server/Animal%20Planet%20HD.png" group-title="Documentarios",Animal Planet HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1861.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://prinplay.000webhostapp.com/server/Animal%20Planet.png" group-title="Documentarios",Animal Planet
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/94.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet Dual" tvg-logo="http://prinplay.000webhostapp.com/server/Animal%20Planet.png" group-title="Documentarios",Animal Planet Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12895.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Channel%20HD.png" group-title="Documentarios",Discovery Channel FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17040.ts
+#EXTINF:-1 tvg-id="Discovery ChannelHD" tvg-name="Discovery Channel HD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Channel%20HD.png" group-title="Documentarios",Discovery Channel HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1611.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Channel.png" group-title="Documentarios",Discovery Channel
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1497.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel Dual HD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Channel%20HD.png" group-title="Documentarios",Discovery Channel Dual HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16178.ts
+#EXTINF:-1 tvg-id="Discovery TurboHD" tvg-name="Discovery Turbo HD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Turbo%20HD.png" group-title="Documentarios",Discovery Turbo HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1612.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Turbo.png" group-title="Documentarios",Discovery Turbo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/183.ts
+#EXTINF:-1 tvg-id="Discovery Home & HealthHD" tvg-name="Discovery H&H HD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Home%20&%20Health%20HD.png" group-title="Documentarios",Discovery H&H HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1610.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery H&H" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Home%20&%20Health.png" group-title="Documentarios",Discovery H&H
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/359.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Civilization.png" group-title="Documentarios",Discovery Civilization FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13804.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization HD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Civilization.png" group-title="Documentarios",Discovery Civilization HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13785.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Science%20HD.png" group-title="Documentarios",Discovery Science FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13805.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Science%20HD.png" group-title="Documentarios",Discovery Science HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13784.ts
+#EXTINF:-1 tvg-id="Discovery WorldHD" tvg-name="Discovery World FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20World%20HD.png" group-title="Documentarios",Discovery World FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17184.ts
+#EXTINF:-1 tvg-id="Discovery WorldHD" tvg-name="Discovery World HD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20World.png" group-title="Documentarios",Discovery World HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1779.ts
+#EXTINF:-1 tvg-id="Discovery TheaterHDD" tvg-name="Discovery Theater HD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Theater%20HD.png" group-title="Documentarios",Discovery Theater HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/3016.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History FHD" tvg-logo="http://prinplay.000webhostapp.com/server/The%20History%20Channel.png" group-title="Documentarios",History FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17185.ts
+#EXTINF:-1 tvg-id="HistoryHD" tvg-name="History HD" tvg-logo="http://prinplay.000webhostapp.com/server/The%20History%20Channel%20HD.png" group-title="Documentarios",History HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1627.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel" tvg-logo="http://prinplay.000webhostapp.com/server/The%20History%20Channel.png" group-title="Documentarios",History Channel
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/172.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History Dual" tvg-logo="http://prinplay.000webhostapp.com/server/The%20History%20Channel.png" group-title="Documentarios",History Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8681.ts
+#EXTINF:-1 tvg-id="H2HD" tvg-name="H2 HD" tvg-logo="http://prinplay.000webhostapp.com/server/H2%20HD.png" group-title="Documentarios",H2 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1598.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://prinplay.000webhostapp.com/server/H2.png" group-title="Documentarios",H2
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/222.ts
+#EXTINF:-1 tvg-id="H2HD" tvg-name="H2 HD Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/H2%20HD.png" group-title="Documentarios",H2 HD Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12833.ts
+#EXTINF:-1 tvg-id="NatGeoHD" tvg-name="National Geografic HD" tvg-logo="http://prinplay.000webhostapp.com/server/National%20Geographic%20Channel%20HD.png" group-title="Documentarios",National Geografic HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1749.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="http://prinplay.000webhostapp.com/server/National%20Geographic.png" group-title="Documentarios",National Geographic
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/392.ts
+#EXTINF:-1 tvg-id="NatGeo WildHD" tvg-name="Natgeo Wild HD" tvg-logo="http://prinplay.000webhostapp.com/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",Natgeo Wild HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1747.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://prinplay.000webhostapp.com/server/Nat%20Geo%20Wild.png" group-title="Documentarios",NatGeo Wild
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/375.ts
+#EXTINF:-1 tvg-id="Investigação DiscoveryHD" tvg-name="ID -  Investigação Discovery HD" tvg-logo="http://prinplay.000webhostapp.com/server/Investigation%20Discovery%20HD.png" group-title="Documentarios",ID -  Investigação Discovery HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1613.ts
+#EXTINF:-1 tvg-id="Investigação Discovery" tvg-name="ID - Investigation Discovery" tvg-logo="http://prinplay.000webhostapp.com/server/Investigation%20Discovery.png" group-title="Documentarios",ID - Investigation Discovery
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/393.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish Tv" tvg-logo="http://prinplay.000webhostapp.com/server/Fish%20TV.png" group-title="Documentarios",Fish Tv
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1488.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Multishow%20HD.png" group-title="Variedades e Musicas",Multishow FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17072.ts
+#EXTINF:-1 tvg-id="MultishowHD" tvg-name="Multishow HD" tvg-logo="http://prinplay.000webhostapp.com/server/Multishow%20HD.png" group-title="Variedades e Musicas",Multishow HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1616.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://prinplay.000webhostapp.com/server/Multishow.png" group-title="Variedades e Musicas",Multishow
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/212.ts
+#EXTINF:-1 tvg-id="MultishowHD" tvg-name="Multishow Alternativo HD" tvg-logo="http://prinplay.000webhostapp.com/server/Multishow.png" group-title="Variedades e Musicas",Multishow Alternativo HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17244.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow Alternativo" tvg-logo="http://prinplay.000webhostapp.com/server/Multishow.png" group-title="Variedades e Musicas",Multishow Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16754.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Viva%20HD.png" group-title="Variedades e Musicas",Viva FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17041.ts
+#EXTINF:-1 tvg-id="VivaHD" tvg-name="Viva HD" tvg-logo="http://prinplay.000webhostapp.com/server/Viva%20HD.png" group-title="Variedades e Musicas",Viva HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1630.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://prinplay.000webhostapp.com/server/Viva.png" group-title="Variedades e Musicas",Viva
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1860.ts
+#EXTINF:-1 tvg-id="GNTHD" tvg-name="GNT HD" tvg-logo="http://prinplay.000webhostapp.com/server/GNT%20HD.png" group-title="Variedades e Musicas",GNT HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/362.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://prinplay.000webhostapp.com/server/GNT.png" group-title="Variedades e Musicas",GNT
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1713.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Globosat.png" group-title="Variedades e Musicas",Mais Globosat FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13895.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat HD" tvg-logo="http://prinplay.000webhostapp.com/server/Globosat.png" group-title="Variedades e Musicas",Mais Globosat HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6549.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat" tvg-logo="http://prinplay.000webhostapp.com/server/Globosat.png" group-title="Variedades e Musicas",Mais Globosat
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/122.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Comedy%20Central%20HD.png" group-title="Variedades e Musicas",Comedy Central FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13810.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central HD" tvg-logo="http://prinplay.000webhostapp.com/server/Comedy%20Central%20HD.png" group-title="Variedades e Musicas",Comedy Central HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13789.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://prinplay.000webhostapp.com/server/Comedy%20Central.png" group-title="Variedades e Musicas",Comedy Central
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/93.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV FHD" tvg-logo="http://prinplay.000webhostapp.com/server/MTV.png" group-title="Variedades e Musicas",MTV FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13890.ts
+#EXTINF:-1 tvg-id="MTVHD" tvg-name="MTV HD" tvg-logo="http://prinplay.000webhostapp.com/server/MTV.png" group-title="Variedades e Musicas",MTV HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5895.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://prinplay.000webhostapp.com/server/MTV.png" group-title="Variedades e Musicas",MTV
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/128.ts
+#EXTINF:-1 tvg-id="VH1HD" tvg-name="VH1 FHD" tvg-logo="http://prinplay.000webhostapp.com/server/VH1%20HD.png" group-title="Variedades e Musicas",VH1 FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13884.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://prinplay.000webhostapp.com/server/VH1%20HD.png" group-title="Variedades e Musicas",VH1 HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13788.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="http://prinplay.000webhostapp.com/server/Music%20Box%20Brazil.png" group-title="Variedades e Musicas",Music Box Brazil
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/355.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Bis.png" group-title="Variedades e Musicas",BIS FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17047.ts
+#EXTINF:-1 tvg-id="BISHD" tvg-name="BIS HD" tvg-logo="http://prinplay.000webhostapp.com/server/Bis.png" group-title="Variedades e Musicas",BIS HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1740.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://prinplay.000webhostapp.com/server/Bis.png" group-title="Variedades e Musicas",BIS
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/428.ts
+#EXTINF:-1 tvg-id="VH1" tvg-name="Vh1 Megahits" tvg-logo="http://prinplay.000webhostapp.com/server/VH1%20Mega%20Hits.png" group-title="Variedades e Musicas",Vh1 Megahits
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/794.ts
+#EXTINF:-1 tvg-id="Prime Box" tvg-name="Prime Box Brazil" tvg-logo="http://prinplay.000webhostapp.com/server/Prime%20Box%20Brazil.png" group-title="Variedades e Musicas",Prime Box Brazil
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1781.ts
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTv" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Variedades e Musicas",TruTv
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/180.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="http://prinplay.000webhostapp.com/server/A&E%20HD.png" group-title="Variedades e Musicas",A&E FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13903.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://s26.postimg.org/bu7lzohrd/large.jpg" group-title="Variedades e Musicas",A&E HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5986.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E BR" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Variedades e Musicas",A&E BR
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1487.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E Dual" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Variedades e Musicas",A&E Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8679.ts
+#EXTINF:-1 tvg-id="OFFHD" tvg-name="OFF FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Canal%20Off.png" group-title="Variedades e Musicas",OFF FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17517.ts
+#EXTINF:-1 tvg-id="NatGeo WildHD" tvg-name="OFF HD" tvg-logo="http://prinplay.000webhostapp.com/server/Canal%20Off.png" group-title="Variedades e Musicas",OFF HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/398.ts
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://prinplay.000webhostapp.com/server/Canal%20Off.png" group-title="Variedades e Musicas",OFF
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/2624.ts
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo FHD" tvg-logo="http://prinplay.000webhostapp.com/server/WooHoo.png" group-title="Variedades e Musicas",Woohoo FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13883.ts
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="http://prinplay.000webhostapp.com/server/WooHoo.png" group-title="Variedades e Musicas",Woohoo HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13794.ts
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://prinplay.000webhostapp.com/server/WooHoo.png" group-title="Variedades e Musicas",Woohoo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1702.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://prinplay.000webhostapp.com/server/TLC%20HD.png" group-title="Variedades e Musicas",TLC HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5985.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://prinplay.000webhostapp.com/server/TLC.png" group-title="Variedades e Musicas",TLC
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/360.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC Dual" tvg-logo="http://prinplay.000webhostapp.com/server/TLC.png" group-title="Variedades e Musicas",TLC Dual
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13525.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Food%20Network%20HD.png" group-title="Variedades e Musicas",Food Network FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13897.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://prinplay.000webhostapp.com/server/Food%20Network.png" group-title="Variedades e Musicas",Food Network
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/374.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E! FHD" tvg-logo="http://prinplay.000webhostapp.com/server/E!%20Entertainment%20HD.png" group-title="Variedades e Musicas",E! FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13898.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Variedades e Musicas",E! HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5901.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E! BR" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Variedades e Musicas",E! BR
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1712.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Life Time FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Lifetime.png" group-title="Variedades e Musicas",Life Time FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13894.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="http://prinplay.000webhostapp.com/server/Lifetime.png" group-title="Variedades e Musicas",Lifetime HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5900.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://prinplay.000webhostapp.com/server/Lifetime.png" group-title="Variedades e Musicas",Lifetime
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="http://prinplay.000webhostapp.com/server/Curta!.png" group-title="Variedades e Musicas",Curta!
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/11542.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Arte1.png" group-title="Variedades e Musicas",Arte 1 FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13901.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Variedades e Musicas",Arte 1
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1704.ts
+#EXTINF:-1 tvg-id="PlayTv" tvg-name="Play Tv" tvg-logo="http://prinplay.000webhostapp.com/server/Play%20TV.png" group-title="Variedades e Musicas",Play Tv
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1493.ts
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK" tvg-logo="http://prinplay.000webhostapp.com/server/NHK%20World.png" group-title="Variedades e Musicas",NHK
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12172.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Variedades e Musicas",Rede Brasil
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1780.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN H265" tvg-logo="http://prinplay.000webhostapp.com/server/AXN%20HD.png" group-title="H265 - FHD",AXN H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13860.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports H265" tvg-logo="http://prinplay.000webhostapp.com/server/Band%20Sports%20HD.png" group-title="H265 - FHD",Band Sports H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13859.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery H&H H265" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Home%20&%20Health%20HD.png" group-title="H265 - FHD",Discovery H&H H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13856.ts
+#EXTINF:-1 tvg-id="Discovery TheaterHDD" tvg-name="Discovery Theater H265" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Theater%20HD.png" group-title="H265 - FHD",Discovery Theater H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13855.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World H265" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20World%20HD.png" group-title="H265 - FHD",Discovery World H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13853.ts
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN + H265" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN+%20HD.png" group-title="H265 - FHD",ESPN + H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13849.ts
+#EXTINF:-1 tvg-id="ESPN BrasilHD" tvg-name="ESPN Brasil H265" tvg-logo="http://prinplay.000webhostapp.com/server/ESPN%20Brasil%20HD.png" group-title="H265 - FHD",ESPN Brasil H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13850.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="Esporte Interativo 2 H265" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo%202.png" group-title="H265 - FHD",Esporte Interativo 2 H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo BR H265" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo%20BR.png" group-title="H265 - FHD",Esporte Interativo BR H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13848.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo H265" tvg-logo="http://prinplay.000webhostapp.com/server/Esporte%20Interativo.png" group-title="H265 - FHD",Esporte Interativo H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13852.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life H265" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Life%20HD.png" group-title="H265 - FHD",Fox Life H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13846.ts
+#EXTINF:-1 tvg-id="FoxPremium1" tvg-name="Fox Premium 1 H265" tvg-logo="http://prinplay.000webhostapp.com/server/Fox%20Premium%201.png" group-title="H265 - FHD",Fox Premium 1 H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fx H265" tvg-logo="http://prinplay.000webhostapp.com/server/FX%20HD.png" group-title="H265 - FHD",Fx H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13844.ts
+#EXTINF:-1 tvg-id="Globo RJHD" tvg-name="Globo RJ H265" tvg-logo="http://prinplay.000webhostapp.com/server/Globo%20Rio.png" group-title="H265 - FHD",Globo RJ H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13843.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT H265" tvg-logo="http://prinplay.000webhostapp.com/server/GNT%20HD.png" group-title="H265 - FHD",GNT H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13842.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 H265" tvg-logo="http://prinplay.000webhostapp.com/server/H2%20HD.png" group-title="H265 - FHD",H2 H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13836.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 H265" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%202%20HD.png" group-title="H265 - FHD",HBO 2 H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13841.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family H265" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Family%20HD.png" group-title="H265 - FHD",HBO Family H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13840.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO H265" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20HD.png" group-title="H265 - FHD",HBO H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13839.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus H265" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Plus%20HD.png" group-title="H265 - FHD",HBO Plus H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13838.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature H265" tvg-logo="http://prinplay.000webhostapp.com/server/HBO%20Signature%20HD.png" group-title="H265 - FHD",HBO Signature H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13837.ts
+#EXTINF:-1 tvg-id="" tvg-name="History H265" tvg-logo="http://prinplay.000webhostapp.com/server/The%20History%20Channel.png" group-title="H265 - FHD",History H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery H265" tvg-logo="http://prinplay.000webhostapp.com/server/Investigation%20Discovery%20HD.png" group-title="H265 - FHD",Investigation Discovery H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13834.ts
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix H265" tvg-logo="http://prinplay.000webhostapp.com/server/Megapix%20HD.png" group-title="H265 - FHD",MegaPix H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13833.ts
+#EXTINF:-1 tvg-id="MultishowHD" tvg-name="Multishow H265" tvg-logo="http://prinplay.000webhostapp.com/server/Multishow%20HD.png" group-title="H265 - FHD",Multishow H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13832.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo H265" tvg-logo="" group-title="H265 - FHD",Nat Geo H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13831.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount H265" tvg-logo="http://prinplay.000webhostapp.com/server/Paramount%20Channel.png" group-title="H265 - FHD",Paramount H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13830.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 H265" tvg-logo="" group-title="H265 - FHD",Premiere 4 H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13828.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes H265" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="H265 - FHD",Premiere Clubes H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13826.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT H265" tvg-logo="http://prinplay.000webhostapp.com/server/SBT%20HD.png" group-title="H265 - FHD",SBT H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13825.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV H265" tvg-logo="http://prinplay.000webhostapp.com/server/SporTV.png" group-title="H265 - FHD",SporTV H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13824.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS H265" tvg-logo="http://prinplay.000webhostapp.com/server/TBS%20HD.png" group-title="H265 - FHD",TBS H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13823.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action H265" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Action%20HD.png" group-title="H265 - FHD",Telecine Action H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13822.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca H265" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Pipoca%20HD.png" group-title="H265 - FHD",Telecine Pipoca H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13821.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium H265" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Premium%20HD.png" group-title="H265 - FHD",Telecine Premium H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13820.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch H265" tvg-logo="http://prinplay.000webhostapp.com/server/Telecine%20Touch%20HD.png" group-title="H265 - FHD",Telecine Touch H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13819.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT H265" tvg-logo="http://prinplay.000webhostapp.com/server/TNT%20HD.png" group-title="H265 - FHD",TNT H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13818.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series H265" tvg-logo="http://prinplay.000webhostapp.com/server/TNT%20S%e9ries%20HD.png" group-title="H265 - FHD",TNT Series H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel H265" tvg-logo="http://prinplay.000webhostapp.com/server/Universal%20Channel%20HD.png" group-title="H265 - FHD",Universal Channel H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13816.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva H265" tvg-logo="http://prinplay.000webhostapp.com/server/Viva%20HD.png" group-title="H265 - FHD",Viva H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13815.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel H265" tvg-logo="http://prinplay.000webhostapp.com/server/Warner%20Channel%20HD.png" group-title="H265 - FHD",Warner Channel H265
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13814.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideões" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Gide%f5es.png" group-title="Religiosos",TV Gideões
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/16790.ts
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Aparecida.png" group-title="Religiosos",TV Aparecida
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6550.ts
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo tempo" tvg-logo="http://prinplay.000webhostapp.com/server/Novo%20Canal.png" group-title="Religiosos",Novo tempo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/2408.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Canção Nova" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="Religiosos",Tv Canção Nova
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/304.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://s29.postimg.org/4ej6v62tj/Rede_Internacional_de_Televis_o.png" group-title="Religiosos",RIT
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/2626.ts
+#EXTINF:-1 tvg-id="RBI" tvg-name="RBI TV" tvg-logo="https://s30.postimg.org/7zuv4ryr5/Resize_011.png" group-title="Religiosos",RBI TV
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/2627.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://prinplay.000webhostapp.com/server/Rede%20Vida.png" group-title="Religiosos",Rede Vida
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6657.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Mundial" tvg-logo="https://s9.postimg.org/y4d2njn1b/impd_new.png" group-title="Religiosos",TV Mundial
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Promessas" tvg-logo="https://s9.postimg.org/j8xqwxnn3/1200x630bb.png" group-title="Religiosos",Canal Promessas
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17245.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Missao" tvg-logo="https://s9.postimg.org/jpiyj7bcf/capa_tvmissao_2_-_C_pia.png" group-title="Religiosos",TV Missao
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel" tvg-logo="http://prinplay.000webhostapp.com/server/Rede%20Gospel.png" group-title="Religiosos",Rede Gospel
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6659.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede 21" tvg-logo="http://prinplay.000webhostapp.com/server/Rede%20S%e9culo%2021.png" group-title="Religiosos",Rede 21
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6660.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boa Vontade TV" tvg-logo="https://s9.postimg.org/mf93003wv/br_boa-vontade-tv_m.png" group-title="Religiosos",Boa Vontade TV
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8493.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="http://prinplay.000webhostapp.com/server/TV%20Evangelizar.png" group-title="Religiosos",TV Evangelizar
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8494.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Cartoon%20Network.png" group-title="Infantil",Cartoon Network FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13803.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://prinplay.000webhostapp.com/server/Cartoon%20Network.png" group-title="Infantil",Cartoon Network HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13756.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://prinplay.000webhostapp.com/server/Cartoon%20Network.png" group-title="Infantil",Cartoon Network
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/377.ts
+#EXTINF:-1 tvg-id="Discovery KidsHD" tvg-name="Discovery Kids FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5625.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://prinplay.000webhostapp.com/server/Discovery%20Kids.png" group-title="Infantil",Discovery Kids
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/426.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13807.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel -FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel -FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/17046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="http://prinplay.000webhostapp.com/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5624.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://prinplay.000webhostapp.com/server/Disney%20Channel.png" group-title="Infantil",Disney Channel
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/1486.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="Infantil",NatGeo Kids FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13808.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="Infantil",NatGeo Kids HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7042.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="Infantil",NatGeo Kids
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/6541.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Nickelodeon.png" group-title="Infantil",Nickelodeon FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13809.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="http://prinplay.000webhostapp.com/server/Nickelodeon.png" group-title="Infantil",Nickelodeon HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/7020.ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://prinplay.000webhostapp.com/server/Nickelodeon.png" group-title="Infantil",Nickelodeon
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Gloob.png" group-title="Infantil",Gloob FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13811.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://prinplay.000webhostapp.com/server/Gloob.png" group-title="Infantil",Gloob HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/5899.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://prinplay.000webhostapp.com/server/Gloob.png" group-title="Infantil",Gloob
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/378.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob Alternativo" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob Alternativo
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/12272.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick JR FHD" tvg-logo="http://prinplay.000webhostapp.com/server/Nick%20Jr.%20HD.png" group-title="Infantil",Nick JR FHD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/13889.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="http://prinplay.000webhostapp.com/server/Nick%20Jr..png" group-title="Infantil",Nick Jr
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/286.ts
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr HD" tvg-logo="http://prinplay.000webhostapp.com/server/Disney%20J%fanior%20HD.png" group-title="Infantil",Disney Jr HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/8483.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Jr" tvg-logo="http://prinplay.000webhostapp.com/server/Disney%20Jr..png" group-title="Infantil",Disney Jr
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globinho HD" tvg-logo="http://prinplay.000webhostapp.com/server/Gloobinho.png" group-title="Infantil",Globinho HD
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9453.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globinho" tvg-logo="http://prinplay.000webhostapp.com/server/Gloobinho.png" group-title="Infantil",Globinho
+http://dns.infinitytv.xyz:8000/live/FILIPIRIBEIROO/3stt6OrWk7/9454.ts
