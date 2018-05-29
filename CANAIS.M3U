@@ -1,542 +1,729 @@
 #EXTM3U
-s
-#EXTINF:-1,ALL Sports HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1215.ts
-#EXTINF:-1,A&E
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1354.ts
-#EXTINF:-1,Arte 1
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1351.ts
-#EXTINF:-1,AMC
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2326.ts
-#EXTINF:-1,AMC HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2264.ts
-#EXTINF:-1,Amazon Sat Manaus
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1943.ts
-#EXTINF:-1,Animal Planet
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1353.ts
-#EXTINF:-1,Animal Planet HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1419.ts
-#EXTINF:-1,Anime TV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1124.ts
-#EXTINF:-1,Aljazeera
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2147.ts
-#EXTINF:-1,Aparecida
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1352.ts
-#EXTINF:-1,Aparecida [2]
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1854.ts
-#EXTINF:-1,AXN
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1350.ts
-#EXTINF:-1,AXN HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1418.ts
-#EXTINF:-1,Band
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1347.ts
-#EXTINF:-1,Band HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1417.ts
-#EXTINF:-1,Band Sports
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1348.ts
-#EXTINF:-1,Band Sports HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1416.ts
-#EXTINF:-1,Baby TV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1333.ts
-#EXTINF:-1,Boomerang
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1344.ts
-#EXTINF:-1,Band News
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1349.ts
-#EXTINF:-1,BIS
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1345.ts
-#EXTINF:-1,BIS HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1415.ts
-#EXTINF:-1,Bloomberg HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1211.ts
-#EXTINF:-1,Canal Brasil
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1343.ts
-#EXTINF:-1,Canal Sony
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1341.ts
-#EXTINF:-1,Canal Sony HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1414.ts
-#EXTINF:-1,Catve HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1117.ts
-#EXTINF:-1,Cancao Nova
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1812.ts
-#EXTINF:-1,Cancao Nova HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1340.ts
-#EXTINF:-1,Cartoon Network
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1339.ts
-#EXTINF:-1,Cartoon Network HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2257.ts
-#EXTINF:-1,Retrô Cartoon
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1125.ts
-#EXTINF:-1,Cinemax
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1338.ts
-#EXTINF:-1,CINEMAX HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2256.ts
-#EXTINF:-1,CBSN HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1212.ts
-#EXTINF:-1,Combate
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1337.ts
-#EXTINF:-1,Combate HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1413.ts
-#EXTINF:-1,Combate HD [2]
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2255.ts
-#EXTINF:-1,Comedy Central
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1336.ts
-#EXTINF:-1,Discovery Channel
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1334.ts
-#EXTINF:-1,Discovery Channel HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1412.ts
-#EXTINF:-1,Discovery H&H
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1332.ts
-#EXTINF:-1,Discovery Home & Health HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1411.ts
-#EXTINF:-1,Discovery Kids
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1331.ts
-#EXTINF:-1,Discovery Kids HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2348.ts
-#EXTINF:-1,Discovery Theater HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1410.ts
-#EXTINF:-1,Discovery Turbo
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1329.ts
-#EXTINF:-1,Discovery Turbo HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1409.ts
-#EXTINF:-1,Discovery World HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1408.ts
-#EXTINF:-1,Disney Channel
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1328.ts
-#EXTINF:-1,Disney Junior
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1327.ts
-#EXTINF:-1,Disney XD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1326.ts
-#EXTINF:-1,EI MAXX HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2246.ts
-#EXTINF:-1,EI MAXX 2 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2247.ts
-#EXTINF:-1,Esporte Interativo
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1324.ts
-#EXTINF:-1,Esporte Interativo HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1402.ts
-#EXTINF:-1,Esporte Interativo 2
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1323.ts
-#EXTINF:-1,Esporte Interativo 2 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1406.ts
-#EXTINF:-1,Esporte Interativo BR HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1407.ts
-#EXTINF:-1,E! Entertainment Television
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1325.ts
-#EXTINF:-1,ESPN
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1322.ts
-#EXTINF:-1,ESPN  HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1405.ts
-#EXTINF:-1,ESPN HD [2]
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2244.ts
-#EXTINF:-1,ESPN +
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1225.ts
-#EXTINF:-1,ESPN+ HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1403.ts
-#EXTINF:-1,ESPN Brasil
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1321.ts
-#EXTINF:-1,ESPN Brasil HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1404.ts
-#EXTINF:-1,Globo EPTV Ribeirao
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2245.ts
-#EXTINF:-1,FOX
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1318.ts
-#EXTINF:-1,FOX HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1399.ts
-#EXTINF:-1,Fish TV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1320.ts
-#EXTINF:-1,Food Network
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1319.ts
-#EXTINF:-1,Fox Life
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1317.ts
-#EXTINF:-1,Fox Sports
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1316.ts
-#EXTINF:-1,Fox Sport HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1397.ts
-#EXTINF:-1,Fox Sports 2
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1315.ts
-#EXTINF:-1,FOX Sports 2 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1396.ts
-#EXTINF:-1,Futura
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1314.ts
-#EXTINF:-1,FOX Premium 1 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1401.ts
-#EXTINF:-1,FOX Premium 2 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1400.ts
-#EXTINF:-1,FX
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1313.ts
-#EXTINF:-1,FX HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1395.ts
-#EXTINF:-1,Gospel Movies Television
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1422.ts
-#EXTINF:-1,Gospel Music Television
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1423.ts
-#EXTINF:-1,Globo Brasilia
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2232.ts
-#EXTINF:-1,Globo RJ HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1394.ts
-#EXTINF:-1,Globo SP
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1312.ts
-#EXTINF:-1,Globo BH
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2230.ts
-#EXTINF:-1,Globo RBS Porto Alegre
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1266.ts
-#EXTINF:-1,Globo Minas HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2180.ts
-#EXTINF:-1,Globo Nordeste HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2337.ts
-#EXTINF:-1,Globo News
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1311.ts
-#EXTINF:-1,GLOBO NEWS HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2235.ts
-#EXTINF:-1,Globo TV Fronteira
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2648.ts
-#EXTINF:-1,Globo Sorocaba
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2664.ts
-#EXTINF:-1,Globo Goiânia
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2665.ts
-#EXTINF:-1,Gloob
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1310.ts
-#EXTINF:-1,GNT
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1309.ts
-#EXTINF:-1,GNT HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1393.ts
-#EXTINF:-1,H2 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1392.ts
-#EXTINF:-1,H2
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1308.ts
-#EXTINF:-1,HBO
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1307.ts
-#EXTINF:-1,HBO HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1389.ts
-#EXTINF:-1,HBO 2
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1302.ts
-#EXTINF:-1,HBO 2 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1391.ts
-#EXTINF:-1,HBO Family
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1306.ts
-#EXTINF:-1,HBO Family HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1390.ts
-#EXTINF:-1,HBO Plus
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1305.ts
-#EXTINF:-1,HBO Plus e
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1304.ts
-#EXTINF:-1,HBO Plus HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1388.ts
-#EXTINF:-1,HBO Signature
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1303.ts
-#EXTINF:-1,HBO Signature HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1387.ts
-#EXTINF:-1,History Channel
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1240.ts
-#EXTINF:-1,History Channel HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1386.ts
-#EXTINF:-1,HIT TV HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1809.ts
-#EXTINF:-1,Igreja Mundial do Poder de Deus
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2340.ts
-#EXTINF:-1,I-SAT
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1301.ts
-#EXTINF:-1,ID - Investigacao Discovery
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1300.ts
-#EXTINF:-1,ID - Investigação Discovery HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1385.ts
-#EXTINF:-1,IURD TV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2350.ts
-#EXTINF:-1,IURD TV Internacional
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2351.ts
-#EXTINF:-1,Lifetime
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1298.ts
-#EXTINF:-1,Mais Globosat
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1297.ts
-#EXTINF:-1,MAX Prime e
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1294.ts
-#EXTINF:-1,MAX Prime
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1295.ts
-#EXTINF:-1,MAX UP
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1293.ts
-#EXTINF:-1,MAX
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1296.ts
-#EXTINF:-1,MegaPix
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1292.ts
-#EXTINF:-1,Megapix HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1384.ts
-#EXTINF:-1,MTV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1291.ts
-#EXTINF:-1,MTV HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2357.ts
-#EXTINF:-1,Music Box Brazil
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1289.ts
-#EXTINF:-1,MegaTV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1213.ts
-#EXTINF:-1,Mix TV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1118.ts
-#EXTINF:-1,Multishow
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1290.ts
-#EXTINF:-1,Multishow HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1383.ts
-#EXTINF:-1,National Geographic
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1287.ts
-#EXTINF:-1,National Geography HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1381.ts
-#EXTINF:-1,NBR
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1286.ts
-#EXTINF:-1,NHK
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1285.ts
-#EXTINF:-1,NovoTempo
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1282.ts
-#EXTINF:-1,NatGeo Wild
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1288.ts
-#EXTINF:-1,NatGeoWild HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1382.ts
-#EXTINF:-1,NatGeo Kids
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1810.ts
-#EXTINF:-1,Nick Jr
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1284.ts
-#EXTINF:-1,Nickelodeon
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1283.ts
-#EXTINF:-1,Play TV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1279.ts
-#EXTINF:-1,Playboy TV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1278.ts
-#EXTINF:-1,OFF HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1380.ts
-#EXTINF:-1,OFF
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1281.ts
-#EXTINF:-1,Paramount HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1379.ts
-#EXTINF:-1,Paramount
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1280.ts
-#EXTINF:-1,Portal Gospel HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1425.ts
-#EXTINF:-1,Premiere Clubes
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1269.ts
-#EXTINF:-1,Premiere Clubes HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1378.ts
-#EXTINF:-1,Premiere 2
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1277.ts
-#EXTINF:-1,Premiere 2 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1377.ts
-#EXTINF:-1,Premiere 3
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1276.ts
-#EXTINF:-1,Premiere 3 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1376.ts
-#EXTINF:-1,Premiere 4 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1375.ts
-#EXTINF:-1,Premiere 4
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1275.ts
-#EXTINF:-1,Premiere 5
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1274.ts
-#EXTINF:-1,Premiere 5 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1374.ts
-#EXTINF:-1,Premiere 6
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1273.ts
-#EXTINF:-1,Premiere 7
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1272.ts
-#EXTINF:-1,Premiere 8
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1271.ts
-#EXTINF:-1,Premiere 9
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1270.ts
-#EXTINF:-1,Prime Box Brazil
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1268.ts
-#EXTINF:-1,RBI
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1267.ts
-#EXTINF:-1,Rede Brasil
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1263.ts
-#EXTINF:-1,Rede Vida
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1261.ts
-#EXTINF:-1,Rede Gospel
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1424.ts
-#EXTINF:-1,RIT
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1260.ts
-#EXTINF:-1,Record
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1264.ts
-#EXTINF:-1,Record HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1373.ts
-#EXTINF:-1,REDE RECORD HD SP
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2207.ts
-#EXTINF:-1,Record News
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1265.ts
-#EXTINF:-1,Rede Super
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1120.ts
-#EXTINF:-1,Rede Minas
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1940.ts
-#EXTINF:-1,Rede Genesis
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1855.ts
-#EXTINF:-1,Rede TV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1262.ts
-#EXTINF:-1,Rede TV HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1372.ts
-#EXTINF:-1,SIC Internacional
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1256.ts
-#EXTINF:-1,Space
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1255.ts
-#EXTINF:-1,Space HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1370.ts
-#EXTINF:-1,SporTV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1254.ts
-#EXTINF:-1,SporTV HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1367.ts
-#EXTINF:-1,SporTV 2
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1253.ts
-#EXTINF:-1,SporTV 2 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1369.ts
-#EXTINF:-1,SporTV 3
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1252.ts
-#EXTINF:-1,SporTV 3 HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1368.ts
-#EXTINF:-1,Studio Universal
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1251.ts
-#EXTINF:-1,Syfy
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1250.ts
-#EXTINF:-1,SBT
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1259.ts
-#EXTINF:-1,SBT HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1371.ts
-#EXTINF:-1,SBT SC
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2367.ts
-#EXTINF:-1,SBT HD PE
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1988.ts
-#EXTINF:-1,TBS
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1249.ts
-#EXTINF:-1,TBS HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1366.ts
-#EXTINF:-1,Telecine Action
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1247.ts
-#EXTINF:-1,Telecine Action HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1365.ts
-#EXTINF:-1,Telecine Cult
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1246.ts
-#EXTINF:-1,Telecine Pipoca
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1244.ts
-#EXTINF:-1,Telecine Pipoca HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1363.ts
-#EXTINF:-1,Telecine Fun
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1245.ts
-#EXTINF:-1,Telecine Fun HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1364.ts
-#EXTINF:-1,Telecine Premium
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1243.ts
-#EXTINF:-1,Telecine Premium HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1362.ts
-#EXTINF:-1,Telecine Touch
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1242.ts
-#EXTINF:-1,Telecine Touch HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1361.ts
-#EXTINF:-1,TCM
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1248.ts
-#EXTINF:-1,Terra Viva
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1241.ts
-#EXTINF:-1,TLC
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1239.ts
-#EXTINF:-1,TNT
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1238.ts
-#EXTINF:-1,TNT HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1360.ts
-#EXTINF:-1,TNT Series
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1237.ts
-#EXTINF:-1,TNT Series HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1359.ts
-#EXTINF:-1,Tooncast
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1236.ts
-#EXTINF:-1,TruTV
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1235.ts
-#EXTINF:-1,TV Brasil
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1234.ts
-#EXTINF:-1,TV Cultura
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1233.ts
-#EXTINF:-1,TV Clima
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1944.ts
-#EXTINF:-1,TV Ra tim bum
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1232.ts
-#EXTINF:-1,TV LIBERAL BELEM
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2186.ts
-#EXTINF:-1,Globo Bauru
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2185.ts
-#EXTINF:-1,TV BAHIA
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2189.ts
-#EXTINF:-1,TVE
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1231.ts
-#EXTINF:-1,TVE Bahia
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2130.ts
-#EXTINF:-1,TV BR NEWS
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1216.ts
-#EXTINF:-1,TV Diário
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1119.ts
-#EXTINF:-1,TV Gazeta RN
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1217.ts
-#EXTINF:-1,TV Master Joao Pessoa
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1837.ts
-#EXTINF:-1,TV Nova Nordeste
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1941.ts
-#EXTINF:-1,TV Gideoes HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2339.ts
-#EXTINF:-1,TV Plenitude
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2342.ts
-#EXTINF:-1,Universal
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2341.ts
-#EXTINF:-1,Universal Channel
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1230.ts
-#EXTINF:-1,Universal Channels HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1358.ts
-#EXTINF:-1,VH1 Megahits
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1229.ts
-#EXTINF:-1,VIVA HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1357.ts
-#EXTINF:-1,Viva
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1228.ts
-#EXTINF:-1,Warner Channel HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1355.ts
-#EXTINF:-1,Warner Channel
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1227.ts
-#EXTINF:-1,Woohoo
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1226.ts
-#EXTINF:-1,Move Jogos 1
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2081.ts
-#EXTINF:-1,Move Jogos 2
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2145.ts
-#EXTINF:-1,Globo RJ
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2338.ts
-#EXTINF:-1,PPV 1 SKY
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2654.ts
-#EXTINF:-1,PPV 2 SKY
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2653.ts
-#EXTINF:-1,PPV 3 SKY
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2652.ts
-#EXTINF:-1,PPV 4 SKY
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2651.ts
-#EXTINF:-1,PPV 5 SKY
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2650.ts
-#EXTINF:-1,Mosaico Move
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2080.ts
-#EXTINF:-1,NatGeo Kids HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2663.ts
-#EXTINF:-1,Nick JR HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2655.ts
-#EXTINF:-1,Cine Move
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1420.ts
-#EXTINF:-1,Cine Move 2
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1813.ts
-#EXTINF:-1,Cine Move 3
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1814.ts
-#EXTINF:-1,Cine Move 4
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1815.ts
-#EXTINF:-1,Cine Move 5
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1861.ts
-#EXTINF:-1,Cine Move 6
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1862.ts
-#EXTINF:-1,Cine Move 7
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1863.ts
-#EXTINF:-1,Cine Move 8
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1864.ts
-#EXTINF:-1,Cine Move 9
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1865.ts
-#EXTINF:-1,Cine Move 10
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/1866.ts
-#EXTINF:-1,Boomerang HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2659.ts
-#EXTINF:-1,Disney Jr HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2660.ts
-#EXTINF:-1,Gloob HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2661.ts
-#EXTINF:-1,Lifetime HD
-http://painel.iptvmove.com:80/live/Ladeira/Ladeira/2662.ts
+#EXTINF:0,A&E
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/274.ts
+#EXTINF:0,A&E HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/273.ts
+#EXTINF:0,A&E HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/273.ts
+#EXTINF:0,AMC
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/272.ts
+#EXTINF:0,AMC HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/271.ts
+#EXTINF:0,AMC HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/271.ts
+#EXTINF:0,Animal Planet
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/270.ts
+#EXTINF:0,Animal Planet HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/269.ts
+#EXTINF:0,Animal Planet HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/269.ts
+#EXTINF:0,Aparecida
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/25.ts
+#EXTINF:0,Arte 1
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/268.ts
+#EXTINF:0,Arte 1 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/267.ts
+#EXTINF:0,AXN
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/266.ts
+#EXTINF:0,AXN HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/265.ts
+#EXTINF:0,AXN HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/265.ts
+#EXTINF:0,Baby TV
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/264.ts
+#EXTINF:0,Band
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/263.ts
+#EXTINF:0,Band HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/262.ts
+#EXTINF:0,Band HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/262.ts
+#EXTINF:0,Band News
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/261.ts
+#EXTINF:0,Band News HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/260.ts
+#EXTINF:0,Band News HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/260.ts
+#EXTINF:0,Band Sports
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/259.ts
+#EXTINF:0,Band Sports HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/258.ts
+#EXTINF:0,Band Sports HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/258.ts
+#EXTINF:0,BIS
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/257.ts
+#EXTINF:0,BIS HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/256.ts
+#EXTINF:0,BIS HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/256.ts
+#EXTINF:0,Boa Vontade
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/255.ts
+#EXTINF:0,Boomerang
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/254.ts
+#EXTINF:0,Boomerang HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/253.ts
+#EXTINF:0,Boomerang HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/253.ts
+#EXTINF:0,Canal Brasil
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/252.ts
+#EXTINF:0,Canal Brasil HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/251.ts
+#EXTINF:0,Canal Brasil HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/251.ts
+#EXTINF:0,Canal Sony
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/250.ts
+#EXTINF:0,Canal Sony HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/249.ts
+#EXTINF:0,Canal Sony HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/249.ts
+#EXTINF:0,Can褯 Nova
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/248.ts
+#EXTINF:0,Cartoon Network
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/247.ts
+#EXTINF:0,Cartoon Network HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/246.ts
+#EXTINF:0,Cartoon Network HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/246.ts
+#EXTINF:0,Cinemax
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/245.ts
+#EXTINF:0,Cinemax HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/244.ts
+#EXTINF:0,Cinemax HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/244.ts
+#EXTINF:0,Combate
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/243.ts
+#EXTINF:0,Combate HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/242.ts
+#EXTINF:0,Combate HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/242.ts
+#EXTINF:0,Comedy Central
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/241.ts
+#EXTINF:0,Comedy Central HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/240.ts
+#EXTINF:0,Comedy Central HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/240.ts
+#EXTINF:0,Discovery Channel
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/237.ts
+#EXTINF:0,Discovery Channel HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/236.ts
+#EXTINF:0,Discovery Channel HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/236.ts
+#EXTINF:0,Discovery Civilization
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/235.ts
+#EXTINF:0,Discovery Civilization HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/234.ts
+#EXTINF:0,Discovery Civilization HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/234.ts
+#EXTINF:0,Discovery H&H
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/233.ts
+#EXTINF:0,Discovery H&H HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/232.ts
+#EXTINF:0,Discovery H&H HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/232.ts
+#EXTINF:0,Discovery Kids
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/231.ts
+#EXTINF:0,Discovery Kids HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/230.ts
+#EXTINF:0,Discovery Kids HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/230.ts
+#EXTINF:0,Discovery Science
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/229.ts
+#EXTINF:0,Discovery Science HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/228.ts
+#EXTINF:0,Discovery Science HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/228.ts
+#EXTINF:0,Discovery Theater
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/227.ts
+#EXTINF:0,Discovery Theater HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/226.ts
+#EXTINF:0,Discovery Theater HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/226.ts
+#EXTINF:0,Discovery Turbo
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/225.ts
+#EXTINF:0,Discovery Turbo HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/224.ts
+#EXTINF:0,Discovery Turbo HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/224.ts
+#EXTINF:0,Discovery World
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/223.ts
+#EXTINF:0,Discovery World HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/222.ts
+#EXTINF:0,Discovery World HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/222.ts
+#EXTINF:0,Disney Channel
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/221.ts
+#EXTINF:0,Disney Channel HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/220.ts
+#EXTINF:0,Disney Channel HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/220.ts
+#EXTINF:0,Disney Junior
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/219.ts
+#EXTINF:0,Disney XD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/218.ts
+#EXTINF:0,DogTV
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/217.ts
+#EXTINF:0,DogTV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/216.ts
+#EXTINF:0,DogTV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/216.ts
+#EXTINF:0,E!
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/215.ts
+#EXTINF:0,E! HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/214.ts
+#EXTINF:0,E! HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/214.ts
+#EXTINF:0,ESPN
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/213.ts
+#EXTINF:0,ESPN Brasil
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/211.ts
+#EXTINF:0,ESPN Brasil HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/210.ts
+#EXTINF:0,ESPN Brasil HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/210.ts
+#EXTINF:0,ESPN Extra
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/209.ts
+#EXTINF:0,ESPN Extra HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/208.ts
+#EXTINF:0,ESPN Extra HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/208.ts
+#EXTINF:0,ESPN HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/207.ts
+#EXTINF:0,ESPN HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/207.ts
+#EXTINF:0,Esporte Interativo
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/206.ts
+#EXTINF:0,Esporte Interativo 2
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/204.ts
+#EXTINF:0,Esporte Interativo 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/203.ts
+#EXTINF:0,Esporte Interativo 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/203.ts
+#EXTINF:0,Esporte Interativo BR
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/202.ts
+#EXTINF:0,Esporte Interativo BR HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/201.ts
+#EXTINF:0,Esporte Interativo BR HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/201.ts
+#EXTINF:0,Esporte Interativo HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/205.ts
+#EXTINF:0,Esporte Interativo HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/205.ts
+#EXTINF:0,Fish TV
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/200.ts
+#EXTINF:0,Fish TV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/199.ts
+#EXTINF:0,Fish TV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/199.ts
+#EXTINF:0,Food Network
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/198.ts
+#EXTINF:0,Food Network HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/197.ts
+#EXTINF:0,Food Network HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/197.ts
+#EXTINF:0,FOX
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/196.ts
+#EXTINF:0,FOX HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/195.ts
+#EXTINF:0,FOX HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/195.ts
+#EXTINF:0,FOX Life
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/194.ts
+#EXTINF:0,FOX Life HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/193.ts
+#EXTINF:0,FOX Life HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/193.ts
+#EXTINF:0,FOX Premium 1
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/192.ts
+#EXTINF:0,FOX Premium 1 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/191.ts
+#EXTINF:0,FOX Premium 1 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/191.ts
+#EXTINF:0,FOX Premium 2
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/190.ts
+#EXTINF:0,FOX Premium 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/189.ts
+#EXTINF:0,FOX Premium 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/189.ts
+#EXTINF:0,FOX Sports
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/188.ts
+#EXTINF:0,FOX Sports 2
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/186.ts
+#EXTINF:0,FOX Sports 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/185.ts
+#EXTINF:0,FOX Sports 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/185.ts
+#EXTINF:0,FOX Sports HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/187.ts
+#EXTINF:0,FOX Sports HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/187.ts
+#EXTINF:0,Futura
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/184.ts
+#EXTINF:0,Futura HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/183.ts
+#EXTINF:0,Futura HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/183.ts
+#EXTINF:0,FX
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/182.ts
+#EXTINF:0,FX HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/181.ts
+#EXTINF:0,FX HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/181.ts
+#EXTINF:0,Globo Minas
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/174.ts
+#EXTINF:0,Globo Minas HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/173.ts
+#EXTINF:0,Globo Minas HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/173.ts
+#EXTINF:0,Globo News
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/172.ts
+#EXTINF:0,Globo News HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/171.ts
+#EXTINF:0,Globo News HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/171.ts
+#EXTINF:0,Globo RBS TV Porto Alegre
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/166.ts
+#EXTINF:0,Globo RJ
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/164.ts
+#EXTINF:0,Globo RJ HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/163.ts
+#EXTINF:0,Globo RJ HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/163.ts
+#EXTINF:0,Globo SP
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/160.ts
+#EXTINF:0,Globo SP HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/159.ts
+#EXTINF:0,Globo SP HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/159.ts
+#EXTINF:0,Globo TV Bahia
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/155.ts
+#EXTINF:0,Globo TV Bahia HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/154.ts
+#EXTINF:0,Globo TV Bahia HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/154.ts
+#EXTINF:0,Gloob
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/150.ts
+#EXTINF:0,Gloob HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/149.ts
+#EXTINF:0,Gloob HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/149.ts
+#EXTINF:0,Gloobinho
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/147.ts
+#EXTINF:0,Gloobinho HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/148.ts
+#EXTINF:0,Gloobinho HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/148.ts
+#EXTINF:0,GNT
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/146.ts
+#EXTINF:0,GNT HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/145.ts
+#EXTINF:0,GNT HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/145.ts
+#EXTINF:0,H2
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/143.ts
+#EXTINF:0,H2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/143.ts
+#EXTINF:0,H2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/143.ts
+#EXTINF:0,HBO
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/142.ts
+#EXTINF:0,HBO 2
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/141.ts
+#EXTINF:0,HBO 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/140.ts
+#EXTINF:0,HBO 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/140.ts
+#EXTINF:0,HBO Family
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/139.ts
+#EXTINF:0,HBO Family HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/138.ts
+#EXTINF:0,HBO Family HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/138.ts
+#EXTINF:0,HBO HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/137.ts
+#EXTINF:0,HBO HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/137.ts
+#EXTINF:0,HBO Plus
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/136.ts
+#EXTINF:0,HBO Plus e
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/135.ts
+#EXTINF:0,HBO Plus HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/134.ts
+#EXTINF:0,HBO Plus HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/134.ts
+#EXTINF:0,HBO Signature
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/133.ts
+#EXTINF:0,HBO Signature HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/132.ts
+#EXTINF:0,HBO Signature HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/132.ts
+#EXTINF:0,History
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/131.ts
+#EXTINF:0,History HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/130.ts
+#EXTINF:0,History HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/130.ts
+#EXTINF:0,Investiga褯 Discovery
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/129.ts
+#EXTINF:0,Investiga褯 Discovery HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/128.ts
+#EXTINF:0,Investiga褯 Discovery HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/128.ts
+#EXTINF:0,Lifetime
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/127.ts
+#EXTINF:0,Lifetime HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/126.ts
+#EXTINF:0,Lifetime HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/126.ts
+#EXTINF:0,Mais Globosat
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/125.ts
+#EXTINF:0,Mais Globosat HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/124.ts
+#EXTINF:0,Mais Globosat HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/124.ts
+#EXTINF:0,MAX
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/123.ts
+#EXTINF:0,MAX HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/122.ts
+#EXTINF:0,MAX HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/122.ts
+#EXTINF:0,MAX Prime
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/121.ts
+#EXTINF:0,MAX Prime e
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/120.ts
+#EXTINF:0,MAX Prime HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/119.ts
+#EXTINF:0,MAX Prime HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/119.ts
+#EXTINF:0,MAX UP
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/118.ts
+#EXTINF:0,MAX UP HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/117.ts
+#EXTINF:0,MAX UP HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/117.ts
+#EXTINF:0,MegaPix
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/116.ts
+#EXTINF:0,MegaPix HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/115.ts
+#EXTINF:0,MegaPix HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/115.ts
+#EXTINF:0,MTV
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/114.ts
+#EXTINF:0,MTV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/113.ts
+#EXTINF:0,MTV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/113.ts
+#EXTINF:0,Multishow
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/112.ts
+#EXTINF:0,Multishow HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/111.ts
+#EXTINF:0,Multishow HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/111.ts
+#EXTINF:0,Music Box Brasil
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/110.ts
+#EXTINF:0,Music Box Brasil HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/109.ts
+#EXTINF:0,Music Box Brasil HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/109.ts
+#EXTINF:0,NatGeo
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/108.ts
+#EXTINF:0,NatGeo HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/107.ts
+#EXTINF:0,NatGeo HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/107.ts
+#EXTINF:0,NatGeo Kids
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/106.ts
+#EXTINF:0,NatGeo Kids HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/105.ts
+#EXTINF:0,NatGeo Kids HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/105.ts
+#EXTINF:0,NatGeo Wild
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/103.ts
+#EXTINF:0,NatGeo Wild HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/104.ts
+#EXTINF:0,NatGeo Wild HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/104.ts
+#EXTINF:0,NBR
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/102.ts
+#EXTINF:0,Nick
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/99.ts
+#EXTINF:0,Nick HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/98.ts
+#EXTINF:0,Nick HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/98.ts
+#EXTINF:0,Nick Jr
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/101.ts
+#EXTINF:0,Nick Jr HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/100.ts
+#EXTINF:0,Nick Jr HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/100.ts
+#EXTINF:0,OFF
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/97.ts
+#EXTINF:0,OFF HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/96.ts
+#EXTINF:0,OFF HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/96.ts
+#EXTINF:0,Paramount
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/95.ts
+#EXTINF:0,Paramount HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/94.ts
+#EXTINF:0,Paramount HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/94.ts
+#EXTINF:0,Playboy HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/398.ts
+#EXTINF:0,Premiere 2
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/93.ts
+#EXTINF:0,Premiere 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/92.ts
+#EXTINF:0,Premiere 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/92.ts
+#EXTINF:0,Premiere 3
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/91.ts
+#EXTINF:0,Premiere 3 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/90.ts
+#EXTINF:0,Premiere 3 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/90.ts
+#EXTINF:0,Premiere 4
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/89.ts
+#EXTINF:0,Premiere 4 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/88.ts
+#EXTINF:0,Premiere 4 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/88.ts
+#EXTINF:0,Premiere 5
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/87.ts
+#EXTINF:0,Premiere 5 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/86.ts
+#EXTINF:0,Premiere 5 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/86.ts
+#EXTINF:0,Premiere 6
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/85.ts
+#EXTINF:0,Premiere 6 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/84.ts
+#EXTINF:0,Premiere 6 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/84.ts
+#EXTINF:0,Premiere 7
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/83.ts
+#EXTINF:0,Premiere 7 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/82.ts
+#EXTINF:0,Premiere 7 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/82.ts
+#EXTINF:0,Premiere Clubes
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/81.ts
+#EXTINF:0,Premiere Clubes HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/80.ts
+#EXTINF:0,Premiere Clubes HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/80.ts
+#EXTINF:0,Prime Box Brasil
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/79.ts
+#EXTINF:0,Prime Box Brasil HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/78.ts
+#EXTINF:0,Prime Box Brasil HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/78.ts
+#EXTINF:0,Record
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/77.ts
+#EXTINF:0,Record HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/72.ts
+#EXTINF:0,Record HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/72.ts
+#EXTINF:0,Record HD Alternativo
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/76.ts
+#EXTINF:0,Record HD Alternativo
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/76.ts
+#EXTINF:0,Record News
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/75.ts
+#EXTINF:0,Record News HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/74.ts
+#EXTINF:0,Record News HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/74.ts
+#EXTINF:0,Record SP
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/73.ts
+#EXTINF:0,Rede Brasil
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/71.ts
+#EXTINF:0,Rede TV
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/70.ts
+#EXTINF:0,Rede TV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/69.ts
+#EXTINF:0,Rede TV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/69.ts
+#EXTINF:0,Rede Vida
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/68.ts
+#EXTINF:0,SBT
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/67.ts
+#EXTINF:0,SBT HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/66.ts
+#EXTINF:0,SBT HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/66.ts
+#EXTINF:0,SBT SP Interior
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/65.ts
+#EXTINF:0,Space
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/62.ts
+#EXTINF:0,Space HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/61.ts
+#EXTINF:0,Space HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/61.ts
+#EXTINF:0,SporTV
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/60.ts
+#EXTINF:0,SporTV 2
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/59.ts
+#EXTINF:0,SporTV 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/58.ts
+#EXTINF:0,SporTV 2 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/58.ts
+#EXTINF:0,SporTV 3
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/57.ts
+#EXTINF:0,SporTV 3 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/56.ts
+#EXTINF:0,SporTV 3 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/56.ts
+#EXTINF:0,SporTV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/55.ts
+#EXTINF:0,SporTV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/55.ts
+#EXTINF:0,Studio Universal
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/54.ts
+#EXTINF:0,Studio Universal HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/53.ts
+#EXTINF:0,Studio Universal HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/53.ts
+#EXTINF:0,SundanceTV
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/52.ts
+#EXTINF:0,SundanceTV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/51.ts
+#EXTINF:0,SundanceTV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/51.ts
+#EXTINF:0,Syfy
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/64.ts
+#EXTINF:0,Syfy HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/63.ts
+#EXTINF:0,Syfy HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/63.ts
+#EXTINF:0,TBS
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/50.ts
+#EXTINF:0,TBS HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/49.ts
+#EXTINF:0,TBS HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/49.ts
+#EXTINF:0,TCM
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/48.ts
+#EXTINF:0,Telecine Action
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/47.ts
+#EXTINF:0,Telecine Action HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/46.ts
+#EXTINF:0,Telecine Action HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/46.ts
+#EXTINF:0,Telecine Cult
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/45.ts
+#EXTINF:0,Telecine Cult HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/44.ts
+#EXTINF:0,Telecine Cult HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/44.ts
+#EXTINF:0,Telecine Fun
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/43.ts
+#EXTINF:0,Telecine Fun HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/42.ts
+#EXTINF:0,Telecine Fun HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/42.ts
+#EXTINF:0,Telecine Pipoca
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/41.ts
+#EXTINF:0,Telecine Pipoca HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/40.ts
+#EXTINF:0,Telecine Pipoca HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/40.ts
+#EXTINF:0,Telecine Premium
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/39.ts
+#EXTINF:0,Telecine Premium HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/38.ts
+#EXTINF:0,Telecine Premium HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/38.ts
+#EXTINF:0,Telecine Touch
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/37.ts
+#EXTINF:0,Telecine Touch HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/36.ts
+#EXTINF:0,Telecine Touch HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/36.ts
+#EXTINF:0,Terra Viva
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/35.ts
+#EXTINF:0,TLC
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/34.ts
+#EXTINF:0,TLC HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/33.ts
+#EXTINF:0,TLC HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/33.ts
+#EXTINF:0,TNT
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/32.ts
+#EXTINF:0,TNT HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/31.ts
+#EXTINF:0,TNT HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/31.ts
+#EXTINF:0,TNT S곩es
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/30.ts
+#EXTINF:0,TNT S곩es HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/29.ts
+#EXTINF:0,TNT S곩es HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/29.ts
+#EXTINF:0,Tooncast
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/28.ts
+#EXTINF:0,TruTV
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/18.ts
+#EXTINF:0,TruTV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/17.ts
+#EXTINF:0,TruTV HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/17.ts
+#EXTINF:0,TV Brasil
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/24.ts
+#EXTINF:0,TV C㮡ra
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/23.ts
+#EXTINF:0,TV Escola
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/22.ts
+#EXTINF:0,TV Gazeta HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/21.ts
+#EXTINF:0,TV Gazeta HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/21.ts
+#EXTINF:0,TV Justi衍
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/26.ts
+#EXTINF:0,TV Rᡔim Bum
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/20.ts
+#EXTINF:0,TV Rᡔim Bum HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/19.ts
+#EXTINF:0,TV Rᡔim Bum HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/19.ts
+#EXTINF:0,TV Senado
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/27.ts
+#EXTINF:0,Universal Channel
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/16.ts
+#EXTINF:0,Universal Channel HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/15.ts
+#EXTINF:0,Universal Channel HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/15.ts
+#EXTINF:0,VH1
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/14.ts
+#EXTINF:0,VH1 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/13.ts
+#EXTINF:0,VH1 HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/13.ts
+#EXTINF:0,VIVA
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/11.ts
+#EXTINF:0,VIVA HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/10.ts
+#EXTINF:0,VIVA HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/10.ts
+#EXTINF:0,Warner Channel
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/9.ts
+#EXTINF:0,Warner Channel HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/8.ts
+#EXTINF:0,Warner Channel HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/8.ts
+#EXTINF:0,Woohoo
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/7.ts
+#EXTINF:0,Woohoo HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/6.ts
+#EXTINF:0,Woohoo HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/6.ts
+#EXTINF:0,Playboy
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/4.ts
+#EXTINF:0,Playboy HD
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/398.ts
+#EXTINF:0,Sextreme
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/3.ts
+#EXTINF:0,Sexy Hot
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/2.ts
+#EXTINF:0,Venus
+http://live.megabox.tv:80/live/4A2129/444b42bbb4636f2ccb0bff91601a8c66/1.ts
