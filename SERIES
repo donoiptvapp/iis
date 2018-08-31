@@ -1,15 +1,3 @@
-#PLAYLISTV: pltv-logo="https://goo.gl/m67igz" pltv-name="Tela Séries" pltv-description="Lista oficial da Tela Séries, listas atualizadas em hd!" pltv-cover="https://goo.gl/FpZyZD" pltv-author="Tela Séries" pltv-site="-" pltv-email="-" pltv-phone="-"
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://goo.gl/4YBvxY" group-title="INFORMAÇÕES: CLIQUE AQUI!", LISTA DO RODRIGOU
-http://0.0.0.0
-#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="INFORMAÇÕES: CLIQUE AQUI!", bit.ly/RODRIGOUPAGINA
-http://0.0.0.0
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/cash-payment_23-2147511454.jpg" group-title="FAÇA UMA DOAÇÃO! PARA CONTINUAR COM ESSE TRABALHO", FAÇA UMA DOAÇÃO! PARA CONTINUAR COM ESSE TRABALHO
-http://0.0.0.0
-#EXTINF:-1 tvg-logo="http://www.listaiptvvip.com/wp-content/uploads/2017/12/lista-iptv-vip.png" group-title="MELHOR LISTA DE CANAIS", QUER UM LISTA DE CANAIS COMPLETA? SÓ ENTRAR EM CONTATO COM WWW.LISTAIPTVVIP.COM OU NO WHATS
-http://0.0.0.0
-#EXTINF:-1 tvg-logo="http://www.listaiptvvip.com/wp-content/uploads/2017/12/lista-iptv-vip.png" group-title="MELHOR LISTA DE CANAIS", WHATS (19) 998509928
-http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://goo.gl/tEgvvn" group-title="A Casa Da Raven" pltv-subgroup="Clique Aqui!", T1|EP1 (LEG)
 http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/ravens/01leg/01-ALTO.mp4
