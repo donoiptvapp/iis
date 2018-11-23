@@ -1,5 +1,4 @@
-OI TUDO BEM?..
-<div style="display:none;">
+
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="Información",TECNOTV
@@ -3462,4 +3461,5 @@ https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8?
 https://stream.smcdn.pl/eskarocktv-p/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/etndUmR.png" group-title="MUSICA", UP Latino |SD
 https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
-</div>
+
+
