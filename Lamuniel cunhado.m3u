@@ -1,0 +1,1009 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Atencao estamos em manutencao MEGA TVHD FILME" tvg-name="Atencao estamos em manutencao MEGA TVHD FILME" tvg-logo="https://raw.githubusercontent.com/donoiptvapp/iis/master/LOGO.png" group-title="CANAIS MEGA TVHD FILME",Atencao estamos em manutencao MEGA TVHD FILME
+https://github.com/donoiptvapp/iis/blob/master/Atencao%20estamos%20%20em%20manutencao%20no%20canal.ts?raw=true
+#EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="EPTV CAMPINAS HD" tvg-logo="http://img.cs10.tv/12.png" group-title="CANAIS GLOBO",EPTV CAMPINAS HD
+http://54.39.105.110:25461/iptv56566/26257/12
+#EXTINF:-1 tvg-id="Eptvcampinas.br" tvg-name="EPTV CAMPINAS SD" tvg-logo="http://img.cs10.tv/13.png" group-title="CANAIS GLOBO",EPTV CAMPINAS SD
+http://54.39.105.110:25461/iptv56566/26257/13
+#EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="EPTV RIBEIRAO PRETO HD" tvg-logo="http://img.cs10.tv/15.png" group-title="CANAIS GLOBO",EPTV RIBEIRAO PRETO HD
+http://54.39.105.110:25461/iptv56566/26257/15
+#EXTINF:-1 tvg-id="Eptvrpreto.br" tvg-name="EPTV RIBEIRAO PRETO SD" tvg-logo="http://img.cs10.tv/16.png" group-title="CANAIS GLOBO",EPTV RIBEIRAO PRETO SD
+http://54.39.105.110:25461/iptv56566/26257/16
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO ANHANGUERA GOIANIA HD" tvg-logo="http://img.cs10.tv/17.png" group-title="CANAIS GLOBO",GLOBO ANHANGUERA GOIANIA HD
+http://54.39.105.110:25461/iptv56566/26257/17
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO ANHANGUERA GOIANIA SD" tvg-logo="http://img.cs10.tv/17.png" group-title="CANAIS GLOBO",GLOBO ANHANGUERA GOIANIA SD
+http://54.39.105.110:25461/iptv56566/26257/4539
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.cs10.tv/27.png" group-title="CANAIS GLOBO",GLOBO BRASILIA HD
+http://54.39.105.110:25461/iptv56566/26257/27
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://img.cs10.tv/27.png" group-title="CANAIS GLOBO",GLOBO BRASILIA SD
+http://54.39.105.110:25461/iptv56566/26257/4077
+#EXTINF:-1 tvg-id="Eptvsulminas.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV SUL DE MINAS HD
+http://54.39.105.110:25461/iptv56566/26257/4336
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV SUL DE MINAS SD
+http://54.39.105.110:25461/iptv56566/26257/4337
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO GAZETA SUL ES FHD" tvg-logo="http://img.cs10.tv/22.jpg" group-title="CANAIS GLOBO",GLOBO GAZETA SUL ES FHD
+http://54.39.105.110:25461/iptv56566/26257/22
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO GAZETA SUL ES HD" tvg-logo="http://img.cs10.tv/3619.jpg" group-title="CANAIS GLOBO",GLOBO GAZETA SUL ES HD
+http://54.39.105.110:25461/iptv56566/26257/3619
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS FHD" tvg-logo="http://img.cs10.tv/18.png" group-title="CANAIS GLOBO",GLOBO MINAS FHD
+http://54.39.105.110:25461/iptv56566/26257/18
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://img.cs10.tv/19.png" group-title="CANAIS GLOBO",GLOBO MINAS HD
+http://54.39.105.110:25461/iptv56566/26257/19
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD" tvg-logo="http://img.cs10.tv/21.png" group-title="CANAIS GLOBO",GLOBO MINAS SD
+http://54.39.105.110:25461/iptv56566/26257/21
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="http://img.cs10.tv/30.png" group-title="CANAIS GLOBO",GLOBO NORDESTE FHD
+http://54.39.105.110:25461/iptv56566/26257/4318
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.cs10.tv/30.png" group-title="CANAIS GLOBO",GLOBO NORDESTE HD
+http://54.39.105.110:25461/iptv56566/26257/30
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://img.cs10.tv/30.png" group-title="CANAIS GLOBO",GLOBO NORDESTE SD
+http://54.39.105.110:25461/iptv56566/26257/4540
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GLOBO NSC TV HD FLORIANOPOLIS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS GLOBO",GLOBO NSC TV HD FLORIANOPOLIS
+http://54.39.105.110:25461/iptv56566/26257/4231
+#EXTINF:-1 tvg-id="Globonscflorianopolis.br" tvg-name="GLOBO NSC TV SD FLORIANOPOLIS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS GLOBO",GLOBO NSC TV SD FLORIANOPOLIS
+http://54.39.105.110:25461/iptv56566/26257/4232
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://img.cs10.tv/1.png" group-title="CANAIS GLOBO",GLOBO RJ FHD
+http://54.39.105.110:25461/iptv56566/26257/1
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD ALT" tvg-logo="http://img.cs10.tv/1.png" group-title="CANAIS GLOBO",GLOBO RJ FHD ALT
+http://54.39.105.110:25461/iptv56566/26257/4541
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://img.cs10.tv/3.png" group-title="CANAIS GLOBO",GLOBO RJ HD
+http://54.39.105.110:25461/iptv56566/26257/3
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD ALT" tvg-logo="http://img.cs10.tv/1.png" group-title="CANAIS GLOBO",GLOBO RJ HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4236
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://img.cs10.tv/6.png" group-title="CANAIS GLOBO",GLOBO RJ SD
+http://54.39.105.110:25461/iptv56566/26257/6
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://img.cs10.tv/3658.jpg" group-title="CANAIS GLOBO",GLOBO RPC CURITIBA HD
+http://54.39.105.110:25461/iptv56566/26257/3658
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://img.cs10.tv/7.png" group-title="CANAIS GLOBO",GLOBO SP FHD
+http://54.39.105.110:25461/iptv56566/26257/7
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="http://img.cs10.tv/8.png" group-title="CANAIS GLOBO",GLOBO SP FHD H265
+http://54.39.105.110:25461/iptv56566/26257/4315
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://img.cs10.tv/8.png" group-title="CANAIS GLOBO",GLOBO SP HD
+http://54.39.105.110:25461/iptv56566/26257/8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD ALT" tvg-logo="http://img.cs10.tv/8.png" group-title="CANAIS GLOBO",GLOBO SP HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4309
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="http://img.cs10.tv/10.png" group-title="CANAIS GLOBO",GLOBO SP SD
+http://54.39.105.110:25461/iptv56566/26257/10
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://img.cs10.tv/3662.jpg" group-title="CANAIS GLOBO",GLOBO TV BAHIA HD
+http://54.39.105.110:25461/iptv56566/26257/4538
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="http://img.cs10.tv/3662.jpg" group-title="CANAIS GLOBO",GLOBO TV BAHIA SD
+http://54.39.105.110:25461/iptv56566/26257/3662
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA VITÓRIA ES FHD" tvg-logo="http://s2.glbimg.com/Y9XKVren8ZAGj4ScXCeIbZLSBr8=/0x62:1403x850/178x100/s.glbimg.com/jo/g1/f/original/2016/11/29/fundo_tv_gazeta.jpg" group-title="CANAIS GLOBO",GLOBO TV GAZETA VITÓRIA ES FHD
+http://54.39.105.110:25461/iptv56566/26257/4208
+#EXTINF:-1 tvg-id="GloboGazetaES.br" tvg-name="GLOBO TV GAZETA VITÓRIA ES HD" tvg-logo="http://s2.glbimg.com/Y9XKVren8ZAGj4ScXCeIbZLSBr8=/0x62:1403x850/178x100/s.glbimg.com/jo/g1/f/original/2016/11/29/fundo_tv_gazeta.jpg" group-title="CANAIS GLOBO",GLOBO TV GAZETA VITÓRIA ES HD
+http://54.39.105.110:25461/iptv56566/26257/4209
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITÓRIA ES SD" tvg-logo="http://s2.glbimg.com/Y9XKVren8ZAGj4ScXCeIbZLSBr8=/0x62:1403x850/178x100/s.glbimg.com/jo/g1/f/original/2016/11/29/fundo_tv_gazeta.jpg" group-title="CANAIS GLOBO",GLOBO TV GAZETA VITÓRIA ES SD
+http://54.39.105.110:25461/iptv56566/26257/4534
+#EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="GLOBO USA PREMIUM HD" tvg-logo="http://img.cs10.tv/60.png" group-title="CANAIS GLOBO",GLOBO USA PREMIUM HD
+http://54.39.105.110:25461/iptv56566/26257/60
+#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO VANGUARDA S.J.CAMPOS SD" tvg-logo="http://img.cs10.tv/3660.jpg" group-title="CANAIS GLOBO",GLOBO VANGUARDA S.J.CAMPOS SD
+http://54.39.105.110:25461/iptv56566/26257/3660
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO VERDES MARES" tvg-logo="http://img.cs10.tv/3661.png" group-title="CANAIS GLOBO",GLOBO VERDES MARES
+http://54.39.105.110:25461/iptv56566/26257/3661
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="RBS PORTO ALEGRE HD" tvg-logo="http://img.cs10.tv/50.png" group-title="CANAIS GLOBO",RBS PORTO ALEGRE HD
+http://54.39.105.110:25461/iptv56566/26257/50
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="RBS PORTO ALEGRE SD" tvg-logo="http://img.cs10.tv/50.png" group-title="CANAIS GLOBO",RBS PORTO ALEGRE SD
+http://54.39.105.110:25461/iptv56566/26257/3763
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="TV TEM BAURU SD" tvg-logo="http://img.cs10.tv/36.png" group-title="CANAIS GLOBO",TV TEM BAURU SD
+http://54.39.105.110:25461/iptv56566/26257/36
+#EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="TV TEM SJ RIO PRETO SD" tvg-logo="http://img.cs10.tv/37.png" group-title="CANAIS GLOBO",TV TEM SJ RIO PRETO SD
+http://54.39.105.110:25461/iptv56566/26257/37
+#EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="TV TEM SOROCABA SD" tvg-logo="http://img.cs10.tv/35.png" group-title="CANAIS GLOBO",TV TEM SOROCABA SD
+http://54.39.105.110:25461/iptv56566/26257/35
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf87ee412553236ff71fdb6a2f5d8ce.jpg" group-title="CANAIS ABERTOS",AGRO CANAL SD
+http://54.39.105.110:25461/iptv56566/26257/4234
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD" tvg-logo="http://img.cs10.tv/73.png" group-title="CANAIS ABERTOS",BAND FHD
+http://54.39.105.110:25461/iptv56566/26257/73
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://img.cs10.tv/75.png" group-title="CANAIS ABERTOS",BAND HD
+http://54.39.105.110:25461/iptv56566/26257/75
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD ALT" tvg-logo="http://img.cs10.tv/75.png" group-title="CANAIS ABERTOS",BAND HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4096
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="http://img.cs10.tv/78.png" group-title="CANAIS ABERTOS",BAND SD
+http://54.39.105.110:25461/iptv56566/26257/78
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD ALT" tvg-logo="http://img.cs10.tv/75.png" group-title="CANAIS ABERTOS",BAND SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4097
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI SD" tvg-logo="http://img.cs10.tv/3669.png" group-title="CANAIS ABERTOS",CANAL DO BOI SD
+http://54.39.105.110:25461/iptv56566/26257/3669
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://img.cs10.tv/2236.png" group-title="CANAIS ABERTOS",CANAL RURAL
+http://54.39.105.110:25461/iptv56566/26257/2236
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL ALT" tvg-logo="http://img.cs10.tv/2236.png" group-title="CANAIS ABERTOS",CANAL RURAL ALT
+http://54.39.105.110:25461/iptv56566/26257/4314
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD ES VITORIA" tvg-logo="http://img.cs10.tv/3692.jpg" group-title="CANAIS ABERTOS",RECORD ES VITORIA
+http://54.39.105.110:25461/iptv56566/26257/3692
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV FHD" tvg-logo="http://img.cs10.tv/64.png" group-title="CANAIS ABERTOS",RECORD TV FHD
+http://54.39.105.110:25461/iptv56566/26257/64
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV HD" tvg-logo="http://img.cs10.tv/66.png" group-title="CANAIS ABERTOS",RECORD TV HD
+http://54.39.105.110:25461/iptv56566/26257/66
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV HD ALT" tvg-logo="http://img.cs10.tv/66.png" group-title="CANAIS ABERTOS",RECORD TV HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4094
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV MG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/91/TV_Record_Minas.jpg" group-title="CANAIS ABERTOS",RECORD TV MG HD
+http://54.39.105.110:25461/iptv56566/26257/4257
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV MG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/91/TV_Record_Minas.jpg" group-title="CANAIS ABERTOS",RECORD TV MG SD
+http://54.39.105.110:25461/iptv56566/26257/4258
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV NORDESTE FHD" tvg-logo="http://img.cs10.tv/64.png" group-title="CANAIS ABERTOS",RECORD TV NORDESTE FHD
+http://54.39.105.110:25461/iptv56566/26257/4319
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV NORDESTE HD" tvg-logo="http://img.cs10.tv/64.png" group-title="CANAIS ABERTOS",RECORD TV NORDESTE HD
+http://54.39.105.110:25461/iptv56566/26257/4320
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_Record_Rio_de_Janeiro.png" group-title="CANAIS ABERTOS",RECORD TV RJ HD
+http://54.39.105.110:25461/iptv56566/26257/4255
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV RJ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_Record_Rio_de_Janeiro.png" group-title="CANAIS ABERTOS",RECORD TV RJ SD
+http://54.39.105.110:25461/iptv56566/26257/4256
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SD" tvg-logo="http://img.cs10.tv/69.png" group-title="CANAIS ABERTOS",RECORD TV SD
+http://54.39.105.110:25461/iptv56566/26257/69
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://img.cs10.tv/97.png" group-title="CANAIS ABERTOS",REDE BRASIL SD
+http://54.39.105.110:25461/iptv56566/26257/97
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL SD ALT" tvg-logo="http://img.cs10.tv/97.png" group-title="CANAIS ABERTOS",REDE BRASIL SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4312
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="http://img.cs10.tv/89.png" group-title="CANAIS ABERTOS",REDE TV HD
+http://54.39.105.110:25461/iptv56566/26257/89
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://img.cs10.tv/90.png" group-title="CANAIS ABERTOS",REDE TV SD
+http://54.39.105.110:25461/iptv56566/26257/90
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD ALT" tvg-logo="http://img.cs10.tv/89.png" group-title="CANAIS ABERTOS",REDE TV SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4101
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="http://img.cs10.tv/79.png" group-title="CANAIS ABERTOS",SBT FHD
+http://54.39.105.110:25461/iptv56566/26257/79
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="http://img.cs10.tv/82.png" group-title="CANAIS ABERTOS",SBT HD
+http://54.39.105.110:25461/iptv56566/26257/82
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD ALT" tvg-logo="http://img.cs10.tv/82.png" group-title="CANAIS ABERTOS",SBT HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4098
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://img.cs10.tv/85.png" group-title="CANAIS ABERTOS",SBT SD
+http://54.39.105.110:25461/iptv56566/26257/85
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD ALT" tvg-logo="http://img.cs10.tv/82.png" group-title="CANAIS ABERTOS",SBT SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4099
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA" tvg-logo="http://img.cs10.tv/101.png" group-title="CANAIS ABERTOS",TERRA VIVA
+http://54.39.105.110:25461/iptv56566/26257/101
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA ALT" tvg-logo="http://img.cs10.tv/101.png" group-title="CANAIS ABERTOS",TERRA VIVA ALT
+http://54.39.105.110:25461/iptv56566/26257/4313
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="http://img.cs10.tv/92.png" group-title="CANAIS ABERTOS",TV CULTURA HD
+http://54.39.105.110:25461/iptv56566/26257/92
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD ALT" tvg-logo="http://img.cs10.tv/92.png" group-title="CANAIS ABERTOS",TV CULTURA HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4310
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV ESCOLA" tvg-logo="http://img.cs10.tv/95.png" group-title="CANAIS ABERTOS",TV ESCOLA
+http://54.39.105.110:25461/iptv56566/26257/95
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="http://img.cs10.tv/96.png" group-title="CANAIS ABERTOS",TV GAZETA SP HD
+http://54.39.105.110:25461/iptv56566/26257/96
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP HD ALT" tvg-logo="http://img.cs10.tv/89.png" group-title="CANAIS ABERTOS",TV GAZETA SP HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4102
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://img.cs10.tv/474.png" group-title="CULTURA",ANIMAL PLANET FHD
+http://54.39.105.110:25461/iptv56566/26257/474
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://img.cs10.tv/475.png" group-title="CULTURA",ANIMAL PLANET HD
+http://54.39.105.110:25461/iptv56566/26257/475
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://img.cs10.tv/477.png" group-title="CULTURA",ANIMAL PLANET SD
+http://54.39.105.110:25461/iptv56566/26257/477
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://img.cs10.tv/523.jpg" group-title="CULTURA",ARTE 1 HD
+http://54.39.105.110:25461/iptv56566/26257/523
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="http://img.cs10.tv/524.jpg" group-title="CULTURA",ARTE 1 SD
+http://54.39.105.110:25461/iptv56566/26257/524
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://img.cs10.tv/482.png" group-title="CULTURA",DISCOVERY CHANNEL FHD
+http://54.39.105.110:25461/iptv56566/26257/482
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://img.cs10.tv/484.png" group-title="CULTURA",DISCOVERY CHANNEL HD
+http://54.39.105.110:25461/iptv56566/26257/484
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://img.cs10.tv/486.png" group-title="CULTURA",DISCOVERY CHANNEL SD
+http://54.39.105.110:25461/iptv56566/26257/486
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION FHD" tvg-logo="http://img.cs10.tv/497.png" group-title="CULTURA",DISCOVERY CIVILIZATION FHD
+http://54.39.105.110:25461/iptv56566/26257/497
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://img.cs10.tv/498.png" group-title="CULTURA",DISCOVERY CIVILIZATION HD
+http://54.39.105.110:25461/iptv56566/26257/498
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION SD" tvg-logo="http://img.cs10.tv/500.png" group-title="CULTURA",DISCOVERY CIVILIZATION SD
+http://54.39.105.110:25461/iptv56566/26257/500
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://img.cs10.tv/503.png" group-title="CULTURA",DISCOVERY SCIENCE FHD
+http://54.39.105.110:25461/iptv56566/26257/4317
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://img.cs10.tv/503.png" group-title="CULTURA",DISCOVERY SCIENCE HD
+http://54.39.105.110:25461/iptv56566/26257/503
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://img.cs10.tv/504.png" group-title="CULTURA",DISCOVERY SCIENCE SD
+http://54.39.105.110:25461/iptv56566/26257/504
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://img.cs10.tv/489.png" group-title="CULTURA",DISCOVERY THEATER HD
+http://54.39.105.110:25461/iptv56566/26257/489
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="http://img.cs10.tv/491.png" group-title="CULTURA",DISCOVERY THEATER SD
+http://54.39.105.110:25461/iptv56566/26257/491
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://img.cs10.tv/493.png" group-title="CULTURA",DISCOVERY WORLD FHD
+http://54.39.105.110:25461/iptv56566/26257/493
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://img.cs10.tv/494.png" group-title="CULTURA",DISCOVERY WORLD HD
+http://54.39.105.110:25461/iptv56566/26257/494
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="http://img.cs10.tv/496.png" group-title="CULTURA",DISCOVERY WORLD SD
+http://54.39.105.110:25461/iptv56566/26257/496
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD" tvg-logo="http://img.cs10.tv/518.png" group-title="CULTURA",H2 FHD
+http://54.39.105.110:25461/iptv56566/26257/518
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://img.cs10.tv/519.png" group-title="CULTURA",H2 HD
+http://54.39.105.110:25461/iptv56566/26257/519
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="http://img.cs10.tv/521.png" group-title="CULTURA",H2 SD
+http://54.39.105.110:25461/iptv56566/26257/521
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="http://img.cs10.tv/514.png" group-title="CULTURA",HISTORY FHD
+http://54.39.105.110:25461/iptv56566/26257/514
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="http://img.cs10.tv/515.png" group-title="CULTURA",HISTORY HD
+http://54.39.105.110:25461/iptv56566/26257/515
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="http://img.cs10.tv/517.png" group-title="CULTURA",HISTORY SD
+http://54.39.105.110:25461/iptv56566/26257/517
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD" tvg-logo="http://img.cs10.tv/479.png" group-title="CULTURA",ID - INVESTIGACAO DISCOVERY FHD
+http://54.39.105.110:25461/iptv56566/26257/479
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="http://img.cs10.tv/480.png" group-title="CULTURA",ID - INVESTIGACAO DISCOVERY HD
+http://54.39.105.110:25461/iptv56566/26257/480
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="http://img.cs10.tv/481.png" group-title="CULTURA",ID - INVESTIGACAO DISCOVERY SD
+http://54.39.105.110:25461/iptv56566/26257/481
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD" tvg-logo="http://img.cs10.tv/505.png" group-title="CULTURA",NAT GEO WILD FHD
+http://54.39.105.110:25461/iptv56566/26257/505
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="http://img.cs10.tv/506.png" group-title="CULTURA",NAT GEO WILD HD
+http://54.39.105.110:25461/iptv56566/26257/506
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="http://img.cs10.tv/507.png" group-title="CULTURA",NAT GEO WILD SD
+http://54.39.105.110:25461/iptv56566/26257/507
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://img.cs10.tv/508.png" group-title="CULTURA",NATIONAL GEOGRAPHIC FHD
+http://54.39.105.110:25461/iptv56566/26257/508
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://img.cs10.tv/509.png" group-title="CULTURA",NATIONAL GEOGRAPHIC HD
+http://54.39.105.110:25461/iptv56566/26257/509
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://img.cs10.tv/512.png" group-title="CULTURA",NATIONAL GEOGRAPHIC SD
+http://54.39.105.110:25461/iptv56566/26257/512
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://img.cs10.tv/179.png" group-title="ESPORTES",BAND SPORTS FHD
+http://54.39.105.110:25461/iptv56566/26257/179
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://img.cs10.tv/180.png" group-title="ESPORTES",BAND SPORTS HD
+http://54.39.105.110:25461/iptv56566/26257/180
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD ALT" tvg-logo="http://img.cs10.tv/180.png" group-title="ESPORTES",BAND SPORTS HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4078
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://img.cs10.tv/182.png" group-title="ESPORTES",BAND SPORTS SD
+http://54.39.105.110:25461/iptv56566/26257/182
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD ALT" tvg-logo="http://img.cs10.tv/182.png" group-title="ESPORTES",BAND SPORTS SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4079
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="http://img.cs10.tv/141.png" group-title="ESPORTES",COMBATE FHD
+http://54.39.105.110:25461/iptv56566/26257/141
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://img.cs10.tv/142.png" group-title="ESPORTES",COMBATE HD
+http://54.39.105.110:25461/iptv56566/26257/142
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD ALT" tvg-logo="http://img.cs10.tv/142.png" group-title="ESPORTES",COMBATE HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4056
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="http://img.cs10.tv/145.png" group-title="ESPORTES",COMBATE SD
+http://54.39.105.110:25461/iptv56566/26257/145
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD ALT" tvg-logo="http://img.cs10.tv/142.png" group-title="ESPORTES",COMBATE SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4057
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://img.cs10.tv/148.png" group-title="ESPORTES",ESPN BRASIL FHD
+http://54.39.105.110:25461/iptv56566/26257/148
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://img.cs10.tv/149.png" group-title="ESPORTES",ESPN BRASIL HD
+http://54.39.105.110:25461/iptv56566/26257/149
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD ALT" tvg-logo="http://img.cs10.tv/149.png" group-title="ESPORTES",ESPN BRASIL HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4069
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="http://img.cs10.tv/152.png" group-title="ESPORTES",ESPN BRASIL SD
+http://54.39.105.110:25461/iptv56566/26257/152
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD ALT" tvg-logo="http://img.cs10.tv/152.png" group-title="ESPORTES",ESPN BRASIL SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4070
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://ugc.kn3.net/i/origin/http://cdn.vizio.com/skin/frontend/enterprise/vizio/landingpages/gamedaylanding2/images/gd-apps-logo-ESPN-extra.png" group-title="ESPORTES",ESPN EXTRA HD
+http://54.39.105.110:25461/iptv56566/26257/4075
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://ugc.kn3.net/i/origin/http://cdn.vizio.com/skin/frontend/enterprise/vizio/landingpages/gamedaylanding2/images/gd-apps-logo-ESPN-extra.png" group-title="ESPORTES",ESPN EXTRA SD
+http://54.39.105.110:25461/iptv56566/26257/4076
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="http://img.cs10.tv/153.png" group-title="ESPORTES",ESPN FHD
+http://54.39.105.110:25461/iptv56566/26257/153
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="http://img.cs10.tv/154.png" group-title="ESPORTES",ESPN HD
+http://54.39.105.110:25461/iptv56566/26257/154
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD ALT" tvg-logo="http://img.cs10.tv/154.png" group-title="ESPORTES",ESPN HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4071
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="http://img.cs10.tv/157.png" group-title="ESPORTES",ESPN SD
+http://54.39.105.110:25461/iptv56566/26257/157
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD ALT" tvg-logo="http://img.cs10.tv/154.png" group-title="ESPORTES",ESPN SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4072
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 HD" tvg-logo="http://img.cs10.tv/159.png" group-title="ESPORTES",ESPN2 HD
+http://54.39.105.110:25461/iptv56566/26257/159
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 HD ALT" tvg-logo="http://img.cs10.tv/159.png" group-title="ESPORTES",ESPN2 HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4073
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 SD" tvg-logo="http://img.cs10.tv/161.png" group-title="ESPORTES",ESPN2 SD
+http://54.39.105.110:25461/iptv56566/26257/161
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 SD ALT" tvg-logo="http://img.cs10.tv/159.png" group-title="ESPORTES",ESPN2 SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4074
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://img.cs10.tv/185.png" group-title="ESPORTES",FISH TV HD
+http://54.39.105.110:25461/iptv56566/26257/185
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD ALT" tvg-logo="http://img.cs10.tv/185.png" group-title="ESPORTES",FISH TV HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4082
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://img.cs10.tv/186.png" group-title="ESPORTES",FISH TV SD
+http://54.39.105.110:25461/iptv56566/26257/186
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD ALT" tvg-logo="http://img.cs10.tv/186.png" group-title="ESPORTES",FISH TV SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4083
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://img.cs10.tv/137.png" group-title="ESPORTES",FOX SPORTS 2 FHD
+http://54.39.105.110:25461/iptv56566/26257/4064
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://img.cs10.tv/137.png" group-title="ESPORTES",FOX SPORTS 2 HD
+http://54.39.105.110:25461/iptv56566/26257/137
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD ALT" tvg-logo="http://img.cs10.tv/137.png" group-title="ESPORTES",FOX SPORTS 2 HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4067
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://img.cs10.tv/140.png" group-title="ESPORTES",FOX SPORTS 2 SD
+http://54.39.105.110:25461/iptv56566/26257/140
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD ALT" tvg-logo="http://img.cs10.tv/137.png" group-title="ESPORTES",FOX SPORTS 2 SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4068
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD" tvg-logo="http://img.cs10.tv/128.png" group-title="ESPORTES",FOX SPORTS FHD
+http://54.39.105.110:25461/iptv56566/26257/128
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://img.cs10.tv/130.png" group-title="ESPORTES",FOX SPORTS HD
+http://54.39.105.110:25461/iptv56566/26257/130
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD ALT" tvg-logo="http://img.cs10.tv/130.png" group-title="ESPORTES",FOX SPORTS HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4065
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://img.cs10.tv/134.png" group-title="ESPORTES",FOX SPORTS SD
+http://54.39.105.110:25461/iptv56566/26257/134
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD ALT" tvg-logo="http://img.cs10.tv/134.png" group-title="ESPORTES",FOX SPORTS SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4066
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="http://img.cs10.tv/2237.png" group-title="ESPORTES",OFF FHD
+http://54.39.105.110:25461/iptv56566/26257/2237
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://img.cs10.tv/183.png" group-title="ESPORTES",OFF HD
+http://54.39.105.110:25461/iptv56566/26257/183
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD ALT" tvg-logo="http://img.cs10.tv/183.png" group-title="ESPORTES",OFF HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4080
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://img.cs10.tv/184.png" group-title="ESPORTES",OFF SD
+http://54.39.105.110:25461/iptv56566/26257/184
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD ALT" tvg-logo="http://img.cs10.tv/184.png" group-title="ESPORTES",OFF SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4081
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://img.cs10.tv/120.png" group-title="ESPORTES",SPORTV 2 FHD
+http://54.39.105.110:25461/iptv56566/26257/120
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://img.cs10.tv/121.png" group-title="ESPORTES",SPORTV 2 HD
+http://54.39.105.110:25461/iptv56566/26257/121
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD ALT" tvg-logo="http://img.cs10.tv/121.png" group-title="ESPORTES",SPORTV 2 HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4060
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://img.cs10.tv/123.png" group-title="ESPORTES",SPORTV 2 SD
+http://54.39.105.110:25461/iptv56566/26257/123
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD ALT" tvg-logo="http://img.cs10.tv/123.png" group-title="ESPORTES",SPORTV 2 SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4061
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://img.cs10.tv/124.png" group-title="ESPORTES",SPORTV 3 FHD
+http://54.39.105.110:25461/iptv56566/26257/124
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://img.cs10.tv/125.png" group-title="ESPORTES",SPORTV 3 HD
+http://54.39.105.110:25461/iptv56566/26257/125
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD ALT" tvg-logo="http://img.cs10.tv/125.png" group-title="ESPORTES",SPORTV 3 HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4062
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://img.cs10.tv/127.png" group-title="ESPORTES",SPORTV 3 SD
+http://54.39.105.110:25461/iptv56566/26257/127
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD ALT" tvg-logo="http://img.cs10.tv/127.png" group-title="ESPORTES",SPORTV 3 SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4063
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://img.cs10.tv/114.png" group-title="ESPORTES",SPORTV FHD
+http://54.39.105.110:25461/iptv56566/26257/114
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://img.cs10.tv/115.png" group-title="ESPORTES",SPORTV HD
+http://54.39.105.110:25461/iptv56566/26257/115
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD ALT" tvg-logo="http://img.cs10.tv/115.png" group-title="ESPORTES",SPORTV HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4058
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="http://img.cs10.tv/118.png" group-title="ESPORTES",SPORTV SD
+http://54.39.105.110:25461/iptv56566/26257/118
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD ALT" tvg-logo="http://img.cs10.tv/118.png" group-title="ESPORTES",SPORTV SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4059
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="http://img.cs10.tv/194.png" group-title="PREMIERE CLUBES",PREMIERE 2 FHD
+http://54.39.105.110:25461/iptv56566/26257/194
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://img.cs10.tv/195.png" group-title="PREMIERE CLUBES",PREMIERE 2 HD
+http://54.39.105.110:25461/iptv56566/26257/195
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD ALT" tvg-logo="http://img.cs10.tv/195.png" group-title="PREMIERE CLUBES",PREMIERE 2 HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4087
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://img.cs10.tv/198.png" group-title="PREMIERE CLUBES",PREMIERE 2 SD
+http://54.39.105.110:25461/iptv56566/26257/198
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD ALT" tvg-logo="http://img.cs10.tv/198.png" group-title="PREMIERE CLUBES",PREMIERE 2 SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4086
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="http://img.cs10.tv/200.png" group-title="PREMIERE CLUBES",PREMIERE 3 FHD
+http://54.39.105.110:25461/iptv56566/26257/200
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://img.cs10.tv/201.png" group-title="PREMIERE CLUBES",PREMIERE 3 HD
+http://54.39.105.110:25461/iptv56566/26257/201
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD ALT" tvg-logo="http://img.cs10.tv/203.png" group-title="PREMIERE CLUBES",PREMIERE 3 HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4089
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://img.cs10.tv/203.png" group-title="PREMIERE CLUBES",PREMIERE 3 SD
+http://54.39.105.110:25461/iptv56566/26257/203
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD ALT" tvg-logo="http://img.cs10.tv/203.png" group-title="PREMIERE CLUBES",PREMIERE 3 SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4088
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="http://img.cs10.tv/205.png" group-title="PREMIERE CLUBES",PREMIERE 4 FHD
+http://54.39.105.110:25461/iptv56566/26257/205
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://img.cs10.tv/206.png" group-title="PREMIERE CLUBES",PREMIERE 4 HD
+http://54.39.105.110:25461/iptv56566/26257/206
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD ALT" tvg-logo="http://img.cs10.tv/208.png" group-title="PREMIERE CLUBES",PREMIERE 4 HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4091
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://img.cs10.tv/208.png" group-title="PREMIERE CLUBES",PREMIERE 4 SD
+http://54.39.105.110:25461/iptv56566/26257/208
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD ALT" tvg-logo="http://img.cs10.tv/208.png" group-title="PREMIERE CLUBES",PREMIERE 4 SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4090
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="http://img.cs10.tv/209.png" group-title="PREMIERE CLUBES",PREMIERE 5 FHD
+http://54.39.105.110:25461/iptv56566/26257/209
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://img.cs10.tv/210.png" group-title="PREMIERE CLUBES",PREMIERE 5 HD
+http://54.39.105.110:25461/iptv56566/26257/210
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD ALT" tvg-logo="http://img.cs10.tv/210.png" group-title="PREMIERE CLUBES",PREMIERE 5 HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4092
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://img.cs10.tv/211.png" group-title="PREMIERE CLUBES",PREMIERE 5 SD
+http://54.39.105.110:25461/iptv56566/26257/211
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD ALT" tvg-logo="http://img.cs10.tv/210.png" group-title="PREMIERE CLUBES",PREMIERE 5 SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4093
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="http://img.cs10.tv/214.png" group-title="PREMIERE CLUBES",PREMIERE 6 FHD
+http://54.39.105.110:25461/iptv56566/26257/214
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://img.cs10.tv/215.png" group-title="PREMIERE CLUBES",PREMIERE 6 HD
+http://54.39.105.110:25461/iptv56566/26257/215
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://img.cs10.tv/216.png" group-title="PREMIERE CLUBES",PREMIERE 6 SD
+http://54.39.105.110:25461/iptv56566/26257/216
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://img.cs10.tv/219.png" group-title="PREMIERE CLUBES",PREMIERE 7 HD
+http://54.39.105.110:25461/iptv56566/26257/219
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://img.cs10.tv/220.png" group-title="PREMIERE CLUBES",PREMIERE 7 SD
+http://54.39.105.110:25461/iptv56566/26257/220
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://img.cs10.tv/188.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES FHD
+http://54.39.105.110:25461/iptv56566/26257/188
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://img.cs10.tv/188.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES FHD H265
+http://54.39.105.110:25461/iptv56566/26257/4316
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://img.cs10.tv/189.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES HD
+http://54.39.105.110:25461/iptv56566/26257/189
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD ALT" tvg-logo="http://img.cs10.tv/189.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4084
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://img.cs10.tv/192.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES SD
+http://54.39.105.110:25461/iptv56566/26257/192
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD ALT" tvg-logo="http://img.cs10.tv/192.png" group-title="PREMIERE CLUBES",PREMIERE CLUBES SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4085
+#EXTINF:-1 tvg-id="" tvg-name="TABELA CLASSIFICAÇÃO" tvg-logo="https://4.bp.blogspot.com/-1mGsGn1n9zw/W5Bmmw_9RXI/AAAAAAAAhrg/LGQbddoZAsIgBT67FXF9Qx3IkQE2swySACLcBGAs/s1600/LOGO-ICO.png" group-title="PREMIERE CLUBES",TABELA CLASSIFICAÇÃO
+http://54.39.105.110:25461/iptv56566/26257/4246
+#EXTINF:-1 tvg-id="" tvg-name="TABELA GUIA DE JOGOS" tvg-logo="https://4.bp.blogspot.com/-1mGsGn1n9zw/W5Bmmw_9RXI/AAAAAAAAhrg/LGQbddoZAsIgBT67FXF9Qx3IkQE2swySACLcBGAs/s1600/LOGO-ICO.png" group-title="PREMIERE CLUBES",TABELA GUIA DE JOGOS
+http://54.39.105.110:25461/iptv56566/26257/4245
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="http://img.cs10.tv/547.png" group-title="INFANTIL",BABY TV HD
+http://54.39.105.110:25461/iptv56566/26257/547
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="http://img.cs10.tv/546.png" group-title="INFANTIL",BABY TV SD
+http://54.39.105.110:25461/iptv56566/26257/546
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="http://img.cs10.tv/557.png" group-title="INFANTIL",BOOMERANG FHD
+http://54.39.105.110:25461/iptv56566/26257/557
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://img.cs10.tv/558.png" group-title="INFANTIL",BOOMERANG HD
+http://54.39.105.110:25461/iptv56566/26257/558
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://img.cs10.tv/561.png" group-title="INFANTIL",BOOMERANG SD
+http://54.39.105.110:25461/iptv56566/26257/561
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://img.cs10.tv/562.png" group-title="INFANTIL",CARTOON NETWORK FHD
+http://54.39.105.110:25461/iptv56566/26257/562
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://img.cs10.tv/564.png" group-title="INFANTIL",CARTOON NETWORK HD
+http://54.39.105.110:25461/iptv56566/26257/564
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://img.cs10.tv/567.png" group-title="INFANTIL",CARTOON NETWORK SD
+http://54.39.105.110:25461/iptv56566/26257/567
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://img.cs10.tv/552.png" group-title="INFANTIL",DISCOVERY KIDS FHD
+http://54.39.105.110:25461/iptv56566/26257/552
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://img.cs10.tv/553.png" group-title="INFANTIL",DISCOVERY KIDS HD
+http://54.39.105.110:25461/iptv56566/26257/553
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://img.cs10.tv/555.png" group-title="INFANTIL",DISCOVERY KIDS SD
+http://54.39.105.110:25461/iptv56566/26257/555
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://img.cs10.tv/578.png" group-title="INFANTIL",DISNEY CHANNEL FHD
+http://54.39.105.110:25461/iptv56566/26257/578
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://img.cs10.tv/579.png" group-title="INFANTIL",DISNEY CHANNEL HD
+http://54.39.105.110:25461/iptv56566/26257/579
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://img.cs10.tv/581.png" group-title="INFANTIL",DISNEY CHANNEL SD
+http://54.39.105.110:25461/iptv56566/26257/581
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="http://img.cs10.tv/583.png" group-title="INFANTIL",DISNEY JUNIOR FHD
+http://54.39.105.110:25461/iptv56566/26257/583
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://img.cs10.tv/584.png" group-title="INFANTIL",DISNEY JUNIOR HD
+http://54.39.105.110:25461/iptv56566/26257/584
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="http://img.cs10.tv/586.png" group-title="INFANTIL",DISNEY JUNIOR SD
+http://54.39.105.110:25461/iptv56566/26257/586
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="http://img.cs10.tv/587.png" group-title="INFANTIL",DISNEY XD HD
+http://54.39.105.110:25461/iptv56566/26257/587
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="http://img.cs10.tv/588.png" group-title="INFANTIL",DISNEY XD SD
+http://54.39.105.110:25461/iptv56566/26257/588
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://img.cs10.tv/537.png" group-title="INFANTIL",GLOOB FHD
+http://54.39.105.110:25461/iptv56566/26257/537
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://img.cs10.tv/538.png" group-title="INFANTIL",GLOOB HD
+http://54.39.105.110:25461/iptv56566/26257/538
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="http://img.cs10.tv/540.png" group-title="INFANTIL",GLOOB SD
+http://54.39.105.110:25461/iptv56566/26257/540
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/1/18/TV_Globinho_2014_logo.png/revision/latest?cb=20150725184425" group-title="INFANTIL",GLOOBINHO FHD
+http://54.39.105.110:25461/iptv56566/26257/4535
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/1/18/TV_Globinho_2014_logo.png/revision/latest?cb=20150725184425" group-title="INFANTIL",GLOOBINHO HD
+http://54.39.105.110:25461/iptv56566/26257/4536
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/1/18/TV_Globinho_2014_logo.png/revision/latest?cb=20150725184425" group-title="INFANTIL",GLOOBINHO SD
+http://54.39.105.110:25461/iptv56566/26257/4537
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="http://img.cs10.tv/543.png" group-title="INFANTIL",NAT GEO KIDS FHD
+http://54.39.105.110:25461/iptv56566/26257/543
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="http://img.cs10.tv/544.png" group-title="INFANTIL",NAT GEO KIDS HD
+http://54.39.105.110:25461/iptv56566/26257/544
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="http://img.cs10.tv/545.png" group-title="INFANTIL",NAT GEO KIDS SD
+http://54.39.105.110:25461/iptv56566/26257/545
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK FHD" tvg-logo="http://img.cs10.tv/575.png" group-title="INFANTIL",NICK FHD
+http://54.39.105.110:25461/iptv56566/26257/575
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="http://img.cs10.tv/576.png" group-title="INFANTIL",NICK HD
+http://54.39.105.110:25461/iptv56566/26257/576
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="http://img.cs10.tv/571.png" group-title="INFANTIL",NICK JR FHD
+http://54.39.105.110:25461/iptv56566/26257/571
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://img.cs10.tv/572.png" group-title="INFANTIL",NICK JR HD
+http://54.39.105.110:25461/iptv56566/26257/572
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="NICK JR SD" tvg-logo="http://img.cs10.tv/574.png" group-title="INFANTIL",NICK JR SD
+http://54.39.105.110:25461/iptv56566/26257/574
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK SD" tvg-logo="http://img.cs10.tv/577.png" group-title="INFANTIL",NICK SD
+http://54.39.105.110:25461/iptv56566/26257/577
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS HD" tvg-logo="http://3.bp.blogspot.com/-QHGyYMEDwFg/W51vrnqBd5I/AAAAAAAAh1Q/oVqYeA44Z7MY24Ezu3olqOGD6pvpRSEtwCLcBGAs/s1600/playkids.jpg" group-title="INFANTIL",PLAYKIDS HD
+http://54.39.105.110:25461/iptv56566/26257/4253
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS SD" tvg-logo="http://3.bp.blogspot.com/-QHGyYMEDwFg/W51vrnqBd5I/AAAAAAAAh1Q/oVqYeA44Z7MY24Ezu3olqOGD6pvpRSEtwCLcBGAs/s1600/playkids.jpg" group-title="INFANTIL",PLAYKIDS SD
+http://54.39.105.110:25461/iptv56566/26257/4254
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://img.cs10.tv/570.png" group-title="INFANTIL",TOONCAST HD
+http://54.39.105.110:25461/iptv56566/26257/570
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="http://img.cs10.tv/569.png" group-title="INFANTIL",TOONCAST SD
+http://54.39.105.110:25461/iptv56566/26257/569
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="http://img.cs10.tv/548.png" group-title="INFANTIL",TV RA TIM BUM HD
+http://54.39.105.110:25461/iptv56566/26257/548
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="http://img.cs10.tv/549.png" group-title="INFANTIL",TV RA TIM BUM SD
+http://54.39.105.110:25461/iptv56566/26257/549
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="http://img.cs10.tv/550.png" group-title="INFANTIL",ZOOMOO HD
+http://54.39.105.110:25461/iptv56566/26257/550
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://img.cs10.tv/378.png" group-title="FILMES E SERIES",A&E FHD
+http://54.39.105.110:25461/iptv56566/26257/378
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://img.cs10.tv/379.png" group-title="FILMES E SERIES",A&E HD
+http://54.39.105.110:25461/iptv56566/26257/379
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://img.cs10.tv/382.png" group-title="FILMES E SERIES",A&E SD
+http://54.39.105.110:25461/iptv56566/26257/382
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://img.cs10.tv/391.png" group-title="FILMES E SERIES",AMC FHD
+http://54.39.105.110:25461/iptv56566/26257/391
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://img.cs10.tv/392.png" group-title="FILMES E SERIES",AMC HD
+http://54.39.105.110:25461/iptv56566/26257/392
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://img.cs10.tv/395.png" group-title="FILMES E SERIES",AMC SD
+http://54.39.105.110:25461/iptv56566/26257/395
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://img.cs10.tv/397.png" group-title="FILMES E SERIES",AXN FHD
+http://54.39.105.110:25461/iptv56566/26257/397
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://img.cs10.tv/398.png" group-title="FILMES E SERIES",AXN HD
+http://54.39.105.110:25461/iptv56566/26257/398
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://img.cs10.tv/400.png" group-title="FILMES E SERIES",AXN SD
+http://54.39.105.110:25461/iptv56566/26257/400
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="http://img.cs10.tv/355.png" group-title="FILMES E SERIES",CANAL SONY FHD
+http://54.39.105.110:25461/iptv56566/26257/355
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://img.cs10.tv/356.png" group-title="FILMES E SERIES",CANAL SONY HD
+http://54.39.105.110:25461/iptv56566/26257/356
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="http://img.cs10.tv/358.png" group-title="FILMES E SERIES",CANAL SONY SD
+http://54.39.105.110:25461/iptv56566/26257/358
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://img.cs10.tv/370.png" group-title="FILMES E SERIES",CINEMAX FHD
+http://54.39.105.110:25461/iptv56566/26257/370
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://img.cs10.tv/371.png" group-title="FILMES E SERIES",CINEMAX HD
+http://54.39.105.110:25461/iptv56566/26257/371
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://img.cs10.tv/373.png" group-title="FILMES E SERIES",CINEMAX SD
+http://54.39.105.110:25461/iptv56566/26257/373
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://img.cs10.tv/387.png" group-title="FILMES E SERIES",COMEDY CENTRAL HD
+http://54.39.105.110:25461/iptv56566/26257/387
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://img.cs10.tv/389.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD
+http://54.39.105.110:25461/iptv56566/26257/389
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD" tvg-logo="http://img.cs10.tv/338.png" group-title="FILMES E SERIES",FOX FHD
+http://54.39.105.110:25461/iptv56566/26257/338
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://img.cs10.tv/340.png" group-title="FILMES E SERIES",FOX HD
+http://54.39.105.110:25461/iptv56566/26257/340
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="http://img.cs10.tv/350.png" group-title="FILMES E SERIES",FOX LIFE HD
+http://54.39.105.110:25461/iptv56566/26257/350
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="http://img.cs10.tv/351.png" group-title="FILMES E SERIES",FOX LIFE SD
+http://54.39.105.110:25461/iptv56566/26257/351
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="http://img.cs10.tv/344.png" group-title="FILMES E SERIES",FOX PREMIUM 1 FHD
+http://54.39.105.110:25461/iptv56566/26257/344
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://img.cs10.tv/345.png" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
+http://54.39.105.110:25461/iptv56566/26257/345
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 SD" tvg-logo="http://img.cs10.tv/345.png" group-title="FILMES E SERIES",FOX PREMIUM 1 SD
+http://54.39.105.110:25461/iptv56566/26257/4134
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://img.cs10.tv/347.png" group-title="FILMES E SERIES",FOX PREMIUM 2 FHD
+http://54.39.105.110:25461/iptv56566/26257/347
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://img.cs10.tv/348.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD
+http://54.39.105.110:25461/iptv56566/26257/348
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="http://img.cs10.tv/348.png" group-title="FILMES E SERIES",FOX PREMIUM 2 SD
+http://54.39.105.110:25461/iptv56566/26257/4131
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD" tvg-logo="http://img.cs10.tv/343.png" group-title="FILMES E SERIES",FOX SD
+http://54.39.105.110:25461/iptv56566/26257/343
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://img.cs10.tv/352.png" group-title="FILMES E SERIES",FX FHD
+http://54.39.105.110:25461/iptv56566/26257/352
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://img.cs10.tv/353.png" group-title="FILMES E SERIES",FX HD
+http://54.39.105.110:25461/iptv56566/26257/353
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://img.cs10.tv/354.png" group-title="FILMES E SERIES",FX SD
+http://54.39.105.110:25461/iptv56566/26257/354
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD" tvg-logo="http://img.cs10.tv/375.png" group-title="FILMES E SERIES",PARAMOUNT FHD
+http://54.39.105.110:25461/iptv56566/26257/375
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="http://img.cs10.tv/376.png" group-title="FILMES E SERIES",PARAMOUNT HD
+http://54.39.105.110:25461/iptv56566/26257/376
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="http://img.cs10.tv/377.png" group-title="FILMES E SERIES",PARAMOUNT SD
+http://54.39.105.110:25461/iptv56566/26257/377
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://img.cs10.tv/367.png" group-title="FILMES E SERIES",SPACE FHD
+http://54.39.105.110:25461/iptv56566/26257/367
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://img.cs10.tv/368.png" group-title="FILMES E SERIES",SPACE HD
+http://54.39.105.110:25461/iptv56566/26257/368
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="http://img.cs10.tv/369.png" group-title="FILMES E SERIES",SPACE SD
+http://54.39.105.110:25461/iptv56566/26257/369
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="http://img.cs10.tv/384.png" group-title="FILMES E SERIES",TBS FHD
+http://54.39.105.110:25461/iptv56566/26257/384
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://img.cs10.tv/385.png" group-title="FILMES E SERIES",TBS HD
+http://54.39.105.110:25461/iptv56566/26257/385
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="http://img.cs10.tv/386.png" group-title="FILMES E SERIES",TBS SD
+http://54.39.105.110:25461/iptv56566/26257/386
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://img.cs10.tv/402.png" group-title="FILMES E SERIES",TCM SD
+http://54.39.105.110:25461/iptv56566/26257/402
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://img.cs10.tv/360.png" group-title="FILMES E SERIES",TNT FHD
+http://54.39.105.110:25461/iptv56566/26257/360
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://img.cs10.tv/361.png" group-title="FILMES E SERIES",TNT HD
+http://54.39.105.110:25461/iptv56566/26257/361
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://img.cs10.tv/362.png" group-title="FILMES E SERIES",TNT SD
+http://54.39.105.110:25461/iptv56566/26257/362
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="http://img.cs10.tv/364.png" group-title="FILMES E SERIES",TNT SERIES FHD
+http://54.39.105.110:25461/iptv56566/26257/4132
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://img.cs10.tv/364.png" group-title="FILMES E SERIES",TNT SERIES HD
+http://54.39.105.110:25461/iptv56566/26257/364
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="http://img.cs10.tv/366.png" group-title="FILMES E SERIES",TNT SERIES SD
+http://54.39.105.110:25461/iptv56566/26257/366
+#EXTINF:-1 tvg-id="" tvg-name="TNT2 FHD" tvg-logo="https://4.bp.blogspot.com/-WZM1yRpBG6U/W61cyE4nIQI/AAAAAAAAh64/8aErFp8Uzk8tU-jo5zw6qWZT2Oo2yEygACLcBGAs/s1600/tnt2.png" group-title="FILMES E SERIES",TNT2 FHD
+http://54.39.105.110:25461/iptv56566/26257/4307
+#EXTINF:-1 tvg-id="" tvg-name="TNT2 HD" tvg-logo="https://4.bp.blogspot.com/-WZM1yRpBG6U/W61cyE4nIQI/AAAAAAAAh64/8aErFp8Uzk8tU-jo5zw6qWZT2Oo2yEygACLcBGAs/s1600/tnt2.png" group-title="FILMES E SERIES",TNT2 HD
+http://54.39.105.110:25461/iptv56566/26257/4303
+#EXTINF:-1 tvg-id="" tvg-name="TNT2 SD" tvg-logo="https://4.bp.blogspot.com/-WZM1yRpBG6U/W61cyE4nIQI/AAAAAAAAh64/8aErFp8Uzk8tU-jo5zw6qWZT2Oo2yEygACLcBGAs/s1600/tnt2.png" group-title="FILMES E SERIES",TNT2 SD
+http://54.39.105.110:25461/iptv56566/26257/4304
+#EXTINF:-1 tvg-id="" tvg-name="TNT3 FHD" tvg-logo="https://3.bp.blogspot.com/-LA5cA_QxmAo/W61cyEs8TqI/AAAAAAAAh60/GoIPqr4i2u0ve9ay9X5RuyTVxztnvCVQwCLcBGAs/s1600/tnt3.png" group-title="FILMES E SERIES",TNT3 FHD
+http://54.39.105.110:25461/iptv56566/26257/4308
+#EXTINF:-1 tvg-id="" tvg-name="TNT3 HD" tvg-logo="https://3.bp.blogspot.com/-LA5cA_QxmAo/W61cyEs8TqI/AAAAAAAAh60/GoIPqr4i2u0ve9ay9X5RuyTVxztnvCVQwCLcBGAs/s1600/tnt3.png" group-title="FILMES E SERIES",TNT3 HD
+http://54.39.105.110:25461/iptv56566/26257/4305
+#EXTINF:-1 tvg-id="" tvg-name="TNT3 SD" tvg-logo="https://3.bp.blogspot.com/-LA5cA_QxmAo/W61cyEs8TqI/AAAAAAAAh60/GoIPqr4i2u0ve9ay9X5RuyTVxztnvCVQwCLcBGAs/s1600/tnt3.png" group-title="FILMES E SERIES",TNT3 SD
+http://54.39.105.110:25461/iptv56566/26257/4306
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TV CINE 1 HD LEG PT" tvg-logo="https://4.bp.blogspot.com/-1mGsGn1n9zw/W5Bmmw_9RXI/AAAAAAAAhrg/LGQbddoZAsIgBT67FXF9Qx3IkQE2swySACLcBGAs/s1600/LOGO-ICO.png" group-title="FILMES E SERIES",TV CINE 1 HD LEG PT
+http://54.39.105.110:25461/iptv56566/26257/3285
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TV CINE 2 HD LEG PT" tvg-logo="https://4.bp.blogspot.com/-1mGsGn1n9zw/W5Bmmw_9RXI/AAAAAAAAhrg/LGQbddoZAsIgBT67FXF9Qx3IkQE2swySACLcBGAs/s1600/LOGO-ICO.png" group-title="FILMES E SERIES",TV CINE 2 HD LEG PT
+http://54.39.105.110:25461/iptv56566/26257/3284
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TV CINE 3 HD LEG PT" tvg-logo="https://4.bp.blogspot.com/-1mGsGn1n9zw/W5Bmmw_9RXI/AAAAAAAAhrg/LGQbddoZAsIgBT67FXF9Qx3IkQE2swySACLcBGAs/s1600/LOGO-ICO.png" group-title="FILMES E SERIES",TV CINE 3 HD LEG PT
+http://54.39.105.110:25461/iptv56566/26257/3283
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TV CINE 4 HD LEG PT" tvg-logo="https://4.bp.blogspot.com/-1mGsGn1n9zw/W5Bmmw_9RXI/AAAAAAAAhrg/LGQbddoZAsIgBT67FXF9Qx3IkQE2swySACLcBGAs/s1600/LOGO-ICO.png" group-title="FILMES E SERIES",TV CINE 4 HD LEG PT
+http://54.39.105.110:25461/iptv56566/26257/3282
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://img.cs10.tv/335.png" group-title="FILMES E SERIES",WARNER CHANNEL FHD
+http://54.39.105.110:25461/iptv56566/26257/4133
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://img.cs10.tv/335.png" group-title="FILMES E SERIES",WARNER CHANNEL HD
+http://54.39.105.110:25461/iptv56566/26257/335
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://img.cs10.tv/337.png" group-title="FILMES E SERIES",WARNER CHANNEL SD
+http://54.39.105.110:25461/iptv56566/26257/337
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://img.cs10.tv/289.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HD
+http://54.39.105.110:25461/iptv56566/26257/4130
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://img.cs10.tv/289.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD
+http://54.39.105.110:25461/iptv56566/26257/289
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://img.cs10.tv/269.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD
+http://54.39.105.110:25461/iptv56566/26257/269
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://img.cs10.tv/270.png" group-title="GLOBOSAT FILMES",MEGAPIX HD
+http://54.39.105.110:25461/iptv56566/26257/270
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://img.cs10.tv/273.png" group-title="GLOBOSAT FILMES",MEGAPIX SD
+http://54.39.105.110:25461/iptv56566/26257/273
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://img.cs10.tv/278.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHD
+http://54.39.105.110:25461/iptv56566/26257/278
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://img.cs10.tv/279.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HD
+http://54.39.105.110:25461/iptv56566/26257/279
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://img.cs10.tv/282.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SD
+http://54.39.105.110:25461/iptv56566/26257/282
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="http://img.cs10.tv/283.png" group-title="GLOBOSAT FILMES",SYFY FHD
+http://54.39.105.110:25461/iptv56566/26257/283
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://img.cs10.tv/284.png" group-title="GLOBOSAT FILMES",SYFY HD
+http://54.39.105.110:25461/iptv56566/26257/284
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="http://img.cs10.tv/286.png" group-title="GLOBOSAT FILMES",SYFY SD
+http://54.39.105.110:25461/iptv56566/26257/286
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://img.cs10.tv/244.png" group-title="GLOBOSAT FILMES",TELECINE ACTION FHD
+http://54.39.105.110:25461/iptv56566/26257/244
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://img.cs10.tv/245.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD
+http://54.39.105.110:25461/iptv56566/26257/245
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="http://img.cs10.tv/248.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD
+http://54.39.105.110:25461/iptv56566/26257/248
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="http://img.cs10.tv/265.png" group-title="GLOBOSAT FILMES",TELECINE CULT FHD
+http://54.39.105.110:25461/iptv56566/26257/265
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://img.cs10.tv/266.png" group-title="GLOBOSAT FILMES",TELECINE CULT HD
+http://54.39.105.110:25461/iptv56566/26257/266
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="http://img.cs10.tv/268.png" group-title="GLOBOSAT FILMES",TELECINE CULT SD
+http://54.39.105.110:25461/iptv56566/26257/268
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://img.cs10.tv/254.png" group-title="GLOBOSAT FILMES",TELECINE FUN FHD
+http://54.39.105.110:25461/iptv56566/26257/254
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://img.cs10.tv/255.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD
+http://54.39.105.110:25461/iptv56566/26257/255
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="http://img.cs10.tv/257.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD
+http://54.39.105.110:25461/iptv56566/26257/257
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://img.cs10.tv/250.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA FHD
+http://54.39.105.110:25461/iptv56566/26257/250
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://img.cs10.tv/251.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD
+http://54.39.105.110:25461/iptv56566/26257/251
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://img.cs10.tv/253.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD
+http://54.39.105.110:25461/iptv56566/26257/253
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://img.cs10.tv/237.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM FHD
+http://54.39.105.110:25461/iptv56566/26257/237
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://img.cs10.tv/238.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD
+http://54.39.105.110:25461/iptv56566/26257/238
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://img.cs10.tv/241.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD
+http://54.39.105.110:25461/iptv56566/26257/241
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://img.cs10.tv/259.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH FHD
+http://54.39.105.110:25461/iptv56566/26257/259
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://img.cs10.tv/260.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD
+http://54.39.105.110:25461/iptv56566/26257/260
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="http://img.cs10.tv/263.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD
+http://54.39.105.110:25461/iptv56566/26257/263
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://img.cs10.tv/274.png" group-title="GLOBOSAT FILMES",UNIVERSAL CHANNEL FHD
+http://54.39.105.110:25461/iptv56566/26257/274
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://img.cs10.tv/275.png" group-title="GLOBOSAT FILMES",UNIVERSAL CHANNEL HD
+http://54.39.105.110:25461/iptv56566/26257/275
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://img.cs10.tv/277.png" group-title="GLOBOSAT FILMES",UNIVERSAL CHANNEL SD
+http://54.39.105.110:25461/iptv56566/26257/277
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://img.cs10.tv/298.png" group-title="REDE HBO",HBO 2 FHD
+http://54.39.105.110:25461/iptv56566/26257/298
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://img.cs10.tv/299.png" group-title="REDE HBO",HBO 2 HD
+http://54.39.105.110:25461/iptv56566/26257/299
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://img.cs10.tv/301.png" group-title="REDE HBO",HBO 2 SD
+http://54.39.105.110:25461/iptv56566/26257/301
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://img.cs10.tv/310.png" group-title="REDE HBO",HBO FAMILY FHD
+http://54.39.105.110:25461/iptv56566/26257/310
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://img.cs10.tv/311.png" group-title="REDE HBO",HBO FAMILY HD
+http://54.39.105.110:25461/iptv56566/26257/311
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://img.cs10.tv/314.png" group-title="REDE HBO",HBO FAMILY SD
+http://54.39.105.110:25461/iptv56566/26257/314
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://img.cs10.tv/291.png" group-title="REDE HBO",HBO FHD
+http://54.39.105.110:25461/iptv56566/26257/291
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://img.cs10.tv/292.png" group-title="REDE HBO",HBO HD
+http://54.39.105.110:25461/iptv56566/26257/292
+#EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS E HD" tvg-logo="http://img.cs10.tv/3670.png" group-title="REDE HBO",HBO PLUS E HD
+http://54.39.105.110:25461/iptv56566/26257/3670
+#EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS E SD" tvg-logo="http://img.cs10.tv/3671.png" group-title="REDE HBO",HBO PLUS E SD
+http://54.39.105.110:25461/iptv56566/26257/3671
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://img.cs10.tv/303.png" group-title="REDE HBO",HBO PLUS FHD
+http://54.39.105.110:25461/iptv56566/26257/303
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://img.cs10.tv/304.png" group-title="REDE HBO",HBO PLUS HD
+http://54.39.105.110:25461/iptv56566/26257/304
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="http://img.cs10.tv/307.png" group-title="REDE HBO",HBO PLUS SD
+http://54.39.105.110:25461/iptv56566/26257/307
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://img.cs10.tv/296.png" group-title="REDE HBO",HBO SD
+http://54.39.105.110:25461/iptv56566/26257/296
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://img.cs10.tv/315.png" group-title="REDE HBO",HBO SIGNATURE FHD
+http://54.39.105.110:25461/iptv56566/26257/315
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://img.cs10.tv/316.png" group-title="REDE HBO",HBO SIGNATURE HD
+http://54.39.105.110:25461/iptv56566/26257/316
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://img.cs10.tv/319.png" group-title="REDE HBO",HBO SIGNATURE SD
+http://54.39.105.110:25461/iptv56566/26257/319
+#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX HD" tvg-logo="http://img.cs10.tv/321.png" group-title="REDE HBO",MAX HD
+http://54.39.105.110:25461/iptv56566/26257/321
+#EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="MAX PRIME E HD" tvg-logo="http://img.cs10.tv/3672.png" group-title="REDE HBO",MAX PRIME E HD
+http://54.39.105.110:25461/iptv56566/26257/3672
+#EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="MAX PRIME E SD" tvg-logo="http://img.cs10.tv/3673.png" group-title="REDE HBO",MAX PRIME E SD
+http://54.39.105.110:25461/iptv56566/26257/3673
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME FHD" tvg-logo="http://img.cs10.tv/328.png" group-title="REDE HBO",MAX PRIME FHD
+http://54.39.105.110:25461/iptv56566/26257/328
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME HD" tvg-logo="http://img.cs10.tv/329.png" group-title="REDE HBO",MAX PRIME HD
+http://54.39.105.110:25461/iptv56566/26257/329
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME SD" tvg-logo="http://img.cs10.tv/331.png" group-title="REDE HBO",MAX PRIME SD
+http://54.39.105.110:25461/iptv56566/26257/331
+#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX SD" tvg-logo="http://img.cs10.tv/323.png" group-title="REDE HBO",MAX SD
+http://54.39.105.110:25461/iptv56566/26257/323
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP FHD" tvg-logo="http://img.cs10.tv/324.png" group-title="REDE HBO",MAX UP FHD
+http://54.39.105.110:25461/iptv56566/26257/324
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP HD" tvg-logo="http://img.cs10.tv/325.png" group-title="REDE HBO",MAX UP HD
+http://54.39.105.110:25461/iptv56566/26257/325
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP SD" tvg-logo="http://img.cs10.tv/327.png" group-title="REDE HBO",MAX UP SD
+http://54.39.105.110:25461/iptv56566/26257/327
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://img.cs10.tv/289.png" group-title="GLOBOSAT FILMES",CANAL BRASIL HD
+http://54.39.105.110:25461/iptv56566/26257/4130
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://img.cs10.tv/289.png" group-title="GLOBOSAT FILMES",CANAL BRASIL SD
+http://54.39.105.110:25461/iptv56566/26257/289
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://img.cs10.tv/269.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD
+http://54.39.105.110:25461/iptv56566/26257/269
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://img.cs10.tv/270.png" group-title="GLOBOSAT FILMES",MEGAPIX HD
+http://54.39.105.110:25461/iptv56566/26257/270
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://img.cs10.tv/273.png" group-title="GLOBOSAT FILMES",MEGAPIX SD
+http://54.39.105.110:25461/iptv56566/26257/273
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://img.cs10.tv/278.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL FHD
+http://54.39.105.110:25461/iptv56566/26257/278
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://img.cs10.tv/279.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HD
+http://54.39.105.110:25461/iptv56566/26257/279
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://img.cs10.tv/282.png" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL SD
+http://54.39.105.110:25461/iptv56566/26257/282
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="http://img.cs10.tv/283.png" group-title="GLOBOSAT FILMES",SYFY FHD
+http://54.39.105.110:25461/iptv56566/26257/283
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://img.cs10.tv/284.png" group-title="GLOBOSAT FILMES",SYFY HD
+http://54.39.105.110:25461/iptv56566/26257/284
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="http://img.cs10.tv/286.png" group-title="GLOBOSAT FILMES",SYFY SD
+http://54.39.105.110:25461/iptv56566/26257/286
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://img.cs10.tv/244.png" group-title="GLOBOSAT FILMES",TELECINE ACTION FHD
+http://54.39.105.110:25461/iptv56566/26257/244
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://img.cs10.tv/245.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD
+http://54.39.105.110:25461/iptv56566/26257/245
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="http://img.cs10.tv/248.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD
+http://54.39.105.110:25461/iptv56566/26257/248
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="http://img.cs10.tv/265.png" group-title="GLOBOSAT FILMES",TELECINE CULT FHD
+http://54.39.105.110:25461/iptv56566/26257/265
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://img.cs10.tv/266.png" group-title="GLOBOSAT FILMES",TELECINE CULT HD
+http://54.39.105.110:25461/iptv56566/26257/266
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="http://img.cs10.tv/268.png" group-title="GLOBOSAT FILMES",TELECINE CULT SD
+http://54.39.105.110:25461/iptv56566/26257/268
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://img.cs10.tv/254.png" group-title="GLOBOSAT FILMES",TELECINE FUN FHD
+http://54.39.105.110:25461/iptv56566/26257/254
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://img.cs10.tv/255.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD
+http://54.39.105.110:25461/iptv56566/26257/255
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="http://img.cs10.tv/257.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD
+http://54.39.105.110:25461/iptv56566/26257/257
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://img.cs10.tv/250.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA FHD
+http://54.39.105.110:25461/iptv56566/26257/250
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://img.cs10.tv/251.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD
+http://54.39.105.110:25461/iptv56566/26257/251
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://img.cs10.tv/253.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD
+http://54.39.105.110:25461/iptv56566/26257/253
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://img.cs10.tv/237.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM FHD
+http://54.39.105.110:25461/iptv56566/26257/237
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://img.cs10.tv/238.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD
+http://54.39.105.110:25461/iptv56566/26257/238
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://img.cs10.tv/241.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD
+http://54.39.105.110:25461/iptv56566/26257/241
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://img.cs10.tv/259.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH FHD
+http://54.39.105.110:25461/iptv56566/26257/259
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://img.cs10.tv/260.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD
+http://54.39.105.110:25461/iptv56566/26257/260
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="http://img.cs10.tv/263.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD
+http://54.39.105.110:25461/iptv56566/26257/263
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://img.cs10.tv/274.png" group-title="GLOBOSAT FILMES",UNIVERSAL CHANNEL FHD
+http://54.39.105.110:25461/iptv56566/26257/274
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://img.cs10.tv/275.png" group-title="GLOBOSAT FILMES",UNIVERSAL CHANNEL HD
+http://54.39.105.110:25461/iptv56566/26257/275
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://img.cs10.tv/277.png" group-title="GLOBOSAT FILMES",UNIVERSAL CHANNEL SD
+http://54.39.105.110:25461/iptv56566/26257/277
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://img.cs10.tv/298.png" group-title="REDE HBO",HBO 2 FHD
+http://54.39.105.110:25461/iptv56566/26257/298
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://img.cs10.tv/299.png" group-title="REDE HBO",HBO 2 HD
+http://54.39.105.110:25461/iptv56566/26257/299
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://img.cs10.tv/301.png" group-title="REDE HBO",HBO 2 SD
+http://54.39.105.110:25461/iptv56566/26257/301
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://img.cs10.tv/310.png" group-title="REDE HBO",HBO FAMILY FHD
+http://54.39.105.110:25461/iptv56566/26257/310
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://img.cs10.tv/311.png" group-title="REDE HBO",HBO FAMILY HD
+http://54.39.105.110:25461/iptv56566/26257/311
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://img.cs10.tv/314.png" group-title="REDE HBO",HBO FAMILY SD
+http://54.39.105.110:25461/iptv56566/26257/314
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://img.cs10.tv/291.png" group-title="REDE HBO",HBO FHD
+http://54.39.105.110:25461/iptv56566/26257/291
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://img.cs10.tv/292.png" group-title="REDE HBO",HBO HD
+http://54.39.105.110:25461/iptv56566/26257/292
+#EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS E HD" tvg-logo="http://img.cs10.tv/3670.png" group-title="REDE HBO",HBO PLUS E HD
+http://54.39.105.110:25461/iptv56566/26257/3670
+#EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS E SD" tvg-logo="http://img.cs10.tv/3671.png" group-title="REDE HBO",HBO PLUS E SD
+http://54.39.105.110:25461/iptv56566/26257/3671
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://img.cs10.tv/303.png" group-title="REDE HBO",HBO PLUS FHD
+http://54.39.105.110:25461/iptv56566/26257/303
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://img.cs10.tv/304.png" group-title="REDE HBO",HBO PLUS HD
+http://54.39.105.110:25461/iptv56566/26257/304
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="http://img.cs10.tv/307.png" group-title="REDE HBO",HBO PLUS SD
+http://54.39.105.110:25461/iptv56566/26257/307
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://img.cs10.tv/296.png" group-title="REDE HBO",HBO SD
+http://54.39.105.110:25461/iptv56566/26257/296
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://img.cs10.tv/315.png" group-title="REDE HBO",HBO SIGNATURE FHD
+http://54.39.105.110:25461/iptv56566/26257/315
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://img.cs10.tv/316.png" group-title="REDE HBO",HBO SIGNATURE HD
+http://54.39.105.110:25461/iptv56566/26257/316
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://img.cs10.tv/319.png" group-title="REDE HBO",HBO SIGNATURE SD
+http://54.39.105.110:25461/iptv56566/26257/319
+#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX HD" tvg-logo="http://img.cs10.tv/321.png" group-title="REDE HBO",MAX HD
+http://54.39.105.110:25461/iptv56566/26257/321
+#EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="MAX PRIME E HD" tvg-logo="http://img.cs10.tv/3672.png" group-title="REDE HBO",MAX PRIME E HD
+http://54.39.105.110:25461/iptv56566/26257/3672
+#EXTINF:-1 tvg-id="Maxprimee.br" tvg-name="MAX PRIME E SD" tvg-logo="http://img.cs10.tv/3673.png" group-title="REDE HBO",MAX PRIME E SD
+http://54.39.105.110:25461/iptv56566/26257/3673
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME FHD" tvg-logo="http://img.cs10.tv/328.png" group-title="REDE HBO",MAX PRIME FHD
+http://54.39.105.110:25461/iptv56566/26257/328
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME HD" tvg-logo="http://img.cs10.tv/329.png" group-title="REDE HBO",MAX PRIME HD
+http://54.39.105.110:25461/iptv56566/26257/329
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME SD" tvg-logo="http://img.cs10.tv/331.png" group-title="REDE HBO",MAX PRIME SD
+http://54.39.105.110:25461/iptv56566/26257/331
+#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX SD" tvg-logo="http://img.cs10.tv/323.png" group-title="REDE HBO",MAX SD
+http://54.39.105.110:25461/iptv56566/26257/323
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP FHD" tvg-logo="http://img.cs10.tv/324.png" group-title="REDE HBO",MAX UP FHD
+http://54.39.105.110:25461/iptv56566/26257/324
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP HD" tvg-logo="http://img.cs10.tv/325.png" group-title="REDE HBO",MAX UP HD
+http://54.39.105.110:25461/iptv56566/26257/325
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP SD" tvg-logo="http://img.cs10.tv/327.png" group-title="REDE HBO",MAX UP SD
+http://54.39.105.110:25461/iptv56566/26257/327
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="http://img.cs10.tv/530.png" group-title="NOTICIAS",BAND NEWS FHD
+http://54.39.105.110:25461/iptv56566/26257/530
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://img.cs10.tv/531.png" group-title="NOTICIAS",BAND NEWS HD
+http://54.39.105.110:25461/iptv56566/26257/531
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD ALT" tvg-logo="http://img.cs10.tv/531.png" group-title="NOTICIAS",BAND NEWS HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4126
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="http://img.cs10.tv/532.png" group-title="NOTICIAS",BAND NEWS SD
+http://54.39.105.110:25461/iptv56566/26257/532
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD ALT" tvg-logo="http://img.cs10.tv/531.png" group-title="NOTICIAS",BAND NEWS SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4127
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="http://s.glbimg.com/jo/g1/f/original/2010/10/14/globonewslogo.jpg" group-title="NOTICIAS",GLOBO NEWS FHD
+http://54.39.105.110:25461/iptv56566/26257/525
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://s.glbimg.com/jo/g1/f/original/2010/10/14/globonewslogo.jpg" group-title="NOTICIAS",GLOBO NEWS HD
+http://54.39.105.110:25461/iptv56566/26257/526
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD ALT" tvg-logo="http://s.glbimg.com/jo/g1/f/original/2010/10/14/globonewslogo.jpg" group-title="NOTICIAS",GLOBO NEWS HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4124
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="http://s.glbimg.com/jo/g1/f/original/2010/10/14/globonewslogo.jpg" group-title="NOTICIAS",GLOBO NEWS SD
+http://54.39.105.110:25461/iptv56566/26257/528
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD ALT" tvg-logo="http://s.glbimg.com/jo/g1/f/original/2010/10/14/globonewslogo.jpg" group-title="NOTICIAS",GLOBO NEWS SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4125
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="http://img.cs10.tv/533.png" group-title="NOTICIAS",RECORD NEWS FHD
+http://54.39.105.110:25461/iptv56566/26257/533
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="http://img.cs10.tv/534.png" group-title="NOTICIAS",RECORD NEWS HD
+http://54.39.105.110:25461/iptv56566/26257/534
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD ALT" tvg-logo="http://img.cs10.tv/534.png" group-title="NOTICIAS",RECORD NEWS HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4128
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="http://img.cs10.tv/536.png" group-title="NOTICIAS",RECORD NEWS SD
+http://54.39.105.110:25461/iptv56566/26257/536
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD ALT" tvg-logo="http://img.cs10.tv/534.png" group-title="NOTICIAS",RECORD NEWS SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4129
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA HD" tvg-logo="http://img.cs10.tv/590.png" group-title="RELIGIOSO",CANCAO NOVA HD
+http://54.39.105.110:25461/iptv56566/26257/590
+#EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="CANCAO NOVA SD" tvg-logo="http://img.cs10.tv/591.png" group-title="RELIGIOSO",CANCAO NOVA SD
+http://54.39.105.110:25461/iptv56566/26257/591
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES TELEVISION SD" tvg-logo="http://img.cs10.tv/598.png" group-title="RELIGIOSO",GOSPEL MOVIES TELEVISION SD
+http://54.39.105.110:25461/iptv56566/26257/598
+#EXTINF:-1 tvg-id="" tvg-name="IGREJA MUNDIAL DO PODER DE DEUS" tvg-logo="http://img.cs10.tv/599.png" group-title="RELIGIOSO",IGREJA MUNDIAL DO PODER DE DEUS
+http://54.39.105.110:25461/iptv56566/26257/599
+#EXTINF:-1 tvg-id="RedeSuperdeTelevisao.br" tvg-name="REDE SUPER SD" tvg-logo="http://images.mi.tv/channels/br_rede-super-canal-23_m.png" group-title="RELIGIOSO",REDE SUPER SD
+http://54.39.105.110:25461/iptv56566/26257/4037
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA" tvg-logo="http://img.cs10.tv/593.png" group-title="RELIGIOSO",REDE VIDA
+http://54.39.105.110:25461/iptv56566/26257/593
+#EXTINF:-1 tvg-id="" tvg-name="SECULO 21 SD" tvg-logo="http://img.cs10.tv/2227.jpg" group-title="RELIGIOSO",SECULO 21 SD
+http://54.39.105.110:25461/iptv56566/26257/2227
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="http://img.cs10.tv/594.png" group-title="RELIGIOSO",TV APARECIDA HD
+http://54.39.105.110:25461/iptv56566/26257/594
+#EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-name="TV EVANGELIZAR SD" tvg-logo="http://img.cs10.tv/592.png" group-title="RELIGIOSO",TV EVANGELIZAR SD
+http://54.39.105.110:25461/iptv56566/26257/592
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES SD" tvg-logo="http://img.comunidades.net/wil/williamsouza/gideoes.png" group-title="RELIGIOSO",TV GIDEOES SD
+http://54.39.105.110:25461/iptv56566/26257/3823
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="http://img.cs10.tv/596.png" group-title="RELIGIOSO",TV NOVO TEMPO SD
+http://54.39.105.110:25461/iptv56566/26257/596
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT HD" tvg-logo="http://img.cs10.tv/431.png" group-title="VARIEDADES",+GLOBOSAT HD
+http://54.39.105.110:25461/iptv56566/26257/431
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT HD ALT" tvg-logo="http://img.cs10.tv/431.png" group-title="VARIEDADES",+GLOBOSAT HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4104
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT SD" tvg-logo="http://img.cs10.tv/433.png" group-title="VARIEDADES",+GLOBOSAT SD
+http://54.39.105.110:25461/iptv56566/26257/433
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://img.cs10.tv/404.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH FHD
+http://54.39.105.110:25461/iptv56566/26257/404
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://img.cs10.tv/405.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH HD
+http://54.39.105.110:25461/iptv56566/26257/405
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD ALT" tvg-logo="http://img.cs10.tv/405.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4106
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://img.cs10.tv/408.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH SD
+http://54.39.105.110:25461/iptv56566/26257/408
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD ALT" tvg-logo="http://img.cs10.tv/405.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4107
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://img.cs10.tv/411.png" group-title="VARIEDADES",DISCOVERY TURBO FHD
+http://54.39.105.110:25461/iptv56566/26257/411
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://img.cs10.tv/413.png" group-title="VARIEDADES",DISCOVERY TURBO HD
+http://54.39.105.110:25461/iptv56566/26257/413
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD ALT" tvg-logo="http://img.cs10.tv/413.png" group-title="VARIEDADES",DISCOVERY TURBO HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4108
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://img.cs10.tv/415.png" group-title="VARIEDADES",DISCOVERY TURBO SD
+http://54.39.105.110:25461/iptv56566/26257/415
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD ALT" tvg-logo="http://img.cs10.tv/413.png" group-title="VARIEDADES",DISCOVERY TURBO SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4109
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://img.cs10.tv/441.png" group-title="VARIEDADES",E! FHD
+http://54.39.105.110:25461/iptv56566/26257/441
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://img.cs10.tv/442.png" group-title="VARIEDADES",E! HD
+http://54.39.105.110:25461/iptv56566/26257/442
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD ALT" tvg-logo="http://img.cs10.tv/442.png" group-title="VARIEDADES",E! HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4120
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://img.cs10.tv/444.png" group-title="VARIEDADES",E! SD
+http://54.39.105.110:25461/iptv56566/26257/444
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD ALT" tvg-logo="http://img.cs10.tv/442.png" group-title="VARIEDADES",E! SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4121
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="http://new.lamac.org/system/channels/logos/000/000/084/original/pic_film_arts.png" group-title="VARIEDADES",FILM & ARTS
+http://54.39.105.110:25461/iptv56566/26257/4298
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="http://img.cs10.tv/445.png" group-title="VARIEDADES",FOOD NETWORK FHD
+http://54.39.105.110:25461/iptv56566/26257/445
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://img.cs10.tv/446.png" group-title="VARIEDADES",FOOD NETWORK HD
+http://54.39.105.110:25461/iptv56566/26257/446
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD ALT" tvg-logo="http://img.cs10.tv/446.png" group-title="VARIEDADES",FOOD NETWORK HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4122
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://img.cs10.tv/447.png" group-title="VARIEDADES",FOOD NETWORK SD
+http://54.39.105.110:25461/iptv56566/26257/447
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD ALT" tvg-logo="http://img.cs10.tv/446.png" group-title="VARIEDADES",FOOD NETWORK SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4123
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="http://img.cs10.tv/2509.png" group-title="VARIEDADES",GNT FHD
+http://54.39.105.110:25461/iptv56566/26257/2509
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://img.cs10.tv/2509.png" group-title="VARIEDADES",GNT HD
+http://54.39.105.110:25461/iptv56566/26257/426
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD ALT" tvg-logo="http://img.cs10.tv/2509.png" group-title="VARIEDADES",GNT HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4114
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://img.cs10.tv/2509.png" group-title="VARIEDADES",GNT SD
+http://54.39.105.110:25461/iptv56566/26257/429
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD ALT" tvg-logo="http://img.cs10.tv/2509.png" group-title="VARIEDADES",GNT SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4115
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://img.cs10.tv/438.png" group-title="VARIEDADES",LIFETIME HD
+http://54.39.105.110:25461/iptv56566/26257/438
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD ALT" tvg-logo="http://img.cs10.tv/438.png" group-title="VARIEDADES",LIFETIME HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4118
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="http://img.cs10.tv/440.png" group-title="VARIEDADES",LIFETIME SD
+http://54.39.105.110:25461/iptv56566/26257/440
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD ALT" tvg-logo="http://img.cs10.tv/438.png" group-title="VARIEDADES",LIFETIME SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4119
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV EN HD" tvg-logo="http://img.cs10.tv/2228.jpg" group-title="VARIEDADES",RED BULL TV EN HD
+http://54.39.105.110:25461/iptv56566/26257/2228
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="http://img.cs10.tv/416.png" group-title="VARIEDADES",TLC FHD
+http://54.39.105.110:25461/iptv56566/26257/416
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://img.cs10.tv/417.png" group-title="VARIEDADES",TLC HD
+http://54.39.105.110:25461/iptv56566/26257/417
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD ALT" tvg-logo="http://img.cs10.tv/417.png" group-title="VARIEDADES",TLC HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4110
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://img.cs10.tv/420.png" group-title="VARIEDADES",TLC SD
+http://54.39.105.110:25461/iptv56566/26257/420
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD ALT" tvg-logo="http://img.cs10.tv/417.png" group-title="VARIEDADES",TLC SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4111
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV HD" tvg-logo="http://img.cs10.tv/451.png" group-title="VARIEDADES",TRUTV HD
+http://54.39.105.110:25461/iptv56566/26257/4103
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV SD" tvg-logo="http://img.cs10.tv/451.png" group-title="VARIEDADES",TRUTV SD
+http://54.39.105.110:25461/iptv56566/26257/451
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://img.cs10.tv/422.png" group-title="VARIEDADES",VIVA HD
+http://54.39.105.110:25461/iptv56566/26257/422
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD ALT" tvg-logo="http://img.cs10.tv/422.png" group-title="VARIEDADES",VIVA HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4112
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://img.cs10.tv/424.png" group-title="VARIEDADES",VIVA SD
+http://54.39.105.110:25461/iptv56566/26257/424
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD ALT" tvg-logo="http://img.cs10.tv/422.png" group-title="VARIEDADES",VIVA SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4113
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://img.cs10.tv/435.png" group-title="VARIEDADES",WOOHOO HD
+http://54.39.105.110:25461/iptv56566/26257/435
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD ALT" tvg-logo="http://img.cs10.tv/435.png" group-title="VARIEDADES",WOOHOO HD ALT
+http://54.39.105.110:25461/iptv56566/26257/4116
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="http://img.cs10.tv/436.png" group-title="VARIEDADES",WOOHOO SD
+http://54.39.105.110:25461/iptv56566/26257/436
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD ALT" tvg-logo="http://img.cs10.tv/435.png" group-title="VARIEDADES",WOOHOO SD ALT
+http://54.39.105.110:25461/iptv56566/26257/4117
