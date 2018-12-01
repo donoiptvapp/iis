@@ -1,177 +1,162 @@
 #EXTM3U
 #EXTINF:0,A Atencao estamos em manutencao
 #EXTVLCOPT:network-caching=1000
-https://github.com/donoiptvapp/iis/blob/master/Atencao%20estamos%20%20em%20manutencao%20no%20canal.ts?raw=true 
-EXTINF:0,A Atencao estamos em manutencao
-#EXTM3U
- #EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo SP
+#EXTVLCOPT:network-caching=1000
+https://github.com/donoiptvapp/iis/blob/master/Atencao%20estamos%20%20em%20manutencao%20no%20canal.ts?raw=true%20
+#EXTINF:0,Globo SP
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GloboSP/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo RJ
+#EXTINF:0,Globo RJ
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GloboRJ/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo Nordeste
+#EXTINF:0,Globo Nordeste
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GloboNordeste/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo DF
+#EXTINF:0,Globo DF
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/BRASILIA/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo Goiania
+#EXTINF:0,Globo Goiania
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GLOBOGOIANIA/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo RN
+#EXTINF:0,Globo RN
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GLOBORN/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo Campinas
+#EXTINF:0,Globo Campinas
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GLOBOCAMPINAS/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo S\u00e3o Carlos
+#EXTINF:0,Globo S\u00e3o Carlos
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GLOBOS/u00c3OCARLOS/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo MG
+#EXTINF:0,Globo MG
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GLOBOMG/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo RBS7
+#EXTINF:0,Globo RBS7
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GLOBORBS/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo Belem
+#EXTINF:0,Globo Belem
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GLOBOBELEM/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo Tribuna
+#EXTINF:0,Globo Tribuna
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GLOBOTRIBUNA/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo Anhanguera
+#EXTINF:0,Globo Anhanguera
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/GLOBOARANGUERA/mpegts?token=6BmI9mnOg2
-
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",TV Gazeta SP HD
+#EXTINF:0,TV Gazeta SP HD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/TVGAZETA/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",SBT SP
+#EXTINF:0,SBT SP
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/SBTSP/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",SBT PE
+#EXTINF:0,SBT PE
+#EXTVLCOPT:network-caching=1000
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",SBT Nordeste
+#EXTINF:0,SBT Nordeste
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/SBTNORDESTE/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Band SP
+#EXTINF:0,Band SP
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/BandSP/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Band Nordeste
+#EXTINF:0,Band Nordeste
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/BANDNORDESTEHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Rede Brasil
+#EXTINF:0,Rede Brasil
+#EXTVLCOPT:network-caching=1000
 http://goldiptv.ml:8081/live/dyego/dyegoapp/122.m3u8
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",TV Cultura
+#EXTINF:0,TV Cultura
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/TVCULTURA/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",TV Cultura MG
+#EXTINF:0,TV Cultura MG
+#EXTVLCOPT:network-caching=1000
 https://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",TV Cultura PA
+#EXTINF:0,TV Cultura PA
+#EXTVLCOPT:network-caching=1000
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",TV Futura RJ
+#EXTINF:0,TV Futura RJ
+#EXTVLCOPT:network-caching=1000
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Record 
+#EXTINF:0,Record 
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/RECORDNORDESTEHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Rede TV SP
+#EXTINF:0,Rede TV SP
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/REDETVHD/mpegts?token=6BmI9mnOg2
- 
- 
-#EXTINF:-1, ========== FILMES =================
- 
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Filmes",MAXPRIME HD
+#EXTINF:0,MAXPRIME HD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/MAXPRIMEHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Filmes",AXN HD
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/AXNHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Filmes",TNT SERIES HD
+#EXTINF:0,TNT SERIES HD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/TNTSERIESHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Filmes",AMC HD
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/AMCHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Filmes",CINEMAX HD
+#EXTINF:0,CINEMAX HD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/CINEMAXHD/mpegts?token=6BmI9mnOg2
- 
- 
-#EXTINF:-1, ========== SPORTES =================
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="SPORTES",Combate
+#EXTINF:0,Combate
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/Combate/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="SPORTES",ESPN
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/ESPN/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="SPORTES",ESPN Brasil
+#EXTINF:0,ESPN Brasil
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/ESPNBrasil/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="SPORTES",Fox Sports 2
+#EXTINF:0,Fox Sports 2
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/FoxSports2/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="SPORTES",Fox Sports
+#EXTINF:0,Fox Sports
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/FoxSports/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="SPORTES",SporTV
+#EXTINF:0,SporTV
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/SporTV/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="SPORTES",SporTV 2
+#EXTINF:0,SporTV 2
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/SporTV2/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="SPORTES",SporTV 37
+#EXTINF:0,SporTV 37
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/SporTV3/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1, ========== infantil ===============================================
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="infantil",Nickelodeon HD
+#EXTINF:0,Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/NickelodeonHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="infantil",Tooncast
+#EXTINF:0,Tooncast
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/TooncastHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="infantil",Boomerang
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/BoomerangHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="infantil",Disney Jr
+#EXTINF:0,Disney Jr
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/DisneyJrHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="infantil",Nick Jr HD
+#EXTINF:0,Nick Jr HD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/NickJrHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="infantil",Disney XD
+#EXTINF:0,Disney XD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/DisneyXDHD/mpegts?token=6BmI9mnOg2
- 
- 
- 
-#EXTINF:-1, ======== Documentarios =====================
- 
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Documentarios",Animal Planet
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/AnimalPlanetHD/mpegts?token=6BmI9mnOg2
- 
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Documentarios",Nat Geo Wild
+#EXTINF:0,Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/NatGeoWildHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Documentarios",History
+#EXTINF:0,History
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/HistoryHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Documentarios",National Geographic HD
+#EXTINF:0,National Geographic HD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/NationalGeographicHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Documentarios",Discovery Turbo HD
+#EXTINF:0,Discovery Turbo HD
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/DiscoveryTurboHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Documentarios",Discovery Channel
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/DiscoveryChannelHD/mpegts?token=6BmI9mnOg2
- 
-#EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Documentarios",Discovery H&H
+#EXTINF:0,Discovery H&H
+#EXTVLCOPT:network-caching=1000
 http://51.68.152.224:8080/DiscoveryH&H/mpegts?token=6BmI9mnOg2
- 
+
