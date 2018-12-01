@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:0,A Atencao estamos em manutencao
 #EXTVLCOPT:network-caching=1000
-https://github.com/donoiptvapp/iis/blob/master/Atencao%20estamos%20em%20manutencao%20no%20canal.mp4?raw=trueEXTINF:0,A Atencao estamos em manutencao
+https://github.com/donoiptvapp/iis/blob/master/Atencao%20estamos%20%20em%20manutencao%20no%20canal.ts?raw=true 
+EXTINF:0,A Atencao estamos em manutencao
 #EXTM3U
  #EXTINF:-1 tvg-logo="https://imgur.com/55PxC0W.png" group-title="Canais Abertos",Globo SP
 http://51.68.152.224:8080/GloboSP/mpegts?token=6BmI9mnOg2
