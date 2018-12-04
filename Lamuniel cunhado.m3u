@@ -3,6 +3,8 @@
 ------------------------------------------------------------
 # # # [ Playlist Temporária ] # # # 
 # # # [ Última Atualização 30/11/18 ] # # # 
+#EXTINF:-1 tvg-id="Atencao estamos em manutencao MEGA TVHD FILME" tvg-name="Atencao estamos em manutencao MEGA TVHD FILME" tvg-logo="https://raw.githubusercontent.com/donoiptvapp/iis/master/LOGO.png" group-title="CANAIS MEGA TVHD FILME",Atencao estamos em manutencao MEGA TVHD FILME
+https://github.com/donoiptvapp/iis/blob/master/Atencao%20estamos%20%20em%20manutencao%20no%20canal.ts?raw=true
 #EXTINF:0 tvg-logo="IMG" group-title="Owari no Seraph", [SD] 01
 http://ns538261.ip-144-217-70.net/tres/Owari_no_Seraph_01.mp4
 #EXTINF:0 tvg-logo="IMG" group-title="Owari no Seraph", [SD] 02
