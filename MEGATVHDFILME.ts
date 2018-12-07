@@ -1,8 +1,3 @@
-# # # [ AVISO IMPORTANTE ] # # # 
-# # # [ Por Favor Não Divulgue ou Compartilhe essa playlist com ninguém ] # # # 
-------------------------------------------------------------
-# # # [ Playlist BRUNO È GAY MESMO BOIOLA ] # # # 
-# # # [ Última Atualização 07/12/18 ] # # # 
 #EXTM3U
 #EXTINF:0 tvg-id="Globorj.br" group-title="REDE GLOBO",GLOBO RJ HD
 https://github.com/donoiptvapp/iis/blob/master/bruno.mp4?raw=truehttp://cdn.xtv.digital:8880/live/ALEX10/iBRXt5a8gK/175.ts
@@ -1170,4 +1165,3 @@ https://github.com/donoiptvapp/iis/blob/master/bruno.mp4?raw=truehttp://cdn.xtv.
 https://github.com/donoiptvapp/iis/blob/master/bruno.mp4?raw=truehttp://cdn.xtv.digital:8880/live/ALEX10/iBRXt5a8gK/409.ts
 #EXTINF:0 tvg-id="ext" group-title="RELIGIOSO",TV GIDEÕES HD
 https://github.com/donoiptvapp/iis/blob/master/bruno.mp4?raw=truehttp://cdn.xtv.digital:8880/live/ALEX10/iBRXt5a8gK/352.ts
-##
